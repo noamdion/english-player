@@ -1,6 +1,20 @@
-C:\Github\english-player\course_generator_gui.py
-*_step1.json
-*_step2.json
-*_step3.json
-course_generator_gui.py
-file_cleaner_gui.py
+# Python 脚本（工具类，不需要上传）
+*.py
+*.pyc
+
+# 备份和临时文件
+*_step*.json
+*副本*.json
+*.bak
+
+# 本地音频/字幕/笔记（已托管到 R2）
+the_magic_of_think_big/
+audiobooks/
+
+# 其他临时文件
+.DS_Store
+Thumbs.db
+#其它程序,和临时程序
+english-player\courses - 副本.json
+english-player\course_generator_gui.py
+english-player\file_cleaner_gui.py

@@ -334,18 +334,40 @@ function renderCourseList() {
     });
 }
 
+// ===== 智能拼接函数 =====
+function getFullUrl(folder, filename) {
+    if (folder.startsWith('http')) {
+        return folder + '/' + filename;
+    } else {
+        return basePath + folder + '/' + filename;
+    }
+}
+
+// ===== 打开课程 =====
 async function openCourse(course) {
     currentCourseName.textContent = course.name;
     courseListPage.style.display = 'none';
     playerPage.classList.add('active');
-    const folder = course.folder + '/';
-    audio.src = basePath + folder + course.mp3;
+
+    // 使用智能拼接获取完整 URL
+    const audioUrl = getFullUrl(course.folder, course.mp3);
+    const srtUrl   = getFullUrl(course.folder, course.srt);
+    const jsonUrl  = getFullUrl(course.folder, course.json);
+
+    // 设置音频源
+    audio.src = audioUrl;
+
+    // 加载字幕
     let srtText = '';
-    try { const r = await fetch(basePath + folder + course.srt); srtText = await r.text(); }
+    try { const r = await fetch(srtUrl); srtText = await r.text(); }
     catch (e) { alert('SRT loading failed'); return; }
+
+    // 加载笔记
     let jsonData = {};
-    try { const r = await fetch(basePath + folder + course.json); jsonData = await r.json(); }
+    try { const r = await fetch(jsonUrl); jsonData = await r.json(); }
     catch (e) { alert('JSON loading failed'); return; }
+
+    // 解析字幕
     subs = parseSRT(srtText);
     const keys = Object.keys(jsonData);
     keys.forEach((key) => {
@@ -357,12 +379,18 @@ async function openCourse(course) {
             subs[idx].remarks = note.remarks || note.remark || '';
         }
     });
+
+    // 恢复句子启用状态
     const saved = localStorage.getItem('english_player_enabled');
     if (saved) { try { enabled = JSON.parse(saved); } catch(e) { enabled = {}; } } else { enabled = {}; }
     subs.forEach((_, i) => { if (enabled[i] === undefined) enabled[i] = true; });
+
+    // 重置循环设置
     sentenceLoopRemaining = sentenceLoopCount;
     trackLoopRemaining = trackLoopCount;
     collapseState = { b1: false, cn: false, ai: false, ai_cn: false };
+
+    // 自动播放第一句
     playIdx(0, true);
 }
 
@@ -451,7 +479,6 @@ function findNextEnabled(from) {
     return -1;
 }
 
-// ===== 按钮事件 =====
 btnPlay.addEventListener('click', () => {
     if (isPlaying) { audio.pause(); isPlaying = false; btnPlay.textContent = '▶'; }
     else { if (currentIdx < 0) playIdx(0, true); else { audio.play(); isPlaying = true; btnPlay.textContent = '⏸'; } }
@@ -459,25 +486,21 @@ btnPlay.addEventListener('click', () => {
 document.getElementById('btnPrev').addEventListener('click', () => { playIdx(Math.max(0, currentIdx - 1), true); });
 document.getElementById('btnNext').addEventListener('click', () => { playIdx(Math.min(subs.length - 1, currentIdx + 1), true); });
 
-// ===== 下拉框事件（保存到 localStorage） =====
 selSpeed.addEventListener('change', () => {
     audio.playbackRate = parseFloat(selSpeed.value);
     localStorage.setItem('player_speed', selSpeed.value);
 });
-
 selSentenceLoop.addEventListener('change', () => {
     sentenceLoopCount = parseInt(selSentenceLoop.value);
     sentenceLoopRemaining = sentenceLoopCount;
     localStorage.setItem('player_sentence_loop', selSentenceLoop.value);
 });
-
 selTrackLoop.addEventListener('change', () => {
     trackLoopCount = parseInt(selTrackLoop.value);
     trackLoopRemaining = trackLoopCount;
     localStorage.setItem('player_track_loop', selTrackLoop.value);
 });
 
-// ===== 音频事件 =====
 audio.addEventListener('timeupdate', () => {
     const t = audio.currentTime;
     if (audio.duration) { progressFill.style.width = (t / audio.duration * 100) + '%'; }

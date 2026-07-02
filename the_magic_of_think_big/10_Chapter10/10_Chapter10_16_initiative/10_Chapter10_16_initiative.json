@@ -1,10 +1,106 @@
 {
   "0": {
-    "original": "Joe Salesman, Joe Executive, Joe Professional Worker, Josephine Housewife. 2 00:00:05,920 --> 00:00:10,931 They all often try to build strength and get ready with office chats, 3 00:00:10,960 --> 00:00:18,051 coffee breaks, sharpening pencils, reading, personal business, getting the desk cleared off, TV, 4 00:00:18,080 --> 00:00:20,931 and dozens of other little escape devices. 5 00:00:21,841 --> 00:00:24,051 But there's a way to break this habit. 6 00:00:24,160 --> 00:00:28,451 Tell yourself, I'm in condition right now to begin. 7 00:00:28,640 --> 00:00:31,091 I can't gain a thing by putting it off. 8 00:00:31,361 --> 00:00:36,130 I'll use the get ready time and energy to get going instead. 9 00:00:37,440 --> 00:00:46,451 What we want more than anything else in our business, an executive in a machine tool company said in an address to a group of sales executives, 10 00:00:46,720 --> 00:00:51,011 is more people who get sound ideas and then push them through. 11 00:00:51,361 --> 00:00:57,331 There's not one job in our production and marketing setup that can't be done better, a lot better. 12 00:00:57,520 --> 00:01:00,770 I don't want to infer that we're not doing a good job now. 13 00:01:00,880 --> 00:01:01,571 We are.",
-    "b1": "Whether you are a salesperson, an executive, a professional, or a homemaker, you often waste time preparing to work. You might chat, drink coffee, sharpen pencils, read, do personal tasks, clean your desk, or watch TV to avoid starting. These are just ways to escape work. However, you can stop this habit. Tell yourself: 'I am ready to start now. I gain nothing by waiting.' Use that time and energy to actually begin your work. An executive once told a group that they need people who have good ideas and follow through with them. He said every job in their company could be done much better. He did not mean they are doing a bad job; they are actually doing well.",
-    "cn": "无论你是销售员、主管、专业人士还是家庭主妇，你经常会花时间为工作做准备。你可能会通过聊天、喝咖啡、削铅笔、阅读、处理私事、清理桌面或看电视来逃避开始工作。这些只是逃避工作的手段。然而，你可以改掉这个习惯。告诉自己：“我现在就准备好开始了。拖延对我没有任何好处。”把准备的时间和精力直接投入到工作中去。一位高管曾对一群销售主管说，他们最需要的是那些有好的想法并能将其付诸实践的人。他说，公司生产和营销中的每一项工作都可以做得更好，甚至好得多。他并不是说他们现在做得不好，事实上他们做得不错。",
-    "ai_notes": "'Joe Salesman, Joe Executive': a way of using a common name to represent any person in a specific role.\n'escape devices': activities used to avoid doing something difficult or important.\n'break this habit': to stop doing something that you do regularly.\n'putting it off': delaying or waiting to do something until a later time.\n'get going': to start doing something or to begin moving.\n'push them through': to complete a task or make sure an idea is actually finished and implemented.\n'production and marketing setup': the way a company organizes its manufacturing and selling processes.\n'infer': to suggest or imply something indirectly.",
-    "remarks": "'Joe Salesman, Joe Executive': 用一个普通的名字来代表特定职位的任何人。\n'escape devices': 用来逃避做困难或重要事情的活动。\n'break this habit': 改掉某种经常做的习惯。\n'putting it off': 推迟或等待以后再做某事。\n'get going': 开始做某事或开始行动。\n'push them through': 完成一项任务，或确保一个想法真正被执行和落实。\n'production and marketing setup': 公司组织其制造和销售流程的方式。\n'infer': 间接地暗示或推断出某事。",
+    "original": "Joe Salesman, Joe Executive, Joe Professional Worker, Josephine Housewife.",
+    "b1": "Whether you are a salesperson, an executive, a professional, or a housewife.",
+    "cn": "无论是销售员、高管、专业人士，还是家庭主妇。",
+    "ai_notes": "'Joe [Name]': a common way to refer to an average or typical person in American English.",
+    "remarks": "'Joe [Name]': 美国英语中指代普通人或典型人物的常用方式。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "They all often try to build strength and get ready with office chats,",
+    "b1": "They often try to prepare themselves by chatting at the office,",
+    "cn": "他们经常试图通过办公室闲聊来做准备，",
+    "ai_notes": "'build strength': in this context, it means to mentally prepare or gather the motivation to start a task.",
+    "remarks": "'build strength': 在此语境下，指心理准备或积攒动力以开始一项任务。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "coffee breaks, sharpening pencils, reading, personal business, getting the desk cleared off, TV,",
+    "b1": "taking coffee breaks, sharpening pencils, reading, doing personal tasks, cleaning their desks, or watching TV,",
+    "cn": "喝咖啡、削铅笔、阅读、处理私事、整理桌面或看电视，",
+    "ai_notes": "'getting the desk cleared off': a common form of procrastination where people organize their workspace to avoid starting actual work.",
+    "remarks": "'getting the desk cleared off': 一种常见的拖延行为，即通过整理工作空间来逃避开始实际工作。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "and dozens of other little escape devices.",
+    "b1": "and using many other small ways to avoid work.",
+    "cn": "以及使用许多其他的小借口来逃避工作。",
+    "ai_notes": "'escape devices': small, often trivial activities used as excuses to avoid doing difficult or important work.",
+    "remarks": "'escape devices': 指为了逃避困难或重要工作而找借口进行的琐碎活动。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "But there's a way to break this habit.",
+    "b1": "But you can stop this habit.",
+    "cn": "但你可以改掉这个习惯。",
+    "ai_notes": "'break this habit': to stop doing something that you have done repeatedly for a long time.",
+    "remarks": "'break this habit': 改掉长期以来反复做的某件事。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "Tell yourself, I'm in condition right now to begin.",
+    "b1": "Tell yourself: I am ready to start right now.",
+    "cn": "告诉自己：我现在就准备好开始了。",
+    "ai_notes": "'in condition': being mentally or physically prepared and ready to perform a task.",
+    "remarks": "'in condition': 心理或生理上已准备好并处于执行任务的状态。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "I can't gain a thing by putting it off.",
+    "b1": "I will not get any benefit from waiting.",
+    "cn": "拖延对我没有任何好处。",
+    "ai_notes": "'gain a thing': to get any benefit or advantage.\n'putting it off': a phrasal verb meaning to delay or postpone doing something.",
+    "remarks": "'gain a thing': 获得任何好处或优势。\n'putting it off': 一个短语动词，意为拖延或推迟做某事。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "I'll use the get ready time and energy to get going instead.",
+    "b1": "I will use my time and energy to start working instead of preparing.",
+    "cn": "我要把准备的时间和精力直接用来开始工作。",
+    "ai_notes": "'get going': a phrasal verb meaning to start or begin an activity.",
+    "remarks": "'get going': 一个短语动词，意为开始或着手进行某项活动。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "What we want more than anything else in our business, an executive in a machine tool company said in an address to a group of sales executives,",
+    "b1": "",
+    "cn": "一家机床公司的高管在对一群销售主管演讲时说：",
+    "ai_notes": "'machine tool company': a business that manufactures the machines used to make other metal parts.\n'address': a formal speech given to a group of people.",
+    "remarks": "'machine tool company': 制造用于生产其他金属零件的机器的企业。\n'address': 对一群人发表的正式演讲。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "is more people who get sound ideas and then push them through.",
+    "b1": "What we need most is people who have good ideas and then make them happen.",
+    "cn": "我们最需要的是那些能产生好想法并将其付诸实施的人。",
+    "ai_notes": "'sound ideas': ideas that are logical, reliable, and based on good judgment.\n'push them through': to make sure a plan or idea is completed or successfully implemented despite difficulties.",
+    "remarks": "'sound ideas': 符合逻辑、可靠且基于良好判断的想法。\n'push them through': 确保计划或想法尽管有困难也能完成或成功实施。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "There's not one job in our production and marketing setup that can't be done better, a lot better.",
+    "b1": "Every job in our company can be done much better.",
+    "cn": "我们公司生产和营销中的每一项工作都可以做得更好，好得多。",
+    "ai_notes": "'production and marketing setup': the overall structure or system of how a company creates and sells its products.",
+    "remarks": "'production and marketing setup': 公司如何制造和销售产品的整体结构或系统。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "I don't want to infer that we're not doing a good job now.",
+    "b1": "I do not mean that we are not doing a good job now.",
+    "cn": "我并不是说我们现在做得不好。",
+    "ai_notes": "'infer': to reach a conclusion based on evidence; here, the speaker uses it to mean 'imply' or 'suggest'.",
+    "remarks": "'infer': 根据证据得出结论；此处说话者用它来表示“暗示”或“建议”。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "We are.",
+    "b1": "We are doing well.",
+    "cn": "我们做得很好。",
+    "ai_notes": "'We are': a short, emphatic way of saying 'We are doing a good job' by repeating the verb from the previous sentence.",
+    "remarks": "'We are': 通过重复前一句中的动词，简短而强调地表达“我们做得很好”。",
     "play_count": 0
   }
 }

@@ -1,10 +1,114 @@
 {
   "0": {
-    "original": "Most important of all, he gives himself an opportunity to show he has special ability and ambition by volunteering. 2 00:00:08,000 --> 00:00:12,211 By all means, volunteer for those special assignments. 3 00:00:14,000 --> 00:00:18,851 Think about the leaders you know in business, the military, your community. 4 00:00:19,040 --> 00:00:24,851 Do they fit the description of activationists, or would you say they are passivationists? 5 00:00:25,760 --> 00:00:30,530 Ten times out of ten, they're activationists, people who do things. 6 00:00:30,800 --> 00:00:36,291 The fellow who stands on the sidelines, who holds off, who is passive, does not lead. 7 00:00:36,480 --> 00:00:41,811 But the doer, the fellow who thinks action, finds others want to follow him. 8 00:00:42,560 --> 00:00:45,891 People place confidence in the fellow who acts. 9 00:00:46,080 --> 00:00:49,170 They naturally assume he knows what he is doing. 10 00:00:49,840 --> 00:00:55,411 I've never heard anyone complimented and praised because he doesn't disturb anyone, 11 00:00:55,520 --> 00:01:00,451 he doesn't take action, or he waits until he's told what to do. 12 00:01:00,800 --> 00:01:01,731 Have you? 13 00:01:04,000 --> 00:01:06,130 Grow the action habit. 14 00:01:06,320 --> 00:01:08,371 Practice these key points.",
-    "b1": "Most importantly, volunteering gives him a chance to show his special skills and ambition. You should definitely volunteer for special tasks. Think about the leaders you know in business, the military, or your community. Are they people who take action, or are they passive? They are always people who take action and get things done. Someone who stays on the sidelines and does nothing will not be a leader. But the person who takes action will find that others want to follow him. People trust someone who acts. They naturally believe he knows what he is doing. I have never heard anyone praised for not bothering others, not taking action, or waiting to be told what to do. Have you? Develop the habit of taking action. Practice these key points.",
-    "cn": "最重要的是，通过志愿服务，他有机会展示自己的特殊能力和抱负。一定要积极争取那些特殊的任务。想想你认识的商业、军队或社区里的领导者。他们是积极行动的人，还是消极被动的人？毫无疑问，他们都是积极行动、做事果断的人。站在一旁、犹豫不决、被动等待的人是无法成为领导者的。而那些实干家、那些主动思考并采取行动的人，会发现别人愿意追随他们。人们信任那些敢于行动的人。他们会自然而然地认为这样的人知道自己在做什么。我从未听说过有人因为不打扰别人、不采取行动或总是等着别人下指令而受到称赞。你听说过吗？养成行动的习惯。练习这些关键点。",
-    "ai_notes": "'Most important of all': a phrase used to introduce the most significant point in a list or argument.\n'By all means': a way to say 'definitely' or 'please do' when giving permission or encouragement.\n'activationists': a term created by the speaker to describe people who take initiative and get things done.\n'passivationists': a term created by the speaker to describe people who are passive and avoid taking action.\n'Ten times out of ten': an idiom meaning 'always' or 'without exception'.\n'stands on the sidelines': an idiom meaning to watch an event without participating or getting involved.\n'holds off': a phrasal verb meaning to delay or wait before doing something.\n'doer': a person who acts rather than just talking or thinking.\n'place confidence in': a formal way of saying 'to trust' someone.\n'Grow the action habit': an imperative phrase meaning to develop a consistent behavior of taking initiative.",
-    "remarks": "'Most important of all': 用来引出列表或论点中最重要的一点。\n'By all means': 表示“当然可以”或“请务必”，用于给予许可或鼓励。\n'activationists': 演讲者创造的词，指那些主动采取行动并把事情做成的人。\n'passivationists': 演讲者创造的词，指那些消极被动、避免采取行动的人。\n'Ten times out of ten': 习语，意为“总是”或“无一例外”。\n'stands on the sidelines': 习语，意为旁观而不参与或不介入。\n'holds off': 短语动词，意为推迟或等待后再做某事。\n'doer': 指那些付诸行动而非仅仅空谈或思考的人。\n'place confidence in': “信任”某人的正式表达方式。\n'Grow the action habit': 祈使短语，意为养成持续采取主动的习惯。",
+    "original": "Most important of all, he gives himself an opportunity to show he has special ability and ambition by volunteering.",
+    "b1": "Most importantly, volunteering gives him a chance to show his talent and ambition.",
+    "cn": "最重要的是，他通过志愿服务，让自己有机会展现出特殊的能力和抱负。",
+    "ai_notes": "'Most important of all': a phrase used to introduce the most significant point in a list or argument.\n'volunteering': the act of offering to do something, especially work, without being forced or paid.",
+    "remarks": "'Most important of all': 用来引出列表或论点中最重要的一点。\n'volunteering': 主动提出做某事，特别是不受强迫或没有报酬的工作。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "By all means, volunteer for those special assignments.",
+    "b1": "You should definitely volunteer for those special tasks.",
+    "cn": "无论如何，一定要主动承担那些特殊的任务。",
+    "ai_notes": "'By all means': a strong way to say 'definitely' or 'certainly' when giving permission or encouragement.\n'special assignments': specific tasks or projects given to someone, often outside of their regular duties.",
+    "remarks": "'By all means': 在给予许可或鼓励时，表示“当然”或“务必”的强烈说法。\n'special assignments': 分配给某人的特定任务或项目，通常在常规职责之外。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "Think about the leaders you know in business, the military, your community.",
+    "b1": "Think about the leaders you know in business, the army, or your community.",
+    "cn": "想一想你在商业、军队或社区中认识的那些领导者。",
+    "ai_notes": "'the military': the armed forces of a country, such as the army, navy, or air force.\n'community': the group of people living in the same place or having a shared interest.",
+    "remarks": "'the military': 一个国家的武装力量，如陆军、海军或空军。\n'community': 生活在同一地方或有共同兴趣的一群人。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Do they fit the description of activationists, or would you say they are passivationists?",
+    "b1": "Are they active people who take charge, or are they passive people who wait?",
+    "cn": "他们符合“行动派”的描述，还是你会说他们是“被动派”？",
+    "ai_notes": "'activationists': a term created here to describe people who take initiative and start things.\n'passivationists': a term created here to describe people who are passive and wait for others to act.",
+    "remarks": "'activationists': 此处创造的术语，指那些采取主动并开启事物的人。\n'passivationists': 此处创造的术语，指那些被动等待他人行动的人。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Ten times out of ten, they're activationists, people who do things.",
+    "b1": "Almost always, they are active people who get things done.",
+    "cn": "十有八九，他们都是行动派，是那些真正做事的人。",
+    "ai_notes": "'Ten times out of ten': an idiom meaning 'always' or 'every single time'.",
+    "remarks": "'Ten times out of ten': 习语，意为“总是”或“每一次”。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "The fellow who stands on the sidelines, who holds off, who is passive, does not lead.",
+    "b1": "The person who stays on the side, waits, and is passive, does not become a leader.",
+    "cn": "那个站在一旁、犹豫不决、被动消极的人，是无法成为领导者的。",
+    "ai_notes": "'stands on the sidelines': an idiom from sports meaning to watch without participating or getting involved.\n'holds off': to delay or wait before doing something.",
+    "remarks": "'stands on the sidelines': 源自体育的习语，意为袖手旁观，不参与。\n'holds off': 推迟或等待后再做某事。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "But the doer, the fellow who thinks action, finds others want to follow him.",
+    "b1": "But the person who takes action finds that others want to follow him.",
+    "cn": "但那个实干家，那个思考如何行动的人，会发现别人愿意追随他。",
+    "ai_notes": "'the doer': a person who gets things done rather than just talking or planning.\n'thinks action': a way of saying someone has a mindset focused on doing things rather than just thinking.",
+    "remarks": "'the doer': 指那些把事情做成，而不是只说不练的人。\n'thinks action': 一种说法，指某人拥有专注于行动而非仅仅思考的心态。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "People place confidence in the fellow who acts.",
+    "b1": "People trust the person who takes action.",
+    "cn": "人们信任那些付诸行动的人。",
+    "ai_notes": "'place confidence in': to trust someone or believe in their ability to do something well.",
+    "remarks": "'place confidence in': 信任某人，或相信某人有能力做好某事。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "They naturally assume he knows what he is doing.",
+    "b1": "They naturally believe that he knows what he is doing.",
+    "cn": "他们会自然而然地认为他知道自己在做什么。",
+    "ai_notes": "'naturally assume': to believe something is true without needing proof because it seems like the logical result.",
+    "remarks": "'naturally assume': 因为看起来是合乎逻辑的结果，所以无需证明就相信某事是真的。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "I've never heard anyone complimented and praised because he doesn't disturb anyone,",
+    "b1": "I have never heard anyone get praised for not bothering anyone,",
+    "cn": "我从未听说过有人因为不打扰别人而受到赞美，",
+    "ai_notes": "'complimented and praised': two words with similar meanings used together to emphasize that someone is receiving positive feedback.",
+    "remarks": "'complimented and praised': 两个意思相近的词连用，强调某人正在受到积极的反馈。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "he doesn't take action, or he waits until he's told what to do.",
+    "b1": "or for not taking action, or for waiting to be told what to do.",
+    "cn": "或者因为不采取行动、或者等着别人告诉他该做什么而受到表扬。",
+    "ai_notes": "'take action': to do something to achieve a goal or solve a problem.\n'told what to do': a passive state where someone waits for instructions from others instead of deciding for themselves.",
+    "remarks": "'take action': 为实现目标或解决问题而采取行动。\n'told what to do': 一种被动状态，指某人等待他人的指示，而不是自己做决定。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "Have you?",
+    "b1": "Have you?",
+    "cn": "你听说过吗？",
+    "ai_notes": "'Have you?': a short question used to ask the listener if they have had the same experience as the speaker.",
+    "remarks": "'Have you?': 一个简短的反问句，用来询问听者是否有过与说话者相同的经历。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "Grow the action habit.",
+    "b1": "Develop the habit of taking action.",
+    "cn": "培养行动的习惯。",
+    "ai_notes": "'Grow': in this context, it means to develop or build a habit over time.",
+    "remarks": "'Grow': 在此语境下，指随着时间推移发展或养成某种习惯。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "Practice these key points.",
+    "b1": "Practice these important points.",
+    "cn": "练习这些关键点。",
+    "ai_notes": "'key points': the most important ideas or pieces of information in a discussion.",
+    "remarks": "'key points': 讨论中最核心的思想或信息。",
     "play_count": 0
   }
 }

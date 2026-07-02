@@ -1,10 +1,274 @@
 {
   "0": {
-    "original": "YJM lives in a new home. 2 00:00:03,921 --> 00:00:09,411 In every big decision, the mind battles with itself, to act or not to act, 3 00:00:09,521 --> 00:00:11,411 to do or not to do. 4 00:00:12,000 --> 00:00:16,771 Here's how one young fellow elected to act and reaped big rewards. 5 00:00:17,601 --> 00:00:21,970 J.M.'s situation is similar to that of a million other young men. 6 00:00:22,081 --> 00:00:27,731 He is in his twenties, has a wife and child, and still has only a modest income. 7 00:00:28,161 --> 00:00:31,330 Mr. and Mrs. J.M. lived in a small apartment. 8 00:00:31,441 --> 00:00:33,330 Both wanted a new home. 9 00:00:33,521 --> 00:00:39,330 They wanted the advantage of more space, cleaner surroundings, a place for the youngster to play, 10 00:00:39,361 --> 00:00:42,690 and a chance to build up equity in their own property. 11 00:00:43,121 --> 00:00:47,090 But there was a hitch to buying a new home, the down payment. 12 00:00:47,361 --> 00:00:53,651 One day, as J.M. was writing next month's rent check, he became very disgusted with himself. 13 00:00:54,001 --> 00:00:59,330 He observed that the rent payment was as much as monthly payments on a new home. 14 00:00:59,921 --> 00:01:05,090 J.M. called his wife and said, How would you like to buy a new home next week? 15 00:01:05,361 --> 00:01:06,690 What's got into you? 16 00:01:06,721 --> 00:01:07,491 she asked. 17 00:01:07,681 --> 00:01:09,011 Why make jokes? 18 00:01:09,041 --> 00:01:10,210 You know we can't. 19 00:01:10,321 --> 00:01:13,171 We haven't even got the money for the down payment. 20 00:01:13,521 --> 00:01:15,570 but J.M. was determined. 21 00:01:15,841 --> 00:01:21,251 There are hundreds of thousands of couples like us who are going to buy a new home someday, 22 00:01:21,361 --> 00:01:23,570 but only about half of them ever do. 23 00:01:23,841 --> 00:01:26,131 Something always comes up to stop them. 24 00:01:26,401 --> 00:01:28,210 We're going to buy a home. 25 00:01:28,481 --> 00:01:32,450 I don't know yet how we'll raise the down payment, but we will. 26 00:01:33,121 --> 00:01:41,491 Well, the next week, they found a house they both liked, quite unpretentious but nice, for $1,200 down. 27 00:01:41,841 --> 00:01:46,690 Now, the obstacle was to find a way to raise $1,200. 28 00:01:46,881 --> 00:01:55,330 J.M. knew he couldn't borrow it through the usual channels, for this would encumber his credit so that he couldn't get a mortgage for the sale price. 29 00:01:55,921 --> 00:01:58,531 Where there's a will, there's always a way. 30 00:01:58,641 --> 00:02:01,411 Suddenly, J.M. got a brainstorm. 31 00:02:01,681 --> 00:02:07,810 Why not contact the builder and work out a private loan arrangement for $1,200? 32 00:02:07,921 --> 00:02:09,731 This J.M. did. 33 00:02:10,081 --> 00:02:15,011 At first, the builder was cold to the idea, but J.M. persisted. 34 00:02:15,201 --> 00:02:15,665 Finally, it was agreed.",
-    "b1": "J.M. lives in a new home.",
+    "original": "YJM lives in a new home.",
+    "b1": "J.M. lives in a new house.",
     "cn": "J.M.住进了一个新家。",
-    "ai_notes": "'battles with itself': refers to the internal struggle or hesitation when making a difficult choice.\n'young fellow': a friendly or informal way to refer to a young man.\n'reaped big rewards': to gain significant benefits or success as a result of one's actions.\n'modest income': earning a salary that is enough for basic needs but not very high.\n'equity': the value of a property that the owner truly owns after subtracting any mortgage debt.\n'hitch': a minor problem or unexpected difficulty that causes a delay.\n'down payment': an initial payment made when buying something expensive on credit, like a house.\n'disgusted with himself': feeling very unhappy or annoyed with one's own situation or behavior.\n'What's got into you?': an idiom used to ask why someone is acting strangely or unexpectedly.\n'comes up': refers to an event or problem that happens suddenly and unexpectedly.\n'unpretentious': simple, modest, and not trying to look more expensive or important than it really is.\n'encumber': to burden or restrict someone, making it difficult for them to do something else.\n'Where there's a will, there's a way': a famous proverb meaning that if you are determined enough, you can find a way to achieve your goal.\n'brainstorm': a sudden, clever idea or a moment of creative thinking.\n'cold to the idea': to show no interest or enthusiasm for a suggestion.",
-    "remarks": "'battles with itself': 指在做困难选择时的内心挣扎或犹豫。\n'young fellow': 对年轻男性的友好或非正式称呼。\n'reaped big rewards': 因某人的行为而获得巨大的利益或成功。\n'modest income': 收入仅够基本需求，不算很高。\n'equity': 房产扣除抵押贷款后，业主真正拥有的价值。\n'hitch': 导致延误的小问题或意外困难。\n'down payment': 购买昂贵物品（如房产）时支付的首付款。\n'disgusted with himself': 对自己的处境或行为感到非常不快或厌烦。\n'What's got into you?': 用于询问某人为何表现得奇怪或反常的习语。\n'comes up': 指突然且意外发生的事件或问题。\n'unpretentious': 朴实、谦逊，不刻意显得昂贵或重要。\n'encumber': 给某人造成负担或限制，使其难以做其他事。\n'Where there's a will, there's a way': 一句名言，意为只要有足够的决心，就能找到实现目标的方法。\n'brainstorm': 突然产生的聪明点子或创造性思维时刻。\n'cold to the idea': 对某项建议表现出没有兴趣或热情。",
+    "ai_notes": "'YJM': a name or initials used to represent a specific person in a story.",
+    "remarks": "'YJM': 用于代表故事中特定人物的名字或首字母缩写。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "In every big decision, the mind battles with itself, to act or not to act,",
+    "b1": "When making big decisions, people often struggle with whether to take action or not.",
+    "cn": "在做重大决定时，人们内心常会纠结是否要采取行动。",
+    "ai_notes": "'battles with itself': a metaphor for feeling conflicted or having an internal argument.",
+    "remarks": "'battles with itself': 比喻内心冲突或进行自我争论。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "to do or not to do.",
+    "b1": "Whether to do something or not.",
+    "cn": "是做还是不做。",
+    "ai_notes": "'to do or not to do': a common way to express the struggle of making a choice, often referencing the famous line from Shakespeare's Hamlet.",
+    "remarks": "'to do or not to do': 表达做选择时挣扎的常用方式，常引用莎士比亚《哈姆雷特》中的名句。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Here's how one young fellow elected to act and reaped big rewards.",
+    "b1": "Here is how a young man decided to act and achieved great results.",
+    "cn": "这是一个年轻人决定采取行动并获得巨大回报的故事。",
+    "ai_notes": "'young fellow': an informal, friendly way to refer to a young man.\n'reaped big rewards': to receive significant benefits as a result of one's hard work or actions.",
+    "remarks": "'young fellow': 非正式且友好的方式来称呼年轻人。\n'reaped big rewards': 因努力工作或行动而获得巨大收益。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "J.M.'s situation is similar to that of a million other young men.",
+    "b1": "J.M.'s situation is like that of many other young men.",
+    "cn": "J.M.的情况和许多其他年轻人很像。",
+    "ai_notes": "'that of': a formal way to compare two things to avoid repeating a noun, meaning 'the situation of'.",
+    "remarks": "'that of': 一种正式的比较方式，用于避免重复名词，意为“……的情况”。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "He is in his twenties, has a wife and child, and still has only a modest income.",
+    "b1": "He is in his twenties, has a wife and a child, and earns a small salary.",
+    "cn": "他二十多岁，有妻子和孩子，收入并不高。",
+    "ai_notes": "'in his twenties': referring to the age range between 20 and 29.\n'modest income': a polite way of saying someone does not earn much money.",
+    "remarks": "'in his twenties': 指20到29岁之间的年龄段。\n'modest income': 委婉地表示某人收入不高。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "Mr. and Mrs. J.M. lived in a small apartment.",
+    "b1": "Mr. and Mrs. J.M. lived in a small apartment.",
+    "cn": "J.M.夫妇住在一间小公寓里。",
+    "ai_notes": "'Mr. and Mrs.': a traditional title used for a married couple.",
+    "remarks": "'Mr. and Mrs.': 用于已婚夫妇的传统称呼。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "Both wanted a new home.",
+    "b1": "They both wanted a new home.",
+    "cn": "他们俩都想要一个新家。",
+    "ai_notes": "'Both': refers to two people mentioned previously.",
+    "remarks": "'Both': 指代前面提到的两个人。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "They wanted the advantage of more space, cleaner surroundings, a place for the youngster to play,",
+    "b1": "They wanted more space, a cleaner area, and a place for their child to play.",
+    "cn": "他们想要更大的空间、更干净的环境，以及给孩子玩耍的地方。",
+    "ai_notes": "'youngster': a casual term for a child.",
+    "remarks": "'youngster': 对小孩的非正式称呼。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "and a chance to build up equity in their own property.",
+    "b1": "They also wanted to own their own property.",
+    "cn": "他们还想拥有属于自己的房产。",
+    "ai_notes": "'build up equity': to increase the value of one's ownership in a property as the mortgage is paid off.",
+    "remarks": "'build up equity': 随着抵押贷款的偿还，增加个人在房产中拥有的价值份额。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "But there was a hitch to buying a new home, the down payment.",
+    "b1": "But there was a problem with buying a home: the down payment.",
+    "cn": "但买房有个难题：首付款。",
+    "ai_notes": "'hitch': an informal word for a small problem or unexpected obstacle.\n'down payment': the initial amount of money paid when buying something expensive, like a house, with the rest paid over time.",
+    "remarks": "'hitch': 非正式用语，指小问题或意外障碍。\n'down payment': 购买昂贵物品（如房屋）时支付的首付款，其余部分分期支付。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "One day, as J.M. was writing next month's rent check, he became very disgusted with himself.",
+    "b1": "One day, while writing a check for the rent, J.M. felt very unhappy with himself.",
+    "cn": "有一天，当J.M.在写下个月的房租支票时，他对自己感到非常不满。",
+    "ai_notes": "'disgusted with himself': feeling very unhappy or frustrated with one's own situation or choices.",
+    "remarks": "'disgusted with himself': 对自己的处境或选择感到非常不快或沮丧。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "He observed that the rent payment was as much as monthly payments on a new home.",
+    "b1": "He realized that his rent was as expensive as a monthly mortgage payment for a new home.",
+    "cn": "他发现房租竟然和买新房的月供一样多。",
+    "ai_notes": "'monthly payments': the regular amount paid to a bank for a home loan, often called a mortgage.",
+    "remarks": "'monthly payments': 定期支付给银行的房屋贷款，通常称为抵押贷款。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "J.M. called his wife and said, How would you like to buy a new home next week?",
+    "b1": "J.M. asked his wife if she would like to buy a new home next week.",
+    "cn": "J.M.问妻子下周想不想买一套新房。",
+    "ai_notes": "'How would you like to...': a polite way to suggest an idea or make a proposal.",
+    "remarks": "'How would you like to...': 提出建议或提议的礼貌方式。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "What's got into you?",
+    "b1": "What is wrong with you?",
+    "cn": "你怎么了？",
+    "ai_notes": "'What's got into you?': an idiom used to ask why someone is acting strangely or unexpectedly.",
+    "remarks": "'What's got into you?': 习语，用于询问某人为什么表现得反常或出人意料。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "she asked.",
+    "b1": "she asked.",
+    "cn": "她问道。",
+    "ai_notes": "'she asked': a simple tag used to identify the speaker.",
+    "remarks": "'she asked': 用于标识说话者的简单标签。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Why make jokes?",
+    "b1": "Why are you joking?",
+    "cn": "为什么要开玩笑？",
+    "ai_notes": "'Why make jokes?': a way of saying 'Why are you saying things that aren't serious?'",
+    "remarks": "'Why make jokes?': 意为“你为什么说些不严肃的话？”",
+    "play_count": 0
+  },
+  "17": {
+    "original": "You know we can't.",
+    "b1": "You know we cannot afford it.",
+    "cn": "你知道我们买不起。",
+    "ai_notes": "'You know we can't': an implied meaning that they do not have the financial ability to do it.",
+    "remarks": "'You know we can't': 暗示他们没有经济能力去做这件事。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "We haven't even got the money for the down payment.",
+    "b1": "We do not even have the money for the down payment.",
+    "cn": "我们连首付款都没有。",
+    "ai_notes": "'haven't even got': a common informal way to say 'do not have'.",
+    "remarks": "'haven't even got': “没有”的常见非正式表达。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "but J.M. was determined.",
+    "b1": "But J.M. was determined.",
+    "cn": "但J.M.下定了决心。",
+    "ai_notes": "'determined': having a strong feeling that you are going to do something and will not let anything stop you.",
+    "remarks": "'determined': 意志坚定，决心做某事且不让任何事物阻挡。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "There are hundreds of thousands of couples like us who are going to buy a new home someday,",
+    "b1": "Many couples like us want to buy a home someday.",
+    "cn": "像我们这样的夫妻有很多，都希望有一天能买房。",
+    "ai_notes": "'someday': a time in the future that is not yet decided.",
+    "remarks": "'someday': 未来某个尚未确定的时间。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "but only about half of them ever do.",
+    "b1": "But only about half of them actually do it.",
+    "cn": "但只有大约一半的人真正做到了。",
+    "ai_notes": "'ever do': used here to emphasize that only half actually complete the action.",
+    "remarks": "'ever do': 在此处用于强调只有一半人真正完成了该动作。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "Something always comes up to stop them.",
+    "b1": "Something always happens to stop them.",
+    "cn": "总会有各种事情阻碍他们。",
+    "ai_notes": "'comes up': a phrasal verb meaning to happen unexpectedly.",
+    "remarks": "'comes up': 短语动词，意为意外发生。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "We're going to buy a home.",
+    "b1": "We are going to buy a home.",
+    "cn": "我们一定要买房。",
+    "ai_notes": "'We're going to': a strong expression of intent or a firm plan.",
+    "remarks": "'We're going to': 表达强烈意图或坚定计划的说法。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "I don't know yet how we'll raise the down payment, but we will.",
+    "b1": "I do not know how we will get the down payment yet, but we will.",
+    "cn": "我虽然还不知道怎么筹到首付，但我们一定能做到。",
+    "ai_notes": "'raise': in this context, it means to collect or gather a specific amount of money.",
+    "remarks": "'raise': 在此语境下，意为筹集或收集特定金额的钱。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "Well, the next week, they found a house they both liked, quite unpretentious but nice, for $1,200 down.",
+    "b1": "The next week, they found a simple but nice house that required a $1,200 down payment.",
+    "cn": "接下来的一周，他们找到了一栋简单但不错的房子，首付需要1200美元。",
+    "ai_notes": "'unpretentious': simple and modest, not trying to look expensive or fancy.",
+    "remarks": "'unpretentious': 简单朴素，不刻意追求奢华或显眼。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "Now, the obstacle was to find a way to raise $1,200.",
+    "b1": "Now, the challenge was to find the $1,200.",
+    "cn": "现在，难题是如何筹到这1200美元。",
+    "ai_notes": "'obstacle': a difficulty or barrier that prevents progress.",
+    "remarks": "'obstacle': 阻碍进展的困难或障碍。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "J.M. knew he couldn't borrow it through the usual channels, for this would encumber his credit so that he couldn't get a mortgage for the sale price.",
+    "b1": "J.M. knew he could not borrow the money from a bank because it would hurt his credit for the mortgage.",
+    "cn": "J.M.知道他不能通过常规渠道借钱，因为这会影响他的信用，导致无法申请房贷。",
+    "ai_notes": "'usual channels': the standard or normal ways of doing something, such as getting a bank loan.\n'encumber': to burden or restrict something, in this case, his financial reputation.",
+    "remarks": "'usual channels': 做事的标准或正常途径，例如申请银行贷款。\n'encumber': 拖累或限制某事物，此处指限制他的财务信誉。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "Where there's a will, there's always a way.",
+    "b1": "Where there is a will, there is a way.",
+    "cn": "有志者事竟成。",
+    "ai_notes": "'Where there's a will, there's a way': a famous proverb meaning that if you are determined enough, you can find a way to achieve your goal.",
+    "remarks": "'Where there's a will, there's a way': 著名谚语，意为有志者事竟成。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "Suddenly, J.M. got a brainstorm.",
+    "b1": "Suddenly, J.M. had a great idea.",
+    "cn": "突然，J.M.想到了一个好主意。",
+    "ai_notes": "'brainstorm': a sudden good idea or a moment of creative thinking.",
+    "remarks": "'brainstorm': 突然产生的好主意或创造性思维的时刻。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "Why not contact the builder and work out a private loan arrangement for $1,200?",
+    "b1": "Why not ask the builder for a private loan of $1,200?",
+    "cn": "为什么不找建筑商商量，看能不能借到1200美元的私人贷款？",
+    "ai_notes": "'work out': to find a solution or reach an agreement through discussion.",
+    "remarks": "'work out': 通过讨论找到解决方案或达成一致。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "This J.M. did.",
+    "b1": "J.M. did exactly that.",
+    "cn": "J.M.就这么做了。",
+    "ai_notes": "'This J.M. did': a formal way to confirm that the person followed through on the plan.",
+    "remarks": "'This J.M. did': 确认某人确实执行了计划的正式说法。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "At first, the builder was cold to the idea, but J.M. persisted.",
+    "b1": "At first, the builder did not like the idea, but J.M. did not give up.",
+    "cn": "起初，建筑商对这个想法不感兴趣，但J.M.坚持不懈。",
+    "ai_notes": "'cold to the idea': an idiom meaning someone is not interested or is unenthusiastic about a suggestion.\n'persisted': to continue doing something even though it is difficult or others are against it.",
+    "remarks": "'cold to the idea': 习语，指某人对建议不感兴趣或不热情。\n'persisted': 坚持做某事，即使过程困难或遭到他人反对。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "Finally, it was agreed.",
+    "b1": "Finally, they reached an agreement.",
+    "cn": "最终，他们达成了一致。",
+    "ai_notes": "'it was agreed': a passive way to say that both parties reached a mutual decision.",
+    "remarks": "'it was agreed': 表示双方达成共同决定的被动表达方式。",
     "play_count": 0
   }
 }

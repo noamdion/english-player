@@ -1,10 +1,226 @@
 {
   "0": {
-    "original": "But like all progressive companies, we need new products, new markets, new and more efficient ways of doing things. 2 00:00:07,760 --> 00:00:10,210 We depend on people with initiative. 3 00:00:10,401 --> 00:00:13,171 They're the ball carriers on our team. 4 00:00:14,160 --> 00:00:16,931 Initiative is a special kind of action. 5 00:00:17,120 --> 00:00:21,011 It's doing something worthwhile without being told to do it. 6 00:00:21,361 --> 00:00:29,250 The person with initiative has a standing invitation to join the high-income brackets in every business and profession. 7 00:00:29,921 --> 00:00:38,850 The Director of Marketing Research in a medium-sized drug manufacturing firm told me how he got to be a Director of Marketing Research. 8 00:00:38,960 --> 00:00:41,891 It's a good lesson in the power of initiative. 9 00:00:42,560 --> 00:00:45,730 Five years ago, I got an idea, he told me. 10 00:00:45,921 --> 00:00:50,770 I was working then as a sort of missionary salesman, calling on wholesalers. 11 00:00:50,960 --> 00:00:57,330 I discovered that one thing we lacked was facts about the consumers we wanted to buy our drug line. 12 00:00:57,600 --> 00:01:01,330 I talked about the need for market research to everyone here. 13 00:01:01,680 --> 00:01:06,691 At first, I got only deaf ears because management couldn't see the need for it. 14 00:01:07,200 --> 00:01:11,810 I was pretty much obsessed with the idea of marketing research in our company, 15 00:01:12,000 --> 00:01:14,531 so I sort of took the bull by the horns. 16 00:01:14,720 --> 00:01:20,531 I asked and got permission to prepare a monthly report on facts of drug marketing. 17 00:01:20,720 --> 00:01:24,210 I collected information from every source I could find. 18 00:01:24,401 --> 00:01:32,451 I kept on with this, and pretty soon management and the other salesmen found themselves really interested in what I was doing. 19 00:01:32,720 --> 00:01:42,611 Just one year after I started crusading for research, I was relieved of my regular duties and asked to concentrate on developing my ideas. 20 00:01:43,361 --> 00:01:47,171 The rest, he continued, was just natural development. 21 00:01:47,361 --> 00:01:54,611 Now I've got two assistants, a secretary, and about three times the yearly income I had five years ago. 22 00:01:56,080 --> 00:02:01,091 Here are two special exercises for developing the initiative habit. 23 00:02:01,091 --> 00:02:02,691 1. 24 00:02:02,881 --> 00:02:04,370 Be a Crusader. 25 00:02:04,480 --> 00:02:09,330 When you see something that you believe ought to be done, pick up the ball and run. 26 00:02:09,921 --> 00:02:17,651 A new subdivision not far from where I live was about two-thirds built when expansion came almost to a standstill. 27 00:02:17,921 --> 00:02:21,730 A few families with a don't-care attitude had moved in. 28 00:02:22,080 --> 00:02:27,546 This prompted several of the finest families in the area to sell their homes at a loss and move on.",
-    "b1": "But like all growing companies, we need new products, new markets, and better ways to work.",
-    "cn": "但像所有不断进步的公司一样，我们需要新产品、新市场以及更高效的工作方式。",
-    "ai_notes": "'progressive': describing a company that is modern, forward-thinking, and always looking for ways to improve.\n'initiative': the ability to assess and start things independently without needing to be told what to do.\n'ball carriers': a metaphor from American football, referring to people who take responsibility and move a project forward.\n'worthwhile': something that is important or useful enough to spend time and effort on.\n'high-income brackets': the group of people who earn the highest salaries in a society.\n'missionary salesman': a salesperson who promotes a product or idea to create demand rather than just taking orders.\n'calling on': a professional way to say visiting clients or customers to sell products.\n'drug line': a specific collection or series of pharmaceutical products sold by a company.\n'deaf ears': an idiom meaning people are ignoring your suggestions or refusing to listen.\n'took the bull by the horns': an idiom meaning to deal with a difficult situation directly and with confidence.\n'crusading': fighting strongly and with great passion for a cause or a change you believe in.\n'relieved of': to be officially freed from a previous job or responsibility.\n'subdivision': a piece of land divided into smaller lots for building houses.\n'standstill': a situation where all activity or progress has completely stopped.\n'don't-care attitude': a lack of interest or responsibility regarding the state of one's environment or community.\n'at a loss': selling something for less money than you originally paid for it.",
-    "remarks": "'progressive': 形容一家公司现代、有前瞻性，并不断寻求改进。\n'initiative': 指无需他人告知，能够独立评估并开展工作的能力。\n'ball carriers': 源自美式橄榄球的隐喻，指那些承担责任并推动项目前进的人。\n'worthwhile': 值得花时间和精力去做的事。\n'high-income brackets': 社会中收入最高的群体。\n'missionary salesman': 指通过推广产品或理念来创造需求，而非仅仅接受订单的销售人员。\n'calling on': 拜访客户以推销产品的专业说法。\n'drug line': 公司销售的特定药品系列。\n'deaf ears': 习语，指人们无视你的建议或拒绝倾听。\n'took the bull by the horns': 习语，指直接且自信地处理困难局面。\n'crusading': 为自己信仰的事业或变革进行强烈且充满激情的斗争。\n'relieved of': 被正式免除之前的工作或职责。\n'subdivision': 为建造房屋而划分成小地块的土地。\n'standstill': 所有活动或进展完全停止的状态。\n'don't-care attitude': 对环境或社区状况缺乏兴趣或责任感。\n'at a loss': 以低于原价的价格出售某物。",
+    "original": "But like all progressive companies, we need new products, new markets, new and more efficient ways of doing things.",
+    "b1": "Like all growing companies, we need new products, new markets, and better ways to work.",
+    "cn": "像所有不断进步的公司一样，我们需要新产品、新市场，以及更高效的工作方式。",
+    "ai_notes": "'progressive': forward-thinking and open to new ideas or modern methods. 'efficient': achieving maximum productivity with minimum wasted effort.",
+    "remarks": "'progressive': 进步的，有前瞻性的，乐于接受新思想或现代方法的。\n'efficient': 高效的，以最少的浪费实现最大的生产力。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "We depend on people with initiative.",
+    "b1": "We rely on people who take the lead.",
+    "cn": "我们依赖那些有主动性的人。",
+    "ai_notes": "'initiative': the ability to assess and initiate things independently; the power to act before others tell you to.",
+    "remarks": "'initiative': 主动性，独立评估和发起事物的能力；在他人指示前采取行动的力量。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "They're the ball carriers on our team.",
+    "b1": "They are the key players on our team.",
+    "cn": "他们是我们团队中的核心人物。",
+    "ai_notes": "'ball carrier': a sports metaphor (from American football) describing someone who takes responsibility and moves the team toward a goal.",
+    "remarks": "'ball carrier': 体育隐喻（源自美式足球），指承担责任并推动团队向目标前进的人。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Initiative is a special kind of action.",
+    "b1": "Taking initiative means acting in a special way.",
+    "cn": "主动性是一种特殊的行动力。",
+    "ai_notes": "'special kind of action': implies that initiative is not just any work, but work done with personal drive and foresight.",
+    "remarks": "'special kind of action': 暗示主动性不仅仅是普通的工作，而是带有个人驱动力和远见的工作。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "It's doing something worthwhile without being told to do it.",
+    "b1": "It means doing something useful without being asked.",
+    "cn": "这意味着在没人要求的情况下，主动去做有价值的事情。",
+    "ai_notes": "'worthwhile': worth the time, money, or effort spent; valuable.",
+    "remarks": "'worthwhile': 值得花时间、金钱或精力的；有价值的。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "The person with initiative has a standing invitation to join the high-income brackets in every business and profession.",
+    "b1": "People who take initiative can easily earn high salaries in any career.",
+    "cn": "在任何行业中，有主动性的人都有机会获得高薪。",
+    "ai_notes": "'standing invitation': a situation where you are always welcome or have a guaranteed opportunity. 'high-income brackets': the highest levels of salary or earnings.",
+    "remarks": "'standing invitation': 随时欢迎或有保证的机会。\n'high-income brackets': 高收入阶层或收入水平。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "The Director of Marketing Research in a medium-sized drug manufacturing firm told me how he got to be a Director of Marketing Research.",
+    "b1": "The marketing director of a medium-sized drug company told me how he got his job.",
+    "cn": "一家中型制药公司的市场研究总监告诉了我他是如何获得这个职位的。",
+    "ai_notes": "'drug manufacturing firm': a company that makes medicines (pharmaceutical company).",
+    "remarks": "'drug manufacturing firm': 制造药品的公司（制药公司）。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "It's a good lesson in the power of initiative.",
+    "b1": "His story is a great example of the power of taking initiative.",
+    "cn": "这是一个关于主动性力量的好例子。",
+    "ai_notes": "'power of initiative': the ability of this specific trait to create significant positive change or success.",
+    "remarks": "'power of initiative': 这种特定特质创造重大积极变化或成功的能力。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "Five years ago, I got an idea, he told me.",
+    "b1": "He told me that he had an idea five years ago.",
+    "cn": "他告诉我，五年前他产生了一个想法。",
+    "ai_notes": "'got an idea': a casual way of saying 'had an idea' or 'conceived a plan'.",
+    "remarks": "'got an idea': 随意表达“有一个想法”或“构思了一个计划”。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "I was working then as a sort of missionary salesman, calling on wholesalers.",
+    "b1": "At that time, I was a salesman visiting wholesalers.",
+    "cn": "当时我是一名推销员，负责拜访批发商。",
+    "ai_notes": "'missionary salesman': a salesperson who promotes a product to potential buyers (like wholesalers) to create demand, rather than just taking orders. 'calling on': visiting someone, usually for business purposes.",
+    "remarks": "'missionary salesman': 向潜在买家（如批发商）推广产品以创造需求，而不仅仅是接订单的销售员。\n'calling on': 拜访某人，通常指为了商务目的。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "I discovered that one thing we lacked was facts about the consumers we wanted to buy our drug line.",
+    "b1": "I realized we didn't have enough information about our customers.",
+    "cn": "我发现我们缺乏关于目标客户的信息。",
+    "ai_notes": "'drug line': a specific group or range of pharmaceutical products sold by a company.",
+    "remarks": "'drug line': 公司销售的一组或一系列特定药品。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "I talked about the need for market research to everyone here.",
+    "b1": "I told everyone here that we needed market research.",
+    "cn": "我向公司里的每个人都提到了市场研究的必要性。",
+    "ai_notes": "'need for': the requirement or necessity of something.",
+    "remarks": "'need for': 对某事物的需求或必要性。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "At first, I got only deaf ears because management couldn't see the need for it.",
+    "b1": "At first, nobody listened because management didn't think it was important.",
+    "cn": "起初没人理会我，因为管理层认为没必要。",
+    "ai_notes": "'deaf ears': an idiom meaning people ignored or refused to listen to a request or suggestion.",
+    "remarks": "'deaf ears': 习语，指人们无视或拒绝听取请求或建议。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "I was pretty much obsessed with the idea of marketing research in our company,",
+    "b1": "I was very focused on the idea of market research for our company.",
+    "cn": "我当时非常执着于在公司开展市场研究的想法。",
+    "ai_notes": "'obsessed with': thinking about something all the time because it is very important to you.",
+    "remarks": "'obsessed with': 对某事念念不忘，因为它对你非常重要。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "so I sort of took the bull by the horns.",
+    "b1": "So, I decided to take control of the situation.",
+    "cn": "所以我决定主动承担起这件事。",
+    "ai_notes": "'take the bull by the horns': an idiom meaning to deal with a difficult situation directly and with confidence.",
+    "remarks": "'take the bull by the horns': 习语，指直接且自信地处理困难局面。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "I asked and got permission to prepare a monthly report on facts of drug marketing.",
+    "b1": "I asked for permission to write a monthly report on drug marketing facts, and they agreed.",
+    "cn": "我申请并获得了许可，开始撰写关于药品营销事实的月度报告。",
+    "ai_notes": "'permission': formal consent to do something.",
+    "remarks": "'permission': 做某事的正式许可。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "I collected information from every source I could find.",
+    "b1": "I gathered information from every source I could find.",
+    "cn": "我从我能找到的所有渠道收集信息。",
+    "ai_notes": "'source': a place, person, or thing from which information can be obtained.",
+    "remarks": "'source': 可以获取信息的地方、人或事物。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "I kept on with this, and pretty soon management and the other salesmen found themselves really interested in what I was doing.",
+    "b1": "I kept working on it, and soon management and other salesmen became interested in my work.",
+    "cn": "我坚持这样做，很快管理层和其他销售人员也对我做的事情产生了兴趣。",
+    "ai_notes": "'kept on with': continued doing something; persisted.",
+    "remarks": "'kept on with': 继续做某事；坚持。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "Just one year after I started crusading for research, I was relieved of my regular duties and asked to concentrate on developing my ideas.",
+    "b1": "One year after I started, I stopped my regular sales job to focus on my new ideas.",
+    "cn": "在我开始推动研究一年后，我卸下了常规工作，专注于发展我的想法。",
+    "ai_notes": "'crusading for': fighting strongly and passionately for a cause or change. 'relieved of': officially released from a duty or job.",
+    "remarks": "'crusading for': 为某项事业或变革进行强烈而热情的斗争。\n'relieved of': 被正式免除职责或工作。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "The rest, he continued, was just natural development.",
+    "b1": "He said that everything else happened naturally.",
+    "cn": "他继续说道，剩下的事情都是顺理成章的发展。",
+    "ai_notes": "'the rest is history': a common phrase meaning the subsequent events are well-known or followed naturally.",
+    "remarks": "'the rest is history': 常用短语，意为随后的事件众所周知或自然发生。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "Now I've got two assistants, a secretary, and about three times the yearly income I had five years ago.",
+    "b1": "Now I have two assistants, a secretary, and I earn three times more than I did five years ago.",
+    "cn": "现在我有两名助手、一名秘书，收入也是五年前的三倍。",
+    "ai_notes": "'yearly income': the total amount of money earned in one year (salary).",
+    "remarks": "'yearly income': 一年内赚取的总金额（薪水）。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "Here are two special exercises for developing the initiative habit.",
+    "b1": "Here are two ways to develop the habit of taking initiative.",
+    "cn": "这里有两个培养主动习惯的特别练习。",
+    "ai_notes": "'developing the habit': the process of making a behavior a regular, automatic part of your life.",
+    "remarks": "'developing the habit': 将某种行为变成生活中常规、自动化的过程。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "1.",
+    "b1": "1.",
+    "cn": "1.",
+    "ai_notes": "'1.': Used here to introduce the first step in a list of instructions.",
+    "remarks": "'1.': 在此处用于引入说明列表中的第一步。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "Be a Crusader.",
+    "b1": "Be a leader.",
+    "cn": "做一个积极的推动者。",
+    "ai_notes": "'Crusader': someone who campaigns vigorously for political, social, or religious change; here it means a proactive leader.",
+    "remarks": "'Crusader': 为政治、社会或宗教变革积极奔走的人；此处指积极主动的领导者。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "When you see something that you believe ought to be done, pick up the ball and run.",
+    "b1": "When you see something that needs to be done, take action and do it.",
+    "cn": "当你看到应该做的事情时，就主动承担并行动起来。",
+    "ai_notes": "'pick up the ball and run': another sports metaphor meaning to take charge of a task and start working on it immediately.",
+    "remarks": "'pick up the ball and run': 另一个体育隐喻，意为接手任务并立即开始工作。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "A new subdivision not far from where I live was about two-thirds built when expansion came almost to a standstill.",
+    "b1": "A new housing area near my home was almost finished when construction suddenly stopped.",
+    "cn": "我家附近的一个新住宅区在快完工时，扩建工程几乎停滞了。",
+    "ai_notes": "'subdivision': an area of land divided into plots for houses. 'standstill': a situation where all movement or activity has stopped.",
+    "remarks": "'subdivision': 分割成房屋地块的土地。\n'standstill': 所有活动都已停止的停滞状态。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "A few families with a don't-care attitude had moved in.",
+    "b1": "Some families who didn't care about the neighborhood moved in.",
+    "cn": "一些对社区漠不关心的家庭搬了进来。",
+    "ai_notes": "'don't-care attitude': a lack of interest or responsibility; apathy.",
+    "remarks": "'don't-care attitude': 缺乏兴趣或责任感；冷漠。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "This prompted several of the finest families in the area to sell their homes at a loss and move on.",
+    "b1": "This made several good families sell their homes at a loss and move away.",
+    "cn": "这促使社区里几户优秀的家庭亏本卖房并搬走了。",
+    "ai_notes": "'at a loss': selling something for less money than you originally paid for it. 'move on': to leave a place and start a new life elsewhere.",
+    "remarks": "'at a loss': 以低于原价的价格出售某物。\n'move on': 离开一个地方并在别处开始新生活。",
     "play_count": 0
   }
 }

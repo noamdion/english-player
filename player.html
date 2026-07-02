@@ -48,7 +48,7 @@
         .course-card:active { background: #1e1e30; }
         .course-card .course-name { font-size: 1em; font-weight: bold; }
         .course-card .course-folder { font-size: 0.75em; color: var(--dim); margin-top: 4px; }
-        .player-page { display: none; flex-direction: column; flex: 1; height: 100dvh;overflow: hidden;  }
+        .player-page { display: none; flex-direction: column; flex: 1; height: 100dvh;overflow: hidden;    }
         .player-page.active { display: flex; }
         .back-bar {
             padding: 10px 16px; background: var(--panel);
@@ -58,8 +58,8 @@
         .back-bar button { background: transparent; border: none; color: var(--accent); font-size: 1em; cursor: pointer; }
         .back-bar span { font-size: 0.95em; color: var(--text); }
         .subtitle-list {
-            flex: 0 0 auto; height: 30vh;  overflow-y: auto; padding: 4px 0;
-            /* max-height: 60vh;*/
+            flex: 1 1 auto; height: 30vh;  min-height: 0;  overflow-y: auto; padding: 4px 0;
+            /* max-height: 60vh; */
         }
         .sub-row {
             display: flex; align-items: flex-start;
@@ -74,12 +74,12 @@
         .notes-panel {
             flex: 0 0 auto; 
             background: var(--panel); border-top: 2px solid #252535;
-            padding: 10px 16px; flex-shrink: 0;height: 50vh;    
+            padding: 10px 16px; flex-shrink: 0;height: 45vh;    flex-shrink: 0;    
             /* max-height: 65vh;*/
             overflow-y: auto;
         }
         .note-original {
-            font-size: 1.1em; font-weight: bold;
+            font-size: 1.1em; /* font-weight: bold;*/
             color: var(--accent); margin-bottom: 8px; line-height: 1.4;
         }
         .notes-row {
@@ -92,7 +92,7 @@
             text-transform: uppercase; letter-spacing: 0.5px;
             cursor: pointer; padding: 2px 0; user-select: none;
         }
-        .note-content { font-size: 1em; line-height: 1.4; }
+        .note-content { font-size: 1.1em; line-height: 1.4; }
         .note-content.hidden { display: none; }
         .note-separator {
             border: none; border-top: 1px solid #252535; margin: 4px 0;
@@ -132,12 +132,12 @@
                 font-size: 1.2em;
             }
             .subtitle-list {
-                flex: 0 0 auto;
+                flex: 1 1 auto;
                 height: 25vh;
                 overflow-y: auto;
             }
             .notes-panel {
-                height: 60vh;
+                height: 55vh;
                 overflow-y: auto;
             }
             .notes-row {
@@ -165,7 +165,7 @@
                 font-size: 1.2em;
             }
             .note-content {
-                font-size: 1em;
+                font-size: 1.1em;
             }
             .loop-label {
                 display: none;
@@ -416,7 +416,7 @@ function renderSubtitleList() {
         const row = document.createElement('div');
         row.className = 'sub-row' + (i === currentIdx ? ' current' : '') + (i === notesIdx ? ' selected' : '');
         const chk = document.createElement('span'); chk.className = 'check';
-        chk.textContent = enabled[i] ? '✓' : '○'; chk.style.color = enabled[i] ? 'var(--accent)' : 'var(--dim)';
+        chk.textContent = enabled[i] ? '✓' : ''; chk.style.color = 'var(--text)';  
         chk.addEventListener('click', (e) => { e.stopPropagation(); enabled[i] = !enabled[i]; saveEnabled(); renderSubtitleList(); });
         const idxSpan = document.createElement('span'); idxSpan.className = 'idx'; idxSpan.textContent = i + 1;
         const textSpan = document.createElement('span'); textSpan.className = 'text'; textSpan.textContent = s.original;

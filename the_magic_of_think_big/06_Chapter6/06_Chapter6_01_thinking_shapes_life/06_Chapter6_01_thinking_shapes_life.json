@@ -1,0 +1,330 @@
+{
+  "0": {
+    "original": "Chapter 6 You Are What You Think You Are It's obvious.",
+    "b1": "Chapter 6: You are what you think. It is very clear.",
+    "cn": "第六章：你的想法决定了你是谁。这显而易见。",
+    "ai_notes": "'It's obvious': a common way to say that something is very clear or easy to understand.",
+    "remarks": "'It's obvious': 常用的表达，指某事非常清楚或容易理解。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "Much human behavior is puzzling.",
+    "b1": "Many human actions are hard to understand.",
+    "cn": "许多人类行为令人费解。",
+    "ai_notes": "'puzzling': something that is difficult to explain or understand; confusing.",
+    "remarks": "'puzzling': 难以解释或理解的；令人困惑的。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "Have you ever wondered why a salesperson will greet one customer with an alert,",
+    "b1": "Have you ever wondered why a salesperson greets one customer with energy,",
+    "cn": "你是否好奇过，为什么售货员会热情地迎接某位顾客，",
+    "ai_notes": "'alert': in this context, it means being attentive, energetic, and ready to help.",
+    "remarks": "'alert': 在此语境下，指机敏、精力充沛且乐于助人。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "yes sir, may I serve you, but virtually ignore another?",
+    "b1": "saying 'Yes, sir, may I help you?', but ignores another?",
+    "cn": "说“先生，有什么可以帮您？”，却对另一位顾客视而不见？",
+    "ai_notes": "'virtually': almost or nearly; used here to mean that the person is almost completely ignoring the customer.",
+    "remarks": "'virtually': 几乎；在此指那个人几乎完全忽视了顾客。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Or why a man will open a door for one woman, but not for another?",
+    "b1": "Or why a man opens a door for one woman but not for another?",
+    "cn": "或者为什么男人会为一位女性开门，却不为另一位开门？",
+    "ai_notes": "'open a door for one woman': a traditional social custom of politeness where a man shows respect by opening a door for a woman.",
+    "remarks": "'open a door for one woman': 一种传统的社交礼仪，指男士通过为女士开门来表示尊重。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "Or why an employee will consistently carry out the instructions of one superior,",
+    "b1": "Or why an employee follows one boss's instructions,",
+    "cn": "或者为什么员工会听从某位上司的指示，",
+    "ai_notes": "'superior': a person of higher rank or position, such as a boss or manager.",
+    "remarks": "'superior': 地位或职位较高的人，如老板或经理。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "but only grudgingly do what another superior requests?",
+    "b1": "but only does what another boss asks with a bad attitude?",
+    "cn": "却对另一位上司的要求心不甘情不愿？",
+    "ai_notes": "'grudgingly': doing something unwillingly or with a bad attitude because you do not want to do it.",
+    "remarks": "'grudgingly': 不情愿地；因为不想做而带着坏情绪去做某事。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "Or why we will pay close attention to what one person says, but not to another?",
+    "b1": "Or why we listen carefully to one person but not to another?",
+    "cn": "或者为什么我们认真听某人说话，却不听另一人说话？",
+    "ai_notes": "'pay close attention to': to listen or watch someone very carefully.",
+    "remarks": "'pay close attention to': 非常仔细地倾听或观察某人。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "Look around you.",
+    "b1": "Look around you.",
+    "cn": "环顾四周。",
+    "ai_notes": "'Look around you': a common phrase used to invite someone to observe the world or people nearby.",
+    "remarks": "'Look around you': 常用的短语，用于邀请某人观察周围的世界或人。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "You'll observe some people receiving the Hey Mac or Hey Buddy treatment,",
+    "b1": "You will see some people treated like they are not important,",
+    "cn": "你会发现有些人被随意对待，",
+    "ai_notes": "'Hey Mac or Hey Buddy': informal, sometimes disrespectful ways of addressing a stranger, implying they are not important.",
+    "remarks": "'Hey Mac or Hey Buddy': 非正式且有时不礼貌的称呼陌生人的方式，暗示对方不重要。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "while others receive the sincere and important Yes Sir treatment.",
+    "b1": "while others are treated with sincere respect.",
+    "cn": "而另一些人则受到真诚且重要的对待。",
+    "ai_notes": "'sincere': honest and genuine; not pretending.",
+    "remarks": "'sincere': 真诚的；真实的；不虚伪的。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "Watch.",
+    "b1": "Watch closely.",
+    "cn": "仔细观察。",
+    "ai_notes": "'Watch': used here as a command to pay close attention to the behavior of others.",
+    "remarks": "'Watch': 在此用作祈使句，意为密切注意他人的行为。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "You'll observe that some people command confidence, loyalty, and admiration, while others do not.",
+    "b1": "You will see that some people gain confidence and admiration, while others do not.",
+    "cn": "你会发现有些人能赢得信任、忠诚和钦佩，而有些人却不能。",
+    "ai_notes": "'command': to deserve or receive something (like respect or attention) because of your character or actions.",
+    "remarks": "'command': 因个人品质或行为而应得或获得某物（如尊重或关注）。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "Look closer still, and you'll also observe that those persons who command the most respect are also the most successful.",
+    "b1": "Look closer, and you will see that people who get the most respect are the most successful.",
+    "cn": "再仔细看，你会发现那些最受尊重的人也是最成功的人。",
+    "ai_notes": "'Look closer still': a phrase used to encourage someone to examine a situation in more detail.",
+    "remarks": "'Look closer still': 用于鼓励某人更详细地审视某种情况的短语。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "What is the explanation?",
+    "b1": "What is the reason for this?",
+    "cn": "这是为什么呢？",
+    "ai_notes": "'What is the explanation?': a way to ask for the reason behind a situation.",
+    "remarks": "'What is the explanation?': 询问某种情况背后原因的方式。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "It can be distilled into one word, thinking.",
+    "b1": "It can be explained in one word: thinking.",
+    "cn": "可以用一个词来解释：思维。",
+    "ai_notes": "'distilled into': to reduce something complex down to its most important part or essence.",
+    "remarks": "'distilled into': 将复杂的事物简化为其最重要的部分或本质。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Thinking does make it so.",
+    "b1": "Your thoughts make you who you are.",
+    "cn": "想法决定了现实。",
+    "ai_notes": "'Thinking does make it so': a philosophical idea meaning that your mindset creates your reality.",
+    "remarks": "'Thinking does make it so': 一种哲学观点，意为你的心态创造了你的现实。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "Others see in us what we see in ourselves.",
+    "b1": "Others see us the way we see ourselves.",
+    "cn": "别人眼中的我们，就是我们眼中的自己。",
+    "ai_notes": "'see in us': how other people perceive or judge our character.",
+    "remarks": "'see in us': 他人如何感知或评价我们的品格。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "We receive the kind of treatment we think we deserve.",
+    "b1": "We are treated the way we think we deserve.",
+    "cn": "我们得到的对待方式，取决于我们认为自己配得上什么。",
+    "ai_notes": "'deserve': to be worthy of something because of your actions or qualities.",
+    "remarks": "'deserve': 因你的行为或品质而值得拥有某物。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "Thinking does make it so.",
+    "b1": "Your thoughts make you who you are.",
+    "cn": "想法决定了现实。",
+    "ai_notes": "'Thinking does make it so': a repetition used to emphasize that thoughts are the root cause of our experiences.",
+    "remarks": "'Thinking does make it so': 重复使用以强调思想是我们经历的根本原因。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "The fellow who thinks he is inferior, regardless of what his real qualifications may be, is inferior.",
+    "b1": "A person who thinks they are not good enough will be treated that way, no matter their skills.",
+    "cn": "一个认为自己低人一等的人，无论实际能力如何，都会显得低人一等。",
+    "ai_notes": "'inferior': feeling or being lower in rank, status, or quality than others.",
+    "remarks": "'inferior': 感觉或处于比他人更低的地位、身份或品质。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "for thinking regulates actions.",
+    "b1": "Because our thoughts control our actions.",
+    "cn": "因为思维控制着行动。",
+    "ai_notes": "'regulates': to control or manage how something happens.",
+    "remarks": "'regulates': 控制或管理某事的发生方式。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "If a man feels inferior, he acts that way, and no veneer of cover-up or bluff will hide this basic feeling for long.",
+    "b1": "If a person feels inferior, they act that way, and they cannot hide it for long.",
+    "cn": "如果一个人感到自卑，他就会表现出来，任何伪装都无法长期掩盖这种基本感觉。",
+    "ai_notes": "'veneer of cover-up or bluff': a thin, fake layer of behavior used to hide one's true feelings.",
+    "remarks": "'veneer of cover-up or bluff': 一层虚假的伪装，用来掩盖真实的感受。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "The person who feels he isn't important isn't.",
+    "b1": "The person who feels they are not important is not important to others.",
+    "cn": "觉得自己不重要的人，在别人眼里确实也不重要。",
+    "ai_notes": "'The person who feels he isn't important isn't': a concise way of saying that if you don't value yourself, others won't value you either.",
+    "remarks": "'The person who feels he isn't important isn't': 简洁的表达，意为如果你不重视自己，别人也不会重视你。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "On the other side, a fellow who really thinks he is equal to the task is.",
+    "b1": "On the other hand, someone who thinks they can do the job will succeed.",
+    "cn": "另一方面，一个真正认为自己能胜任任务的人，确实就能做到。",
+    "ai_notes": "'equal to the task': having the necessary ability or confidence to complete a job or challenge.",
+    "remarks": "'equal to the task': 具备完成某项工作或挑战所需的必要能力或信心。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "To be important, we must think we are important, really think so.",
+    "b1": "To be important, we must truly believe that we are important.",
+    "cn": "想要变得重要，我们必须真正认为自己很重要。",
+    "ai_notes": "'really think so': emphasizing that it must be a genuine belief, not just pretending.",
+    "remarks": "'really think so': 强调这必须是一种真诚的信念，而不是伪装。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "Then others will think so too.",
+    "b1": "Then others will think so too.",
+    "cn": "这样别人也会这么认为。",
+    "ai_notes": "'Then others will think so too': a conclusion that external perception follows internal belief.",
+    "remarks": "'Then others will think so too': 结论，即外部的看法会跟随内心的信念。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "Here again is the logic.",
+    "b1": "Here is the logic again.",
+    "cn": "逻辑再次重申。",
+    "ai_notes": "'Here again is the logic': a phrase used to summarize or repeat a main argument.",
+    "remarks": "'Here again is the logic': 用于总结或重复主要论点的短语。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "How you think determines how you act.",
+    "b1": "How you think decides how you act.",
+    "cn": "你的想法决定你的行为。",
+    "ai_notes": "'determines': to be the deciding factor that causes something to happen.",
+    "remarks": "'determines': 作为决定性因素导致某事发生。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "How you act, in turn, determines how others react to you.",
+    "b1": "How you act decides how others treat you.",
+    "cn": "你的行为反过来决定了别人如何对待你。",
+    "ai_notes": "'in turn': a phrase used to show a sequence of cause and effect.",
+    "remarks": "'in turn': 用于展示因果顺序的短语。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "Like other phases of your personal program for success, winning respect is fundamentally simple.",
+    "b1": "Like other parts of success, winning respect is simple.",
+    "cn": "就像成功之路的其他部分一样，赢得尊重其实很简单。",
+    "ai_notes": "'phases': different stages or parts of a process.",
+    "remarks": "'phases': 过程中的不同阶段或部分。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "To gain the respect of others, you must first think you deserve respect.",
+    "b1": "To gain respect, you must first believe you deserve it.",
+    "cn": "要赢得他人的尊重，你必须先认为自己值得尊重。",
+    "ai_notes": "'gain the respect': to earn or win the admiration of others.",
+    "remarks": "'gain the respect': 赢得或获得他人的钦佩。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "And the more respect you have for yourself, the more respect others will have for you.",
+    "b1": "The more you respect yourself, the more others will respect you.",
+    "cn": "你越尊重自己，别人就越尊重你。",
+    "ai_notes": "'The more... the more...': a grammatical structure used to show that two things change together.",
+    "remarks": "'The more... the more...': 用于展示两者同步变化的语法结构。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "Test this principle.",
+    "b1": "Test this idea.",
+    "cn": "验证一下这个原则。",
+    "ai_notes": "'Test this principle': an invitation to try an idea in real life to see if it works.",
+    "remarks": "'Test this principle': 邀请在现实生活中尝试某个观点，看它是否有效。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "Do you have much respect for the fellow on Skid Row?",
+    "b1": "Do you respect a homeless person very much?",
+    "cn": "你对流浪汉有很高的尊重吗？",
+    "ai_notes": "'Skid Row': a run-down area of a city where homeless or very poor people often live; it represents a low point in life.",
+    "remarks": "'Skid Row': 城市中无家可归者或极度贫困者居住的破败地区；象征人生的低谷。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "Of course not.",
+    "b1": "Of course not.",
+    "cn": "当然没有。",
+    "ai_notes": "'Of course not': a strong way to say 'no'.",
+    "remarks": "'Of course not': 强烈表示“不”的方式。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "Why?",
+    "b1": "Why?",
+    "cn": "为什么？",
+    "ai_notes": "'Why?': a simple question used to prompt an explanation.",
+    "remarks": "'Why?': 用于促使对方解释的简单提问。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "Because the poor fellow doesn't respect himself.",
+    "b1": "Because that person does not respect themselves.",
+    "cn": "因为那个人不尊重自己。",
+    "ai_notes": "'poor fellow': a way to express pity or sympathy for someone.",
+    "remarks": "'poor fellow': 表达对某人怜悯或同情的方式。",
+    "play_count": 0
+  },
+  "38": {
+    "original": "He's letting himself rot away from lack of self-respect.",
+    "b1": "They are failing because they lack self-respect.",
+    "cn": "他因为缺乏自尊而自甘堕落。",
+    "ai_notes": "'rot away': a metaphor for someone losing their potential or character because they have stopped caring about themselves.",
+    "remarks": "'rot away': 比喻某人因为不再关心自己而丧失潜能或品格。",
+    "play_count": 0
+  },
+  "39": {
+    "original": "Self-respect shows through in everything we do.",
+    "b1": "Self-respect shows in everything we do.",
+    "cn": "自尊心体现在我们所做的每一件事中。",
+    "ai_notes": "'shows through': to be visible or obvious in someone's behavior.",
+    "remarks": "'shows through': 在某人的行为中显露出来或变得明显。",
+    "play_count": 0
+  },
+  "40": {
+    "original": "Let's focus our attention now on some of the specific ways we can increase self-respect and thereby earn more respect from others.",
+    "b1": "Let's look at ways to increase self-respect and earn more respect from others.",
+    "cn": "现在让我们专注于一些具体的方法，来提升自尊心，从而赢得他人的更多尊重。",
+    "ai_notes": "'thereby': a formal word meaning 'as a result of this' or 'by that means'.",
+    "remarks": "'thereby': 正式用语，意为“因此”或“通过那种方式”。",
+    "play_count": 0
+  }
+}

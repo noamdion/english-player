@@ -1,0 +1,202 @@
+{
+  "0": {
+    "original": "We made three suggestions.",
+    "b1": "We gave three ideas or pieces of advice.",
+    "cn": "我们提出了三条建议。",
+    "ai_notes": "'suggestions': ideas or plans that you offer for someone to consider. This means he proposed three things to do.",
+    "remarks": "'suggestions': 建议，指为了让别人考虑而提出的想法或计划。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "1.",
+    "b1": "1.",
+    "cn": "1.",
+    "ai_notes": "This is just a number indicating the start of a list item.",
+    "remarks": "这是一个用于标记列表项开始的数字。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "Recognize the fact that no person is perfect.",
+    "b1": "Understand that no one is perfect.",
+    "cn": "认识到没有人是完美的。",
+    "ai_notes": "'Recognize the fact': to understand or accept that something is true. It means to know and accept that nobody is perfect.",
+    "remarks": "'Recognize the fact': 认清事实，指理解并接受某事是真实的，例如接受人无完人。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Some people are more nearly perfect than others, but no man is absolutely perfect.",
+    "b1": "Some people are better than others, but no one is completely perfect.",
+    "cn": "有些人比其他人更接近完美，但没有人是绝对完美的。",
+    "ai_notes": "'nearly perfect': almost perfect. 'absolutely perfect': completely perfect. This sentence means some people are very good, but no one is flawless.",
+    "remarks": "'nearly perfect': 几乎完美。\n'absolutely perfect': 完全完美，指没有任何瑕疵。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "The most human quality about human beings is that they make mistakes, all kinds of them.",
+    "b1": "It is a very human quality for people to make all kinds of mistakes.",
+    "cn": "人类最普遍的特点就是他们会犯各种各样的错误。",
+    "ai_notes": "'human quality': a characteristic that is typical of people. 'make mistakes': to do something wrong. This means a very common human trait is making errors.",
+    "remarks": "'human quality': 人性特征，指人类共有的特质。\n'make mistakes': 犯错，指做错事情。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "2.",
+    "b1": "2.",
+    "cn": "2.",
+    "ai_notes": "This is just a number indicating the start of a list item.",
+    "remarks": "这是一个用于标记列表项开始的数字。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "Recognize the fact that the other fellow has a right to be different.",
+    "b1": "Understand that other people have the right to be different.",
+    "cn": "认识到别人有权与众不同。",
+    "ai_notes": "'the other fellow': another person. 'has a right to be different': it is acceptable for them to have different opinions or ways of life. This means accept that others can be unlike you.",
+    "remarks": "'the other fellow': 对方，指另一个人。\n'has a right to be different': 有权与众不同，指接受他人拥有不同的生活方式。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "Never play God about anything.",
+    "b1": "Never try to control or judge everything.",
+    "cn": "永远不要对任何事都指手画脚（或自以为是）。",
+    "ai_notes": "'play God': to try to control or decide things as if you were God. This idiom means do not try to judge or control others' lives.",
+    "remarks": "'play God': 自以为是上帝，指试图掌控或评判他人的生活。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "Never dislike people because their habits are different from your own or because they prefer different clothes,",
+    "b1": "Don't dislike people just because their habits are different from yours, or because they like different clothes,",
+    "cn": "永远不要因为别人的习惯与你不同，或者他们喜欢不同的衣服而讨厌他们，",
+    "ai_notes": "'dislike': to not like someone or something. 'habits': the regular things that a person does. This means don't hate people because they do things differently or like different things.",
+    "remarks": "'dislike': 不喜欢，指对某人或某事反感。\n'habits': 习惯，指一个人经常做的行为。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "religion, parties, or automobiles.",
+    "b1": "religion, political groups, or cars.",
+    "cn": "宗教、政党或汽车。",
+    "ai_notes": "'religion': a system of faith and worship. 'parties': groups of people with similar political beliefs. 'automobiles': cars. These are examples of things people might have different preferences about.",
+    "remarks": "'religion': 宗教。\n'parties': 党派。\n'automobiles': 汽车，这些都是人们容易产生偏好差异的领域。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "You don't have to approve of what another fellow does, but you must not dislike him for doing it.",
+    "b1": "You don't have to agree with what someone else does, but you shouldn't dislike them for it.",
+    "cn": "你不必赞同别人所做的事情，但你绝不能因此而讨厌他。",
+    "ai_notes": "'approve of': to think something is good or acceptable. 'fellow': a person. This means you don't have to agree with someone's actions, but you shouldn't dislike them for it.",
+    "remarks": "'approve of': 赞同，认为某事是好的或可接受的。\n'fellow': 家伙/人，指代他人。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "3.",
+    "b1": "3.",
+    "cn": "3.",
+    "ai_notes": "This is just a number indicating the start of a list item.",
+    "remarks": "这是一个用于标记列表项开始的数字。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "Don't be a reformer.",
+    "b1": "Don't try to change everyone.",
+    "cn": "不要总想着改变别人。",
+    "ai_notes": "'reformer': a person who tries to improve things by changing them. This means don't try to change other people's behavior or beliefs.",
+    "remarks": "'reformer': 改良者，指试图通过改变来改善现状的人。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "Put a little more live and let live into your philosophy.",
+    "b1": "Try to live and let others live more.",
+    "cn": "在你的生活态度中多一点“自己活也让别人活”的精神。",
+    "ai_notes": "'philosophy': a way of thinking about life. 'live and let live': a phrase meaning to accept others' ways of life without interfering. This means be more tolerant and allow others to live as they choose.",
+    "remarks": "'philosophy': 人生哲学。\n'live and let live': 和平共处，指尊重他人的生活方式，互不干涉。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "Most people intensely dislike being told you're wrong.",
+    "b1": "Most people really don't like it when you tell them they are wrong.",
+    "cn": "大多数人非常不喜欢被告知他们错了。",
+    "ai_notes": "'intensely dislike': to strongly dislike. This means most people really hate being told they are wrong.",
+    "remarks": "'intensely dislike': 强烈反感，指非常不喜欢某事。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "You have a right to your own opinion, but sometimes it's better to keep it to yourself.",
+    "b1": "You can have your own opinion, but sometimes it's better not to share it.",
+    "cn": "你有权拥有自己的意见，但有时最好是保留意见（不说出来）。",
+    "ai_notes": "'keep it to yourself': to not tell anyone your thoughts or opinions. This means you have the right to your opinion, but sometimes it's better not to say it.",
+    "remarks": "'keep it to yourself': 保守秘密/藏在心里，指不把自己的想法说出来。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Ted conscientiously applied these suggestions.",
+    "b1": "Ted carefully followed these suggestions.",
+    "cn": "特德认真地运用了这些建议。",
+    "ai_notes": "'conscientiously': in a way that is careful and thorough. 'applied': used or put into practice. This means Ted carefully used these ideas.",
+    "remarks": "'conscientiously': 认真地，指做事仔细、彻底。\n'applied': 应用，指将想法付诸实践。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "A few months later he had a fresh outlook.",
+    "b1": "A few months later, he had a new way of thinking.",
+    "cn": "几个月后，他有了一个全新的看法。",
+    "ai_notes": "'fresh outlook': a new and different way of thinking about things. This means he started to see things in a new way.",
+    "remarks": "'fresh outlook': 新的视角，指看待事物的一种全新方式。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "He now accepts people for what they are, neither 100% good nor 100% bad.",
+    "b1": "He now accepts people as they are, understanding that no one is completely good or completely bad.",
+    "cn": "他现在接受人们本来的样子，既不是百分之百的好，也不是百分之百的坏。",
+    "ai_notes": "'accepts people for what they are': to accept people without trying to change them. This means he now accepts people as they are, recognizing they have both good and bad qualities.",
+    "remarks": "'accepts people for what they are': 接纳他人的本真，指不试图改变对方，接受其优缺点。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "Besides, he says, the things that used to annoy the heck out of me I now find amusing.",
+    "b1": "Also, he says, things that used to bother him a lot now seem funny.",
+    "cn": "此外，他说，以前那些让我非常恼火的事情，我现在觉得很有趣。",
+    "ai_notes": "'annoy the heck out of me': an informal way to say something bothered me a lot. 'amusing': funny or entertaining. This means things that used to bother him greatly now seem funny.",
+    "remarks": "'annoy the heck out of me': 让我极其烦恼（非正式用法）。\n'amusing': 有趣的，指令人发笑的。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "It finally dawned on me what a dull world this would be if people were all alike and everybody was perfect.",
+    "b1": "He finally realized that the world would be boring if everyone was the same and perfect.",
+    "cn": "他终于明白，如果所有人都一样，所有人都完美，这个世界会多么无聊。",
+    "ai_notes": "'dawned on me': I finally understood. 'alike': the same. This means he finally realized the world would be boring if everyone was identical and perfect.",
+    "remarks": "'dawned on me': 我终于意识到。\n'alike': 相同的，指如果每个人都一样会很无聊。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "Note this simple but key fact.",
+    "b1": "Remember this simple but important fact.",
+    "cn": "请注意这个简单但关键的事实。",
+    "ai_notes": "'Note this': pay attention to this. 'key fact': a very important piece of information. This means remember this simple but important fact.",
+    "remarks": "'Note this': 注意这一点。\n'key fact': 关键事实，指非常重要的信息。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "No person is all good, and no person is all bad.",
+    "b1": "Nobody is completely good, and nobody is completely bad.",
+    "cn": "没有人是完全好的，也没有人是完全坏的。",
+    "ai_notes": "This sentence emphasizes that no person is entirely good or entirely bad.",
+    "remarks": "这句话强调了没有人是绝对的好人或绝对的坏人。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "The perfect person just doesn't exist.",
+    "b1": "A perfect person simply does not exist.",
+    "cn": "完美的人根本不存在。",
+    "ai_notes": "'just doesn't exist': is not real or does not happen. This means a person who is perfect is not real.",
+    "remarks": "'just doesn't exist': 根本不存在，指完美的人在现实中是不存在的。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "Now, if we let our thinking go uncontrolled, we can find much to dislike in almost anyone.",
+    "b1": "Now, if we don't control our thoughts, we can easily find many things to dislike in almost anyone.",
+    "cn": "现在，如果我们任由自己的思想不受控制，我们几乎可以在任何人身上找到许多不喜欢的地方。",
+    "ai_notes": "'go uncontrolled': to not be managed or stopped. This means if we don't manage our thoughts, we can easily find many things to dislike about people.",
+    "remarks": "'go uncontrolled': 失控，指如果不加约束，我们很容易对他人产生反感。",
+    "play_count": 0
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "0": {
+    "original": "One of the reviewers of an early version of this book is a close personal friend who owns his own business management consulting firm.",
+    "b1": "One person who read an early version of this book was a good friend of mine. He owns his own company that gives advice to businesses.",
+    "cn": "这本书早期版本的一位审阅者是我的一位亲密的朋友，他拥有一家自己的企业管理咨询公司。",
+    "ai_notes": "'reviewers': people who read something and give their opinion.\n'consulting firm': a company that gives advice to other businesses.",
+    "remarks": "'reviewers': 评论员，指阅读内容并给出评价的人。\n'consulting firm': 咨询公司，为其他企业提供专业建议的公司。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "When he read the above illustration, he commented, That's the positive result of liking and respecting people.",
+    "b1": "When he read the example I wrote above, he said, 'This shows what happens when you like and respect people.'",
+    "cn": "当他读到上面这个例子时，他评论道：“这是喜欢和尊重他人的积极结果。”",
+    "ai_notes": "'illustration': an example or story used to explain something.\n'commented': said something as a reaction.",
+    "remarks": "'illustration': 例证，用于解释说明的例子或故事。\n'commented': 评论，针对某事发表看法。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "Let me give you a personal experience of a friend of mine which shows what happens if you don't like and admire people.",
+    "b1": "I want to tell you about something that happened to a friend of mine. It shows what can happen if you don't like or admire people.",
+    "cn": "让我给你讲一个我朋友的亲身经历，它说明了如果你不喜欢和钦佩他人会发生什么。",
+    "ai_notes": "'personal experience': something that happened to someone directly.\n'admire': to respect and like someone very much.",
+    "remarks": "'personal experience': 个人经历，指某人亲身发生的事情。\n'admire': 钦佩，非常尊重并喜欢某人。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "His experience has a big point.",
+    "b1": "His story teaches an important lesson.",
+    "cn": "他的经历有一个重要的启示。",
+    "ai_notes": "'big point': an important lesson or message.",
+    "remarks": "'big point': 重点，指核心的教训或传达的信息。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Here it is.",
+    "b1": "Here is his story.",
+    "cn": "下面是这个故事。",
+    "ai_notes": "This sentence is a simple introduction to the story that follows.",
+    "remarks": "这句话是对后续故事的简单引言。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "My firm obtained a contract to provide consulting services to a relatively small soft drink bottling concern.",
+    "b1": "My friend's company got a job to help a small company that made soft drinks.",
+    "cn": "我的公司获得了一份合同，为一家相对较小的软饮料装瓶公司提供咨询服务。",
+    "ai_notes": "'obtained a contract': got an official agreement to do work for money.\n'consulting services': advice and help given by experts.\n'soft drink bottling concern': a company that puts soft drinks into bottles.",
+    "remarks": "'obtained a contract': 获得合同，正式达成有偿工作协议。\n'consulting services': 咨询服务，专家提供的建议和帮助。\n'soft drink bottling concern': 软饮装瓶企业，指从事饮料装瓶业务的公司。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "The contract was substantial.",
+    "b1": "The contract was for a lot of money.",
+    "cn": "这份合同价值不菲。",
+    "ai_notes": "'substantial': large in amount or importance.",
+    "remarks": "'substantial': 大量的，指在数量或重要性上非常显著。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "The client had little formal education.",
+    "b1": "The owner of the company didn't have much formal education.",
+    "cn": "客户受过的正规教育不多。",
+    "ai_notes": "'formal education': schooling and learning in institutions like schools and universities.",
+    "remarks": "'formal education': 正规教育，指在学校或大学等机构中接受的教育。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "His business was in bad shape, and in recent years he had made some very costly mistakes.",
+    "b1": "His business was not doing well, and he had made some expensive mistakes recently.",
+    "cn": "他的公司经营不善，近年来他犯了一些代价高昂的错误。",
+    "ai_notes": "'in bad shape': not doing well; in a poor condition.\n'costly mistakes': errors that were expensive to fix.",
+    "remarks": "'in bad shape': 状况不佳，指处于糟糕的状态。\n'costly mistakes': 代价高昂的错误，指需要花费很大成本去弥补的失误。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "Three days after we had got the contract, an associate and I were driving out to his plant,",
+    "b1": "Three days after we got the contract, my friend and I were driving to his company's factory.",
+    "cn": "我们获得合同三天后，我和一位同事正开车去他的工厂，",
+    "ai_notes": "'associate': a colleague or partner.\n'plant': a factory or place where things are made.",
+    "remarks": "'associate': 同事或合伙人。\n'plant': 工厂，指生产产品的场所。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "which was about 45 minutes from our offices.",
+    "b1": "It was about 45 minutes away from our office.",
+    "cn": "那里离我们的办公室大约有45分钟的路程。",
+    "ai_notes": "This sentence provides the travel time to the client's location.",
+    "remarks": "这句话说明了前往客户所在地所需的路程时间。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "To this day I don't know how it started, but somehow we began talking about the negative qualities of our client.",
+    "b1": "I'm not sure how it started, but we began talking about the bad things about our client.",
+    "cn": "直到今天我也不知道它是如何开始的，但不知何故，我们开始谈论我们客户的负面特质。",
+    "ai_notes": "'to this day': until now.\n'negative qualities': bad characteristics or traits.",
+    "remarks": "'to this day': 直到今天，指一直持续到现在。\n'negative qualities': 负面特质，指不好的性格或特征。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "Before we realized it, we were talking about how his own stupidity had brought about the mess he was in,",
+    "b1": "Soon, we were saying that his own foolishness had caused his problems,",
+    "cn": "不知不觉中，我们开始谈论他自己的愚蠢是如何导致他陷入困境的，",
+    "ai_notes": "'stupidity': lack of intelligence or good sense.\n'brought about': caused or led to.",
+    "remarks": "'stupidity': 愚蠢，指缺乏智慧或常识。\n'brought about': 导致，指引起了某事发生。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "instead of discussing how we could best approach solving his problems.",
+    "b1": "instead of thinking about how we could help him solve his problems.",
+    "cn": "而不是讨论我们如何才能最好地着手解决他的问题。",
+    "ai_notes": "'approach solving': to start dealing with or finding a solution to.",
+    "remarks": "'approach solving': 着手解决，指开始处理或寻找解决问题的方法。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "I remember one remark I made which I thought particularly clever.",
+    "b1": "I remember saying something that I thought was very smart.",
+    "cn": "我记得我说了一句我认为特别聪明的话。",
+    "ai_notes": "'remark': a spoken comment.",
+    "remarks": "'remark': 评论，指口头发表的意见。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "The only thing holding up Mr. F is fat.",
+    "b1": "I said, 'The only thing stopping Mr. F is his weight.'",
+    "cn": "我说：“阻碍F先生的唯一因素就是他的体重。”",
+    "ai_notes": "This is a direct quote from the speaker, using informal language.",
+    "remarks": "这是说话者的一句直接引语，使用了非正式的口语。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "My associate laughed and came up with an equally choice observation.",
+    "b1": "My friend laughed and said something equally funny.",
+    "cn": "我的同事笑了，并提出了一个同样精彩的评论。",
+    "ai_notes": "'associate': a colleague or partner.\n'equally choice observation': a comment that was just as good or funny.",
+    "remarks": "'associate': 同事或合伙人。\n'equally choice observation': 同样精辟的观察，指评价同样出色或幽默。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "And that son of his, Junior must be all of thirty-five, but the only qualification he has for the job he's holding is he speaks English.",
+    "b1": "He also said, 'And his son, who is about 35, only has his job because he speaks English.'",
+    "cn": "他还说：“他那个儿子，大概三十五岁了，之所以能得到他现在的工作，仅仅是因为他会说英语。”",
+    "ai_notes": "'qualification': a skill or experience that makes someone suitable for a job.\n'holding': currently occupying or having.",
+    "remarks": "'qualification': 资格，指使人胜任工作的技能或经历。\n'holding': 担任，指目前占据某个职位。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "The whole drive out, we talked about nothing else but what a weak-minded numbskull we had as a client.",
+    "b1": "The whole drive there, we only talked about how our client was a foolish and unintelligent person.",
+    "cn": "在去往那里的整个车程中，我们除了谈论我们的客户是一个多么愚蠢无能的人之外，什么都没谈。",
+    "ai_notes": "'weak-minded': not strong or determined; easily influenced.\n'numbskull': a stupid person (informal and insulting).",
+    "remarks": "'weak-minded': 意志薄弱的，指容易受他人影响。\n'numbskull': 笨蛋，指愚蠢的人（非正式且带有侮辱性）。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "Well, the conference that afternoon was cold.",
+    "b1": "Well, the meeting that afternoon was not friendly.",
+    "cn": "嗯，那天下午的会议气氛很冷淡。",
+    "ai_notes": "'conference': a formal meeting.\n'cold': unfriendly or lacking warmth.",
+    "remarks": "'conference': 会议，指正式的会谈。\n'cold': 冷淡的，指缺乏热情或不友好。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "Looking back, I think our client sensed somehow the way we felt toward him.",
+    "b1": "Looking back, I think our client knew how we felt about him.",
+    "cn": "回想起来，我认为我们的客户感受到了我们对他的看法。",
+    "ai_notes": "'sensed': became aware of or understood something without being told directly.",
+    "remarks": "'sensed': 感知到，指无需言明便能察觉或理解某事。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "He must have thought, these fellows think I'm stupid or something, and all they're going to do for my money is give me some smooth-sounding talk.",
+    "b1": "He probably thought, 'These people think I'm stupid, and they're just going to give me fake advice.'",
+    "cn": "他一定想，‘这些人认为我愚蠢，他们只是想给我一些听起来很厉害的空话。’",
+    "ai_notes": "'smooth-sounding talk': words that sound pleasant or convincing but may not be sincere or useful.",
+    "remarks": "'smooth-sounding talk': 动听的空话，指听起来悦耳但可能不真诚或无用的言辞。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "Two days later, I got a two-sentence letter from this client.",
+    "b1": "Two days later, I received a short letter from this client.",
+    "cn": "两天后，我收到了这位客户的一封两句话的信。",
+    "ai_notes": "'two-sentence letter': a very short letter.",
+    "remarks": "'two-sentence letter': 两句信，指非常简短的信件。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "It said, I've decided to cancel our contract for your consulting services.",
+    "b1": "It said, 'I have decided to end our contract for your consulting services.'",
+    "cn": "信中写道：“我已决定取消我们关于你们咨询服务的合同。”",
+    "ai_notes": "'cancel our contract': to officially end the agreement.",
+    "remarks": "'cancel our contract': 取消合同，指正式终止协议。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "If there is a charge for your services to date, please bill me.",
+    "b1": "'If you need to bill me for the work you've done so far, please send me an invoice.'",
+    "cn": "“如果需要支付您至今为止的服务费用，请给我开账单。”",
+    "ai_notes": "'charge for your services': to ask for payment for the work done.\n'bill me': send me an invoice for the amount owed.",
+    "remarks": "'charge for your services': 收取服务费，指要求为所做工作支付报酬。\n'bill me': 给我开账单，指要求对方发送欠款清单。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "Printing ourselves with negative thoughts for only 40 minutes cost us a contract.",
+    "b1": "Spending only 40 minutes thinking negatively about ourselves cost us a contract.",
+    "cn": "仅仅花了40分钟用负面想法来评价自己，就让我们失去了一份合同。",
+    "ai_notes": "'printing ourselves with negative thoughts': spending time thinking negatively about ourselves.\n'cost us a contract': caused us to lose the business deal.",
+    "remarks": "'printing ourselves with negative thoughts': 给自己灌输负面想法，指沉溺于自我否定。\n'cost us a contract': 使我们丢掉合同，指导致业务合作失败。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "What made it even more painful was learning, about a month later, that this former client had contracted with an out-of-town firm for the professional assistance he needed.",
+    "b1": "It was even worse when we found out about a month later that our former client had hired another company from a different town to help him.",
+    "cn": "更令人痛苦的是，大约一个月后我们得知，这位前客户已经聘请了一家外地公司来提供他所需要的专业帮助。",
+    "ai_notes": "'painful': causing emotional suffering.\n'contracted with': made an agreement to hire.",
+    "remarks": "'painful': 痛苦的，指引起情感上的折磨。\n'contracted with': 与……签约，指达成雇佣协议。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "We would never have lost him had we concentrated on his many fine qualities.",
+    "b1": "We would not have lost him if we had focused on his good qualities.",
+    "cn": "如果我们专注于他身上的许多优点，我们就不会失去他。",
+    "ai_notes": "'concentrated on': focused their attention on.",
+    "remarks": "'concentrated on': 专注于，指将注意力集中在某事上。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "And he has them.",
+    "b1": "He has many good qualities.",
+    "cn": "他有很多优点。",
+    "ai_notes": "This sentence confirms that the client indeed possesses good qualities.",
+    "remarks": "这句话确认了客户确实具备良好的品质。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "Most people do.",
+    "b1": "Most people have good qualities.",
+    "cn": "大多数人都有优点。",
+    "ai_notes": "This is a general statement about human nature.",
+    "remarks": "这是一个关于人性的一般性陈述。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "Here's how you can have some fun and discover a basic success principle at the same time.",
+    "b1": "Here's a fun way to learn an important rule for success.",
+    "cn": "这里有一个有趣的方法，可以让你在学习基本成功原则的同时获得乐趣。",
+    "ai_notes": "'basic success principle': a fundamental rule or guideline for achieving success.",
+    "remarks": "'basic success principle': 基本成功原则，指实现成功的根本准则。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "For the next two days, listen in on as many conversations as you can.",
+    "b1": "For the next two days, listen to many conversations.",
+    "cn": "在接下来的两天里，尽量多地倾听谈话。",
+    "ai_notes": "'listen in on': to secretly or casually listen to a conversation.",
+    "remarks": "'listen in on': 偷听，指秘密或随意地听取他人的谈话。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "Note two things.",
+    "b1": "Pay attention to two things.",
+    "cn": "注意两件事。",
+    "ai_notes": "This is a simple instruction to observe two specific things.",
+    "remarks": "这是一个关于观察两件特定事物的简单指令。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "Which person in the conversation does the most talking, and which person is the more successful?",
+    "b1": "Who talks the most in the conversation, and who is the more successful person?",
+    "cn": "谁在谈话中说得最多，谁是更成功的人？",
+    "ai_notes": "'successful': achieving a desired aim or result.",
+    "remarks": "'successful': 成功的，指达到了预期的目标或结果。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "Hundreds of my own little experiments have revealed this.",
+    "b1": "I have done many small tests like this myself.",
+    "cn": "我自己的许多小实验已经揭示了这一点。",
+    "ai_notes": "'hundreds of my own little experiments': the author has conducted many small personal tests or observations.",
+    "remarks": "'hundreds of my own little experiments': 我自己的数百个小实验，指作者进行了许多个人的测试与观察。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "The person who does the most talking and the person who is the most successful are rarely the same person.",
+    "b1": "The person who talks the most and the person who is most successful are usually not the same person.",
+    "cn": "说话最多的人和最成功的人很少是同一个人。",
+    "ai_notes": "'rarely': not often; seldom.",
+    "remarks": "'rarely': 罕见地，指不经常发生。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "Almost without exception, the more successful the person, the more he practices conversation generosity,",
+    "b1": "Almost always, the more successful a person is, the more they are generous in conversation.",
+    "cn": "几乎毫无例外，一个人越成功，就越会实践谈话的慷慨，",
+    "ai_notes": "'almost without exception': in nearly all cases.\n'conversation generosity': being willing to let others speak and share their thoughts.",
+    "remarks": "'almost without exception': 几乎无一例外，指在绝大多数情况下。\n'conversation generosity': 交谈慷慨，指愿意让别人多说话并分享想法。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "that is, he encourages the other person to talk about himself, his views,",
+    "b1": "This means they encourage the other person to talk about themselves, their ideas,",
+    "cn": "也就是说，他们鼓励对方谈论自己、自己的观点、",
+    "ai_notes": "'encourages': gives support, confidence, or hope to.",
+    "remarks": "'encourages': 鼓励，指给予支持、信心或希望。",
+    "play_count": 0
+  },
+  "38": {
+    "original": "his accomplishments, his family, his job, his problems.",
+    "b1": "their successes, their family, their job, and their problems.",
+    "cn": "自己的成就、自己的家庭、自己的工作、自己的问题。",
+    "ai_notes": "This lists various topics people might talk about themselves.",
+    "remarks": "这里列举了人们在谈论自己时可能涉及的各种话题。",
+    "play_count": 0
+  },
+  "39": {
+    "original": "Conversation generosity paves the way to greater success in two important ways.",
+    "b1": "Being generous in conversation helps you succeed in two important ways.",
+    "cn": "谈话的慷慨以两种重要的方式为更大的成功铺平了道路。",
+    "ai_notes": "'paves the way': makes a process or action easier or possible.",
+    "remarks": "'paves the way': 为……铺平道路，指使某事变得更容易或成为可能。",
+    "play_count": 0
+  },
+  "40": {
+    "original": "One, conversation generosity wins friends.",
+    "b1": "First, being generous in conversation helps you make friends.",
+    "cn": "第一，谈话的慷慨能赢得朋友。",
+    "ai_notes": "'wins friends': helps you to make new friends.",
+    "remarks": "'wins friends': 赢得友谊，指帮助你结交新朋友。",
+    "play_count": 0
+  },
+  "41": {
+    "original": "Two, conversation generosity helps you learn more about people.",
+    "b1": "Second, being generous in conversation helps you understand people better.",
+    "cn": "第二，谈话的慷慨有助于你更多地了解他人。",
+    "ai_notes": "'learn more about people': to gain a better understanding of others.",
+    "remarks": "'learn more about people': 更多地了解他人，指获得对他人的深入理解。",
+    "play_count": 0
+  },
+  "42": {
+    "original": "Remember this, the average person would rather talk about himself than anything else in this world.",
+    "b1": "Remember this: most people like talking about themselves more than anything else.",
+    "cn": "记住这一点，普通人比世界上任何事情都更愿意谈论自己。",
+    "ai_notes": "'the average person': a typical or ordinary person.",
+    "remarks": "'the average person': 普通人，指典型或一般的人。",
+    "play_count": 0
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "0": {
+    "original": "Do something special for your family often.",
+    "b1": "Try to do something special for your family regularly.",
+    "cn": "经常为你的家人做些特别的事。",
+    "ai_notes": "'something special': an action that is not part of your normal routine. 'often': many times or frequently.",
+    "remarks": "'something special': 特别的事情，指非日常的活动。\n'often': 经常，表示频率高。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "It doesn't have to be something expensive.",
+    "b1": "It does not need to cost a lot of money.",
+    "cn": "这不需要花很多钱。",
+    "ai_notes": "'expensive': costing a lot of money.",
+    "remarks": "'expensive': 昂贵的，指花费很多钱。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "It's thoughtfulness that counts.",
+    "b1": "It is your kindness and care that really matter.",
+    "cn": "重要的是你的心意。",
+    "ai_notes": "'thoughtfulness': the quality of being kind and thinking about others' feelings. 'counts': is important or has value.",
+    "remarks": "'thoughtfulness': 体贴，指顾及他人感受的品质。\n'counts': 重要，指具有价值或意义。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Anything that shows that you put your family's interests first will do the trick.",
+    "b1": "Anything that shows you care about your family's needs will work.",
+    "cn": "任何能体现你把家人利益放在首位的事都行。",
+    "ai_notes": "'put your family's interests first': to prioritize your family's needs above your own. 'do the trick': to be the right solution to a problem.",
+    "remarks": "'put your family's interests first': 把家庭利益放在首位，即优先考虑家人。\n'do the trick': 奏效，指成功解决问题。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Get the family on your team.",
+    "b1": "Make your family feel like they are your partners.",
+    "cn": "让家人成为你的坚强后盾。",
+    "ai_notes": "'on your team': working together with you toward the same goal.",
+    "remarks": "'on your team': 与你站在同一阵线，指共同努力达成目标。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "Give them planned attention.",
+    "b1": "Spend time with them according to a plan.",
+    "cn": "有计划地给予他们关注。",
+    "ai_notes": "'planned attention': giving time to someone according to a schedule rather than just when you are free.",
+    "remarks": "'planned attention': 有计划的关注，指按照日程安排而非随意地陪伴他人。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "In this busy age, a lot of people never seem able to find time for their families.",
+    "b1": "In today's busy world, many people feel they cannot find time for their families.",
+    "cn": "在这个忙碌的时代，很多人似乎总没时间陪伴家人。",
+    "ai_notes": "'busy age': a period of time where everyone is very occupied. 'seem able to': appear to have the ability to do something.",
+    "remarks": "'busy age': 忙碌的时期，指大家都非常忙碌的阶段。\n'seem able to': 似乎能够，指表现出有能力做某事。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "But if we plan, we can find it.",
+    "b1": "However, if we plan our time, we can find time for them.",
+    "cn": "但如果我们做好计划，就能抽出时间。",
+    "ai_notes": "'find it': in this context, it means to create or discover time in your schedule.",
+    "remarks": "'find it': 在此语境下指“挤出时间”，即在日程中发现空档。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "One company vice president told me of this method, which he says works well for him.",
+    "b1": "A company vice president shared a method with me that works well for him.",
+    "cn": "一位公司副总裁告诉我一个对他很有效的方法。",
+    "ai_notes": "'vice president': a high-ranking executive in a company. 'method': a specific way of doing something.",
+    "remarks": "'vice president': 副总裁，公司的高级管理人员。\n'method': 方法，指做事的特定方式。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "My job carries a lot of responsibility, and I have no choice but to bring quite a lot of work home every night.",
+    "b1": "My job is very important, so I have to bring a lot of work home every night.",
+    "cn": "我的工作责任重大，不得不每晚带很多工作回家。",
+    "ai_notes": "'carries a lot of responsibility': involves many important duties. 'have no choice but to': to be forced to do something because there is no other option.",
+    "remarks": "'carries a lot of responsibility': 承担重任，指涉及许多重要职责。\n'have no choice but to': 别无选择只能，指被迫做某事。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "But I will not neglect my family, because it's the most important thing in my life.",
+    "b1": "But I will not ignore my family, because they are the most important part of my life.",
+    "cn": "但我不会忽视家人，因为他们是我生命中最重要的人。",
+    "ai_notes": "'neglect': to fail to give enough care or attention to someone or something.",
+    "remarks": "'neglect': 忽视，指未能给予足够的关心或注意。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "It's the main reason I work as hard as I do.",
+    "b1": "They are the main reason why I work so hard.",
+    "cn": "他们是我如此努力工作的主要原因。",
+    "ai_notes": "'as hard as I do': to the same degree of effort that I currently use.",
+    "remarks": "'as hard as I do': 和我一样努力，指达到与我相同的努力程度。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "I've worked out a schedule that enables me to give attention to my family as well as to my work.",
+    "b1": "I made a schedule to balance my work and my family time.",
+    "cn": "我制定了一个时间表，让我既能照顾工作，也能陪伴家人。",
+    "ai_notes": "'worked out': to create or develop a plan. 'enables': to make it possible for someone to do something.",
+    "remarks": "'worked out': 制定出，指构思或发展出一个计划。\n'enables': 使能够，指为某人做某事提供条件。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "From 7.30 to 8.30 every evening, I devote my time to my two young children.",
+    "b1": "Every evening from 7:30 to 8:30, I spend time with my two young children.",
+    "cn": "每天晚上7点半到8点半，我专门陪伴我的两个年幼孩子。",
+    "ai_notes": "'devote': to give all or most of your time or effort to a specific purpose.",
+    "remarks": "'devote': 投入，指将大部分时间或精力奉献给特定目标。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "I play games with them, read them stories, draw, answer questions, anything they want me to do.",
+    "b1": "I play games, read stories, draw, or answer their questions.",
+    "cn": "我和他们玩游戏、读故事、画画、回答问题，做他们想做的任何事。",
+    "ai_notes": "'anything they want me to do': a phrase showing total willingness to participate in their activities.",
+    "remarks": "'anything they want me to do': 他们想让我做的任何事，表达完全愿意参与对方的活动。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "After an hour with those kids of mine, they're not only satisfied, but I'm 100% fresher.",
+    "b1": "After spending an hour with them, they are happy, and I feel completely refreshed.",
+    "cn": "陪他们一小时后，他们很满足，我也感到精神焕发。",
+    "ai_notes": "'satisfied': feeling happy because you have what you need. 'fresher': feeling more energetic and less tired.",
+    "remarks": "'satisfied': 满足的，指因得到所需而感到快乐。\n'fresher': 更清爽的，指感觉更有活力、不那么疲惫。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "At 8.30, they trot off to bed, and I settle down to work for two hours.",
+    "b1": "At 8:30, they go to bed, and I start working for two hours.",
+    "cn": "8点半他们去睡觉，我开始工作两小时。",
+    "ai_notes": "'trot off': a casual way to say walk or go somewhere, often used for children. 'settle down': to begin to focus on a task.",
+    "remarks": "'trot off': 走开，常用于形容孩子轻快地离开。\n'settle down': 安静下来，指开始专注于某项任务。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "At 10.30, I quit working and spend the next hour with my wife.",
+    "b1": "At 10:30, I stop working and spend the next hour with my wife.",
+    "cn": "10点半我停止工作，花一小时陪伴我的妻子。",
+    "ai_notes": "'quit': to stop doing an activity.",
+    "remarks": "'quit': 停止，指放弃做某项活动。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "We talk about the kids, her various activities, our plans for the future.",
+    "b1": "We talk about the children, her activities, and our future plans.",
+    "cn": "我们聊聊孩子、她的活动以及我们对未来的计划。",
+    "ai_notes": "'various': many different types of things.",
+    "remarks": "'various': 各种各样的，指多种不同类型的事物。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "This hour, undisturbed by anything, is a wonderful way to cap off the day.",
+    "b1": "This quiet hour is a wonderful way to end the day.",
+    "cn": "这一小时不受打扰，是结束一天的美好方式。",
+    "ai_notes": "'undisturbed': not interrupted by anyone or anything. 'cap off': to finish or complete something in a satisfying way.",
+    "remarks": "'undisturbed': 未受打扰的，指不被任何人或事干扰。\n'cap off': 圆满结束，指以令人满意的方式完成某事。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "I also reserve Sundays for my family.",
+    "b1": "I also keep Sundays free for my family.",
+    "cn": "我也把周日留给家人。",
+    "ai_notes": "'reserve': to keep something for a particular purpose or person.",
+    "remarks": "'reserve': 预留，指为特定目的或人保留某物。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "The whole day is theirs.",
+    "b1": "The whole day belongs to them.",
+    "cn": "这一整天都属于他们。",
+    "ai_notes": "'the whole day is theirs': the entire day is dedicated to them.",
+    "remarks": "'the whole day is theirs': 一整天都属于他们，指将全天的时间专门留给对方。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "I find my organized program for giving my family the attention it deserves is good not only for them but also good for me.",
+    "b1": "I find that this plan is good for both my family and me.",
+    "cn": "我发现这个照顾家人的计划不仅对他们好，对我自己也很好。",
+    "ai_notes": "'organized program': a structured plan. 'deserves': to be worthy of or have a right to something.",
+    "remarks": "'organized program': 有组织的计划，指结构化的安排。\n'deserves': 值得，指有资格获得某物。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "It gives me new energy.",
+    "b1": "It gives me new energy.",
+    "cn": "它给了我新的能量。",
+    "ai_notes": "'energy': the strength and vitality required for physical or mental activity.",
+    "remarks": "'energy': 精力，指进行体力或脑力活动所需的强度和活力。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "Want to make money?",
+    "b1": "Do you want to earn money?",
+    "cn": "想赚钱吗？",
+    "ai_notes": "'make money': to earn an income.",
+    "remarks": "'make money': 赚钱，指赚取收入。",
+    "play_count": 0
+  }
+}

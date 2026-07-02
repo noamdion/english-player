@@ -1,0 +1,378 @@
+{
+  "0": {
+    "original": "A committee or group is in session.",
+    "b1": "A committee or group is meeting.",
+    "cn": "一个委员会或小组正在开会。",
+    "ai_notes": "'in session': actively meeting or working.",
+    "remarks": "'in session': 正在开会或工作，指会议或活动正在进行中。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "The purpose, to consider names for a promotion, a new job, a club membership,",
+    "b1": "Their goal is to think about people for a promotion, a new job, or to join a club.",
+    "cn": "目的是考虑晋升、新工作或俱乐部会员的候选人。",
+    "ai_notes": "'consider': to think about something carefully. 'promotion': a move to a higher or more important job.",
+    "remarks": "'consider': 仔细考虑，思考。\n'promotion': 晋升，指职位或等级的提升。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "an honor, someone to be the new company president, the new supervisor, the new sales manager.",
+    "b1": "They also consider people for an award, or to be the new company president, supervisor, or sales manager.",
+    "cn": "还有荣誉，或者新公司总裁、新主管、新销售经理的人选。",
+    "ai_notes": "'honor': a special award or recognition. 'president': the leader of a company or organization.",
+    "remarks": "'honor': 荣誉，指特别的奖励或认可。\n'president': 主席或总裁，公司或组织的领导者。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "A name is placed before the group.",
+    "b1": "Someone's name is suggested to the group.",
+    "cn": "一个名字被提交给小组。",
+    "ai_notes": "'placed before the group': suggested or presented to the committee for discussion.",
+    "remarks": "'placed before the group': 提交给小组，供大家讨论或审议。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "The chairman asks, what is your feeling about so-and-so?",
+    "b1": "The chairman asks, \"What do you think about this person?\"",
+    "cn": "主席问道：“你们对某某人有什么看法？”",
+    "ai_notes": "'so-and-so': a way to refer to a person without naming them directly.",
+    "remarks": "'so-and-so': 某某人，指不愿直接说出姓名的人。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "Comments come forth.",
+    "b1": "People start to share their opinions.",
+    "cn": "大家开始发表评论。",
+    "ai_notes": "'come forth': to appear or be presented. 'opinions': what someone thinks about a topic.",
+    "remarks": "'come forth': 出现，提出，指意见或信息被呈现出来。\n'opinions': 观点，看法，指个人对某事的想法。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "For some names, there are positive remarks, such as, He's a good fellow.",
+    "b1": "For some people, there are good comments, like, \"He's a nice person.\"",
+    "cn": "对于一些名字，会有积极的评价，比如“他是个好人”。",
+    "ai_notes": "'positive remarks': good comments or statements. 'fellow': a friendly or informal term for a man.",
+    "remarks": "'positive remarks': 积极的评价，好的评论。\n'fellow': 伙计，哥们，对男性的友好或非正式称呼。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "People there speak highly of him.",
+    "b1": "People in the group say very good things about him.",
+    "cn": "在场的人都对他评价很高。",
+    "ai_notes": "'speak highly of': to praise someone or say very good things about them.",
+    "remarks": "'speak highly of': 高度评价，赞扬某人，说很多关于他们的好话。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "He has a good technical background, too.",
+    "b1": "He also has good technical knowledge.",
+    "cn": "他也有很好的技术背景。",
+    "ai_notes": "'technical background': knowledge and experience in a specific skill or field.",
+    "remarks": "'technical background': 技术背景，指在特定技能或领域的知识和经验。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "Mr. F. Oh, he's a personable sort of man, very human.",
+    "b1": "Mr. F. Oh, he's a friendly and kind person.",
+    "cn": "F先生。哦，他是个很讨人喜欢的人，很有人情味。",
+    "ai_notes": "'personable': friendly and pleasant to be around. 'sort of man': a way to describe someone's personality. 'human': kind and showing empathy.",
+    "remarks": "'personable': 友善的，讨人喜欢的，指容易相处。\n'sort of man': 一种男人，用来描述某人的性格特点。\n'human': 人道的，有人情味的，指善良并富有同情心。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "I believe he would fit in well with our group.",
+    "b1": "I think he would work well with our group.",
+    "cn": "我相信他会很好地融入我们的小组。",
+    "ai_notes": "'fit in': to be accepted or feel comfortable in a group or situation.",
+    "remarks": "'fit in': 融入，适应，指在一个群体或环境中感到被接纳或舒适。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "Some names draw negative, lukewarm statements.",
+    "b1": "For other people, the comments are negative or not very enthusiastic.",
+    "cn": "有些名字则引来负面或不温不火的评价。",
+    "ai_notes": "'draw': to attract or bring out. 'lukewarm statements': comments that are not very enthusiastic or positive.",
+    "remarks": "'draw': 吸引，引出，指引起注意或反应。\n'lukewarm statements': 不冷不热的陈述，指不怎么热情或积极的评论。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "I think we should investigate that fellow carefully.",
+    "b1": "I think we should check that person carefully.",
+    "cn": "我认为我们应该仔细调查那个人。",
+    "ai_notes": "'investigate': to examine or inquire into something carefully.",
+    "remarks": "'investigate': 调查，研究，指仔细检查或询问某事。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "He doesn't seem to get along too well with people.",
+    "b1": "He doesn't seem to have good relationships with others.",
+    "cn": "他似乎不太擅长与人相处。",
+    "ai_notes": "'get along with': to have a good relationship with someone.",
+    "remarks": "'get along with': 与某人相处融洽，指与他人关系良好。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "I know he has a good academic and technical background, I don't question his competence,",
+    "b1": "I know he has good education and technical skills, and I don't doubt his ability,",
+    "cn": "我知道他有良好的学术和技术背景，我不怀疑他的能力，",
+    "ai_notes": "'academic background': knowledge gained through education. 'competence': the ability to do something successfully or efficiently.",
+    "remarks": "'academic background': 学术背景，指通过教育获得的知识。\n'competence': 能力，胜任，指成功或有效地做某事的能力。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "but I am concerned about the acceptance he would receive.",
+    "b1": "but I worry if people would accept him.",
+    "cn": "但我担心他会受到怎样的接纳。",
+    "ai_notes": "'concerned about': worried about something. 'acceptance': the act of being welcomed or approved.",
+    "remarks": "'concerned about': 担心，关注，指对某事感到忧虑。\n'acceptance': 接纳，认可，指被欢迎或批准的行为。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "He doesn't command much respect from people.",
+    "b1": "People don't respect him much.",
+    "cn": "他不太受人尊敬。",
+    "ai_notes": "'command much respect': to be highly regarded or admired by others.",
+    "remarks": "'command much respect': 深受尊敬，备受推崇，指被他人高度评价或钦佩。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "Now, here is an exceptionally important observation.",
+    "b1": "Now, here is something very important to notice.",
+    "cn": "现在，这里有一个非常重要的发现。",
+    "ai_notes": "'exceptionally': unusually or extremely. 'observation': a remark or statement based on something noticed.",
+    "remarks": "'exceptionally': 异常地，极其地，指不同寻常地。\n'observation': 观察到的言论，指基于所见所闻的评论或陈述。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "In at least nine cases out of ten, the likability factor is the first thing mentioned.",
+    "b1": "In most situations, people first talk about how likable someone is.",
+    "cn": "至少在十次中有九次，讨人喜欢这个因素是第一个被提及的。",
+    "ai_notes": "'likability factor': the quality of being pleasant and easy to like. 'mentioned': spoken or written about.",
+    "remarks": "'likability factor': 可爱因素，指令人愉悦、容易喜欢的特质。\n'mentioned': 提到，提及，指被说起或写过。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "And in an overwhelmingly large number of cases, the likability factor is given far more weight than the technical factor.",
+    "b1": "And very often, being likable is considered much more important than technical skills.",
+    "cn": "而且在绝大多数情况下，讨人喜欢这个因素比技术因素受到更多的重视。",
+    "ai_notes": "'overwhelmingly': by a very large amount. 'given far more weight': considered much more important.",
+    "remarks": "'overwhelmingly': 压倒性地，绝大多数地，指数量上非常多。\n'given far more weight': 被赋予更大的分量，指被认为更重要。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "This holds true even in selecting scholars for university professorships.",
+    "b1": "This is true even when choosing smart people for university professor jobs.",
+    "cn": "即使在选择大学教授时，这也是事实。",
+    "ai_notes": "'holds true': is correct or valid. 'professorships': positions as a professor at a university.",
+    "remarks": "'holds true': 成立，是真的，指是正确或有效的。\n'professorships': 教授职位，指大学里的教授职位。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "In my own academic experience, I've sat in on a considerable number of occasions when names for new faculty personnel were under question.",
+    "b1": "In my own experience at universities, I have been in many meetings where they discussed new teachers.",
+    "cn": "在我自己的学术经历中，我曾多次参加讨论新教职人员名单的会议。",
+    "ai_notes": "'academic experience': experience related to studying or teaching at a university. 'sat in on': attended a meeting or event without being an official participant. 'considerable number': a large amount. 'faculty personnel': the staff of a university department.",
+    "remarks": "'academic experience': 学术经验，指与大学学习或教学相关的经验。\n'sat in on': 列席旁听，指参加会议或活动但非正式参与者。\n'considerable number': 大量，相当多的数量。\n'faculty personnel': 系部人员，指大学系部的教职员工。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "When a name came up, the group would weigh most carefully thoughts such as, will he fit in?",
+    "b1": "When a name was suggested, the group would think carefully about things like, \"Will he get along with others?\"",
+    "cn": "当一个名字被提出时，小组会非常仔细地考虑，比如“他能融入吗？”",
+    "ai_notes": "'weigh most carefully': to consider very carefully. 'fit in': to be accepted by the group.",
+    "remarks": "'weigh most carefully': 最仔细地权衡，指非常认真地考虑。\n'fit in': 融入，指被群体接纳。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "Will students like him?",
+    "b1": "Will students like him?",
+    "cn": "学生会喜欢他吗？",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "Will he cooperate with others on the staff?",
+    "b1": "Will he work well with other staff members?",
+    "cn": "他会和同事们合作吗？",
+    "ai_notes": "'cooperate': to work together with others.",
+    "remarks": "'cooperate': 合作，指与他人一起工作。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "Unfair?",
+    "b1": "Is this unfair?",
+    "cn": "不公平吗？",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "Unacademic?",
+    "b1": "Is this not academic?",
+    "cn": "不符合学术标准吗？",
+    "ai_notes": "'unacademic': not related to or suitable for academic study or work.",
+    "remarks": "'unacademic': 不适合学术的，指与学术研究或工作不相关或不适合。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "No.",
+    "b1": "No, it's not.",
+    "cn": "不。",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "If the fellow isn't likable, he can't be expected to get through to his students with maximum effectiveness.",
+    "b1": "If a person isn't likable, he won't be able to teach his students as well as possible.",
+    "cn": "如果这个人不讨人喜欢，就不能指望他能以最大的效率影响他的学生。",
+    "ai_notes": "'get through to': to successfully communicate with someone. 'maximum effectiveness': the highest possible level of success.",
+    "remarks": "'get through to': 成功与某人沟通，指能够有效地与他人交流。\n'maximum effectiveness': 最大效能，指最高可能达到的成功水平。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "Mark this point well.",
+    "b1": "Remember this important point.",
+    "cn": "记住这一点。",
+    "ai_notes": "'Mark this point well': Remember this important idea.",
+    "remarks": "'Mark this point well': 牢记这一点，指记住这个重要的想法。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "A person is not pulled up to a higher level job, rather he is lifted up.",
+    "b1": "People are not forced into higher jobs; instead, they are helped to move up.",
+    "cn": "一个人不是被拉到更高的职位，而是被提拔上去的。",
+    "ai_notes": "'pulled up': forced or moved forcefully. 'lifted up': helped to move to a higher position.",
+    "remarks": "'pulled up': 强行拉起，指用力拉或移动。\n'lifted up': 举起，帮助移到更高位置。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "In this day and age, nobody has time or patience to pull another up the job ladder,",
+    "b1": "Nowadays, no one has the time or patience to help someone slowly move up in their career,",
+    "cn": "在这个时代，没有人有时间或耐心去一步步地帮助别人提升职业阶梯，",
+    "ai_notes": "'day and age': the present time. 'patience': the ability to wait or tolerate something without getting angry. 'pull another up the job ladder': to help someone get promoted in their career.",
+    "remarks": "'day and age': 当今时代，指现在这个时期。\n'patience': 耐心，指能够等待或容忍而不生气的能力。\n'pull another up the job ladder': 帮助某人升职，指帮助他人获得职业晋升。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "degree by painful degree.",
+    "b1": "step by difficult step.",
+    "cn": "艰难地一步步提升。",
+    "ai_notes": "'degree by painful degree': step by difficult step, slowly and with effort.",
+    "remarks": "'degree by painful degree': 痛苦地一点一点，指缓慢而费力地一步一步来。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "The individual is chosen whose record makes him stand higher than the rest.",
+    "b1": "The person chosen is the one whose achievements make them better than others.",
+    "cn": "被选中者是那些履历使他们比其他人更突出的人。",
+    "ai_notes": "'stand higher than the rest': to be more successful or better than other people.",
+    "remarks": "'stand higher than the rest': 比其他人更成功，指比其他人更成功或更好。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "We are lifted to higher levels by those who know us as likable, personable individuals.",
+    "b1": "We are helped to reach higher positions by people who see us as friendly and likable.",
+    "cn": "我们被那些认为我们讨人喜欢、平易近人的人提拔到更高的层次。",
+    "ai_notes": "'personable individuals': people who are friendly and pleasant.",
+    "remarks": "'personable individuals': 讨人喜欢的人，指友好且令人愉快的人。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "Every friend you make lifts you just one notch higher, and being likable makes you lighter to lift.",
+    "b1": "Every friend you make helps you move up a little, and being likable makes it easier for people to help you.",
+    "cn": "你交的每一个朋友都会让你更上一层楼，而讨人喜欢会让你更容易被提拔。",
+    "ai_notes": "'notch higher': a small step up in rank or position. 'lighter to lift': easier for others to help or promote.",
+    "remarks": "'notch higher': 提高一个档次，指在等级或职位上小幅提升。\n'lighter to lift': 更容易帮助，指别人更容易帮助或提拔。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "Successful people follow a plan for liking people, do you?",
+    "b1": "Successful people have a plan for how to like others, do you?",
+    "cn": "成功人士有喜欢别人的计划，你呢？",
+    "ai_notes": "'follow a plan for liking people': have a strategy for being friendly and making good relationships.",
+    "remarks": "'follow a plan for liking people': 遵循喜欢人的计划，指有一个交友或建立良好关系的策略。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "People who reach the top don't discuss much their techniques for thinking right toward people.",
+    "b1": "People who become very successful don't often talk about how they think positively about others.",
+    "cn": "那些达到顶峰的人很少谈论他们如何正确看待他人的方法。",
+    "ai_notes": "'reach the top': become very successful. 'techniques': methods or ways of doing something. 'thinking right toward people': having positive and constructive thoughts about others.",
+    "remarks": "'reach the top': 达到顶峰，指取得巨大成功。\n'techniques': 方法，技巧，指做事的方法或方式。\n'thinking right toward people': 对人有积极的想法，指对他人持有正面和建设性的想法。",
+    "play_count": 0
+  },
+  "38": {
+    "original": "But you would be surprised how many really big people have a clear, definite, even written plan for liking people.",
+    "b1": "But you might be surprised how many very successful people have a clear, specific, and even written plan for how to like others.",
+    "cn": "但你会惊讶地发现，许多真正的大人物都有一个清晰、明确、甚至书面的喜欢别人的计划。",
+    "ai_notes": "'definite': clear and specific. 'written plan': a plan that is put down in writing.",
+    "remarks": "'definite': 明确的，清晰的，指清晰且具体的。\n'written plan': 书面计划，指写下来的计划。",
+    "play_count": 0
+  },
+  "39": {
+    "original": "Consider the case of President Lyndon Johnson.",
+    "b1": "Think about President Lyndon Johnson.",
+    "cn": "考虑一下林登·约翰逊总统的例子。",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "40": {
+    "original": "Long before he became president, Johnson, in the process of developing his amazing power of personal persuasion,",
+    "b1": "Long before he became president, Johnson was developing his great ability to persuade people,",
+    "cn": "早在他成为总统之前，约翰逊在发展他惊人的个人说服力过程中，",
+    "ai_notes": "'personal persuasion': the ability to convince others through personal interaction. 'developed': created or improved over time.",
+    "remarks": "'personal persuasion': 个人说服力，指通过个人互动说服他人的能力。\n'developed': 发展，指随着时间推移而创造或改进。",
+    "play_count": 0
+  },
+  "41": {
+    "original": "developed his own ten-point formula for success.",
+    "b1": "he created his own ten-point plan for success.",
+    "cn": "制定了他自己的十点成功法则。",
+    "ai_notes": "'formula': a set of rules or steps to achieve something.",
+    "remarks": "'formula': 公式，方法，指为了达到某个目标而设定的一系列规则或步骤。",
+    "play_count": 0
+  },
+  "42": {
+    "original": "His rules, which even a casual observer of the President can see are practiced in everything he does,",
+    "b1": "Even someone who just watches the President can see that he uses these rules in everything he does,",
+    "cn": "他的这些规则，即使是随便观察总统的人也能看出他所做的一切都在实践着，",
+    "ai_notes": "'casual observer': someone who watches without deep attention. 'practiced': used regularly.",
+    "remarks": "'casual observer': 随意观察者，指不加深入关注地观看的人。\n'practiced': 熟练的，指经常使用的。",
+    "play_count": 0
+  },
+  "43": {
+    "original": "are quoted directly.",
+    "b1": "are written here exactly as he said them.",
+    "cn": "被直接引用如下。",
+    "ai_notes": "'quoted directly': written or said exactly as someone else said or wrote it.",
+    "remarks": "'quoted directly': 直接引用，指完全按照某人所说或所写的方式写下或说出。",
+    "play_count": 0
+  },
+  "44": {
+    "original": "1.",
+    "b1": "1.",
+    "cn": "1.",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "45": {
+    "original": "Learn to remember names.",
+    "b1": "Learn to remember people's names.",
+    "cn": "学会记住名字。",
+    "ai_notes": "No specific difficult words or phrases.",
+    "remarks": "没有特别难的词语或短语。",
+    "play_count": 0
+  },
+  "46": {
+    "original": "Inefficiency at this point may indicate that your interest is not sufficiently outgoing.",
+    "b1": "If you are not good at this, it might mean you are not interested enough in other people.",
+    "cn": "在这一点上效率低下可能表明你的兴趣不够外向。",
+    "ai_notes": "'Inefficiency': not working well or effectively. 'indicate': to show or suggest. 'sufficiently outgoing': interested enough in other people and willing to interact with them.",
+    "remarks": "'Inefficiency': 低效，指工作效率不高或效果不佳。\n'indicate': 表明，显示，指显示或暗示。\n'sufficiently outgoing': 足够外向，指对他人有足够的兴趣并愿意与他们互动。",
+    "play_count": 0
+  }
+}

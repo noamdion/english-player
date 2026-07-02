@@ -10,6 +10,11 @@
             --accent: #4fc3f7; --dim: #888; --disabled: #3a3a4a;
             --cur-bg: #1b3a4a; --btn: #555;
         }
+        .loop-label {
+                 font-size: 0.6em;
+                 color: var(--dim);
+                 margin-left: 2px;
+        }
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             background: var(--bg); color: var(--text);
@@ -110,32 +115,53 @@
         .progress-bar { flex: 1; height: 4px; background: #252535; border-radius: 2px; position: relative; min-width: 50px; }
         .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; width: 0%; }
         .loading { text-align: center; padding: 40px; color: var(--dim); font-size: 1em; }
-        /* 手机端适配 */
         @media (max-width: 600px) {
-            body {
-                font-size: 18px;
-            }
-            .course-card {
-                padding: 12px 14px;
-            }
-            .sub-row {
-                padding: 10px 12px;
-            }
-            .controls button {
-                font-size: 1.3em;
-                padding: 8px 10px;
-            }
-            .controls select {
-                font-size: 0.9em;
-                padding: 6px 8px;
-            }
-            .note-original {
-                font-size: 1.2em;
-            }
-            .note-content {
-                font-size: 1em;
-            }
+        body {
+            font-size: 20px;
         }
+        .course-card {
+            padding: 14px 16px;
+        }
+        .course-card .course-name {
+            font-size: 1.1em;
+        }
+        .sub-row {
+            padding: 12px 14px;
+        }
+        .sub-row .text {
+            font-size: 1em;
+        }
+        .controls {
+            gap: 6px;
+            padding: 10px 8px;
+        }
+        .controls button {
+            font-size: 1.6em;
+            padding: 10px 14px;
+            min-width: 48px;
+            min-height: 48px;
+        }
+        .controls select {
+            font-size: 0.9em;
+            padding: 8px 6px;
+            min-width: 50px;
+            min-height: 40px;
+        }
+        .note-original {
+            font-size: 1.2em;
+        }
+        .note-content {
+            font-size: 1em;
+        }
+        /* 隐藏 "句子循环" 和 "单篇循环" 文字，只保留下拉框 */
+        .loop-label {
+            display: none;
+        }
+        /* 控制栏下拉框加个简短标签，方便识别 */
+        .controls select:first-of-type {
+            margin-left: 0;
+        }
+    }
     </style>
     
 </head>

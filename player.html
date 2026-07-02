@@ -58,7 +58,7 @@
         .back-bar span { font-size: 0.95em; color: var(--text); }
         .subtitle-list {
             flex: 0 0 auto; overflow-y: auto; padding: 4px 0;
-            max-height: 30vh;
+            max-height: 60vh;
         }
         .sub-row {
             display: flex; align-items: flex-start;
@@ -73,7 +73,7 @@
         .notes-panel {
             background: var(--panel); border-top: 2px solid #252535;
             padding: 10px 16px; flex-shrink: 0;
-            max-height: 55vh;
+            max-height: 65vh;
             overflow-y: auto;
         }
         .note-original {
@@ -81,7 +81,7 @@
             color: var(--accent); margin-bottom: 8px; line-height: 1.4;
         }
         .notes-row {
-            display: grid; grid-template-columns: 1fr 1fr;
+            display: grid; grid-template-columns: 1fr;
             gap: 6px 12px; margin-bottom: 2px;
         }
         .note-block { margin-bottom: 4px; }
@@ -125,11 +125,14 @@
             .sub-row {
                 padding: 10px 12px;
             }
+            .sub-row .text {           /* ← 加上这一块 */
+                font-size: 1.2em;
+            }
             .subtitle-list {
-                max-height: 25vh;
+                max-height: 20vh;
             }
             .notes-panel {
-                max-height: 60vh;
+                max-height: 70vh;
             }
             .controls button {
                 font-size: 1.6em;

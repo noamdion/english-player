@@ -1,0 +1,250 @@
+{
+  "0": {
+    "original": "Three, walk 25% faster.",
+    "b1": "Third, walk 25% faster.",
+    "cn": "第三，走路速度加快25%。",
+    "ai_notes": "25% faster: a specific instruction to increase speed by one-quarter to change one's physical energy.",
+    "remarks": "'25% faster': 一项具体的指令，要求将速度提高四分之一，以改变个人的身体能量。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "When I was a youngster, just going to the county seat was a big treat.",
+    "b1": "When I was young, going to the town center was a special treat.",
+    "cn": "我小时候，能去趟县城就是一件很开心的事。",
+    "ai_notes": "county seat: the town where the government offices for a county are located; often the main town in a rural area. 'big treat': something special or enjoyable that does not happen very often.",
+    "remarks": "'county seat': 县政府所在地；通常是农村地区的主要城镇。\n'big treat': 不常发生的特别或令人愉快的事情。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "After all the errands were accomplished and we were back in the car,",
+    "b1": "After we finished our errands and got back into the car,",
+    "cn": "办完所有事情回到车里后，",
+    "ai_notes": "errands: short trips to do small tasks, like buying groceries or picking up mail. 'accomplished': a formal way to say finished or completed.",
+    "remarks": "'errands': 短途外出办理的小事，如买菜或取邮件。\n'accomplished': 完成或结束的正式说法。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "my mother would often say, Davy, let's just sit here a while and watch the people walk by.",
+    "b1": "my mother would often say, \"Davy, let's sit here for a while and watch people walk by.\"",
+    "cn": "我母亲常会说：“戴维，我们坐在这儿一会儿，看看过往的行人吧。”",
+    "ai_notes": "watch the people walk by: a common way to describe observing others in public spaces to pass the time.",
+    "remarks": "'watch the people walk by': 一种描述在公共场所观察他人以消磨时间的常用方式。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Mother was an excellent game player.",
+    "b1": "My mother was very good at playing games.",
+    "cn": "母亲很擅长玩游戏。",
+    "ai_notes": "game player: someone who enjoys playing games, often used here to describe someone who turns ordinary situations into fun activities.",
+    "remarks": "'game player': 喜欢玩游戏的人，此处指将普通情境转化为有趣活动的人。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "She'd say, see that fellow?",
+    "b1": "She would ask, \"Do you see that man?\"",
+    "cn": "她会问：“看到那个人了吗？”",
+    "ai_notes": "fellow: an informal, slightly old-fashioned word for a man.",
+    "remarks": "'fellow': 对男性的非正式称呼，略显老派。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "What do you suppose is troubling him?",
+    "b1": "\"What do you think is worrying him?\"",
+    "cn": "“你觉得他有什么烦心事吗？”",
+    "ai_notes": "suppose: a common way to ask for someone's opinion or guess about a situation. 'troubling him': causing him worry or problems.",
+    "remarks": "'suppose': 询问某人对某事看法或猜测的常用方式。\n'troubling him': 引起他的担忧或麻烦。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "Or what do you think that lady there is going to do?",
+    "b1": "\"Or what do you think that woman is going to do?\"",
+    "cn": "“或者你觉得那位女士打算去做什么？”",
+    "ai_notes": "lady: a polite way to refer to a woman.",
+    "remarks": "'lady': 对女性的礼貌称呼。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "or, look at that person, he just seems to be in a fog.",
+    "b1": "\"Or look at that person, he seems lost in his own thoughts.\"",
+    "cn": "“或者看看那个人，他看起来心不在焉的。”",
+    "ai_notes": "in a fog: an idiom meaning to be confused, distracted, or not paying attention to what is happening around you.",
+    "remarks": "'in a fog': 习语，意为困惑、心不在焉或没有注意到周围发生的事情。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "Watching people walk and move about became real fun.",
+    "b1": "Watching how people walked and moved became very fun.",
+    "cn": "观察人们走路和活动变得非常有趣。",
+    "ai_notes": "move about: a phrasal verb meaning to walk around or change one's position in a space.",
+    "remarks": "'move about': 短语动词，意为四处走动或改变在空间中的位置。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "It was a lot cheaper than the movies, which was one of the reasons,",
+    "b1": "It was much cheaper than going to the movies, which was one reason,",
+    "cn": "这比看电影便宜多了，这也是原因之一，",
+    "ai_notes": "a lot cheaper: a common way to say much less expensive.",
+    "remarks": "'a lot cheaper': 便宜得多的常用说法。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "I learned later, that Mother developed the game, and it was a lot more instructive.",
+    "b1": "I learned later, that Mother created the game, and it was much more educational.",
+    "cn": "我后来才知道，母亲发明这个游戏是因为它更具启发性。",
+    "ai_notes": "instructive: providing useful information or teaching a lesson.",
+    "remarks": "'instructive': 提供有用信息或传授经验的。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "I still am a walk-watcher.",
+    "b1": "I still like to watch people walk.",
+    "cn": "我至今仍是一个喜欢观察走路的人。",
+    "ai_notes": "walk-watcher: a creative term invented by the author to describe someone who observes how people walk.",
+    "remarks": "'walk-watcher': 作者创造的一个词，用来描述观察人们走路方式的人。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "In corridors, lobbies, on sidewalks, I still occasionally find myself studying human behavior simply by watching people move about.",
+    "b1": "In hallways, lobbies, or on the street, I still sometimes study human behavior by watching how people move.",
+    "cn": "在走廊、大厅或人行道上，我有时仍会通过观察人们的走动来研究人类行为。",
+    "ai_notes": "corridors: long hallways in a building. 'lobbies': large entrance areas in hotels or office buildings.",
+    "remarks": "'corridors': 建筑物内的长走廊。\n'lobbies': 酒店或办公楼内的大型入口区域。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "Psychologists link slovenly posture and sluggish walking to unpleasant attitudes toward oneself, work, and the people around us.",
+    "b1": "Psychologists say that bad posture and slow walking show a negative attitude toward yourself, your work, and others.",
+    "cn": "心理学家认为，懒散的姿势和缓慢的步伐反映了对自己、工作以及周围人消极的态度。",
+    "ai_notes": "slovenly: messy, lazy, or careless in appearance or behavior. 'sluggish': moving slowly and lacking energy.",
+    "remarks": "'slovenly': 外表或行为邋遢、懒散或粗心。\n'sluggish': 行动迟缓且缺乏活力。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "But psychologists also tell us you can actually change your attitudes by changing your posture and speed of movement.",
+    "b1": "But they also say you can change your attitude by changing your posture and walking speed.",
+    "cn": "但心理学家也告诉我们，你可以通过改变姿势和行走速度来改变心态。",
+    "ai_notes": "posture: the position in which you hold your body when standing or sitting.",
+    "remarks": "'posture': 站立或坐着时身体保持的姿势。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Watch, and you discover that body action is the result of mind action.",
+    "b1": "If you watch, you will see that how you move depends on how you think.",
+    "cn": "观察一下你就会发现，身体动作是思维活动的体现。",
+    "ai_notes": "body action is the result of mind action: an observation that physical behavior reflects internal thoughts or feelings.",
+    "remarks": "'body action is the result of mind action': 一种观察，即身体行为反映了内在的思想或感受。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "The extremely beaten people, the real down-and-outers, just shuffle and stumble along.",
+    "b1": "People who feel defeated or hopeless just shuffle and stumble along.",
+    "cn": "那些极度受挫、真正潦倒的人，走路总是拖着步子，跌跌撞撞。",
+    "ai_notes": "down-and-outers: people who have no money, no job, and no hope. 'shuffle': to walk by dragging your feet along the ground.",
+    "remarks": "'down-and-outers': 没有钱、没有工作且没有希望的人。\n'shuffle': 拖着脚走路。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "They have zero self-confidence.",
+    "b1": "They have no self-confidence.",
+    "cn": "他们毫无自信。",
+    "ai_notes": "zero: used here to emphasize the complete absence of something.",
+    "remarks": "'zero': 此处用于强调某事完全不存在。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "Average people have the average walk.",
+    "b1": "Average people have an average walk.",
+    "cn": "普通人走路的样子也很普通。",
+    "ai_notes": "average walk: a neutral, unremarkable way of moving that does not show strong emotion or purpose.",
+    "remarks": "'average walk': 一种中性、平淡的行走方式，没有表现出强烈的情绪或目的。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "Their pace is average.",
+    "b1": "Their speed is normal.",
+    "cn": "他们的步伐速度很平庸。",
+    "ai_notes": "pace: the speed at which someone walks or moves.",
+    "remarks": "'pace': 某人行走或移动的速度。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "They have the look of, I really don't have very much pride in myself.",
+    "b1": "They look like they don't have much pride in themselves.",
+    "cn": "他们看起来对自己没什么自豪感。",
+    "ai_notes": "pride in myself: a feeling of self-respect and satisfaction with one's own character or achievements.",
+    "remarks": "'pride in myself': 对自己的人格或成就感到自尊和满足。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "Then there's a third group.",
+    "b1": "Then there is a third group.",
+    "cn": "还有第三类人。",
+    "ai_notes": "third group: a way to categorize people based on their behavior.",
+    "remarks": "'third group': 根据行为对人群进行分类的一种方式。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "Persons in this group show super confidence.",
+    "b1": "People in this group show great confidence.",
+    "cn": "这类人表现出极大的自信。",
+    "ai_notes": "super confidence: a very high level of belief in one's own abilities.",
+    "remarks": "'super confidence': 对自身能力极高的自信。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "They walk faster than the average.",
+    "b1": "They walk faster than most people.",
+    "cn": "他们走路比一般人快。",
+    "ai_notes": "average: the typical or middle standard of a group.",
+    "remarks": "'average': 群体的典型或中间标准。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "There seems to be a slight sprint in the way they walk.",
+    "b1": "They seem to have a little extra energy in their walk.",
+    "cn": "他们走路时似乎带有一股冲劲。",
+    "ai_notes": "sprint: a short, fast burst of running; here it implies a sense of urgency and energy.",
+    "remarks": "'sprint': 短距离快速奔跑；此处暗示一种紧迫感和活力。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "Their walk tells the world, I've got some place important to go, something important to do.",
+    "b1": "Their walk tells the world, \"I have somewhere important to go and something important to do.\"",
+    "cn": "他们的步伐向世界宣告：“我有重要的地方要去，有重要的事情要做。”",
+    "ai_notes": "tells the world: an idiom meaning that your actions show others what you are feeling or thinking without you needing to speak.",
+    "remarks": "'tells the world': 习语，意为你的行为无需言语就能向他人展示你的感受或想法。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "What's more, I will succeed at what I will do fifteen minutes from now.",
+    "b1": "Also, I will succeed at what I do soon.",
+    "cn": "而且，我马上要做的事情一定会成功。",
+    "ai_notes": "what's more: a phrase used to add extra, important information to a previous statement.",
+    "remarks": "'what's more': 用于在之前的陈述中补充额外重要信息的短语。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "Use the walk 25% faster technique to help build self-confidence.",
+    "b1": "Use the \"walk 25% faster\" technique to build your self-confidence.",
+    "cn": "运用“加快25%步伐”的技巧来建立自信。",
+    "ai_notes": "technique: a specific method or way of doing something to achieve a result.",
+    "remarks": "'technique': 为达到某种结果而采取的具体方法或方式。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "Throw your shoulders back, lift up your head, move ahead just a little faster, and feel self-confidence grow.",
+    "b1": "Keep your shoulders back, lift your head, walk a little faster, and feel your confidence grow.",
+    "cn": "挺胸抬头，走得快一点，感受自信心的增长。",
+    "ai_notes": "shoulders back: a physical posture associated with confidence and openness.",
+    "remarks": "'shoulders back': 与自信和开放相关的身体姿势。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "Just try and see.",
+    "b1": "Just try it and see.",
+    "cn": "试一试就知道了。",
+    "ai_notes": "try and see: a common encouragement to test an idea for yourself to prove that it works.",
+    "remarks": "'try and see': 鼓励他人亲自尝试以证明其有效性的常用说法。",
+    "play_count": 0
+  }
+}

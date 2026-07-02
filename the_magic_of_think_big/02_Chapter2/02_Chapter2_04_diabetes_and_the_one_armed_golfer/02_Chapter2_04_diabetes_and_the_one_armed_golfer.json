@@ -1,0 +1,306 @@
+{
+  "0": {
+    "original": "I'm a diabetic.",
+    "b1": "I have diabetes.",
+    "cn": "我是一名糖尿病患者。",
+    "ai_notes": "'diabetic': a person who has the medical condition diabetes, which affects how the body processes sugar.",
+    "remarks": "'diabetic': 患有糖尿病的人，该病影响身体处理糖分的方式。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "Right after I discovered I had this ailment, about 5,000 hypodermics ago,",
+    "b1": "Shortly after I found out I had this illness, about 5,000 injections ago,",
+    "cn": "在我刚发现自己患有这种疾病后，大约是在五千次注射前，",
+    "ai_notes": "'ailment': a sickness or illness, usually not very serious but often long-lasting.\n'hypodermics': medical needles used for injections.",
+    "remarks": "'ailment': 小病或疾病，通常不太严重但往往持续时间较长。\n'hypodermics': 用于注射的医用针头。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "I was warned, Diabetes is a physical condition, but the biggest damage results from having a negative attitude about it.",
+    "b1": "I was warned that diabetes is a physical problem, but the worst damage comes from having a negative attitude.",
+    "cn": "我被告知，糖尿病是一种生理疾病，但最大的伤害来自于对它持有的消极态度。",
+    "ai_notes": "'physical condition': a state of the body, often used to describe a medical health issue.\n'results from': happens because of something else.",
+    "remarks": "'physical condition': 身体状态，常用于描述健康问题。\n'results from': 由……引起；起因于……",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Worry about it, and you may have real trouble.",
+    "b1": "If you worry about it, you might have real problems.",
+    "cn": "如果你为此忧心忡忡，你可能会遇到真正的麻烦。",
+    "ai_notes": "'real trouble': serious problems or difficult situations.",
+    "remarks": "'real trouble': 严重的问题或困难的处境。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "Naturally, since the discovery of my own diabetes, I've gotten to know a great many other diabetics.",
+    "b1": "Since I discovered I had diabetes, I have met many other people with the same condition.",
+    "cn": "自然地，自从发现自己患有糖尿病以来，我结识了许多其他糖尿病患者。",
+    "ai_notes": "'a great many': a large number of; many.",
+    "remarks": "'a great many': 大量的；许多。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "Let me tell you about two extremes.",
+    "b1": "Let me tell you about two very different examples.",
+    "cn": "让我来告诉你两个极端的例子。",
+    "ai_notes": "'extremes': two opposite ends of a range; here, it refers to two very different ways of handling a problem.",
+    "remarks": "'extremes': 范围的两端；此处指处理问题的两种截然不同的方式。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "One fellow who has a very mild case belongs to that fraternity of the living dead.",
+    "b1": "One man has a very mild case, but he acts like he is already dead.",
+    "cn": "有一个病情很轻的人，却活得像个行尸走肉。",
+    "ai_notes": "'fellow': a friendly or informal word for a man.\n'fraternity of the living dead': a metaphorical way to describe people who are physically alive but act as if they have given up on life.",
+    "remarks": "'fellow': 对男性的友好或非正式称呼。\n'fraternity of the living dead': 比喻那些身体活着但表现得像已放弃生活的人。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "Obsessed with the fear of the weather, he is usually ridiculously bundled up.",
+    "b1": "He is so afraid of the weather that he always wears too many clothes.",
+    "cn": "他因为害怕天气变化，总是把自己裹得严严实实。",
+    "ai_notes": "'obsessed with': thinking about something so much that it becomes unhealthy or difficult to stop.\n'bundled up': wearing many layers of warm clothing.",
+    "remarks": "'obsessed with': 对某事过度关注，以至于变得不健康或难以停止。\n'bundled up': 穿上多层保暖衣物。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "He's afraid of infection, so he shuns anybody who has the slightest sniffle.",
+    "b1": "He is afraid of getting sick, so he avoids anyone who has a cold.",
+    "cn": "他害怕被传染，所以避开任何有一点感冒症状的人。",
+    "ai_notes": "'shuns': avoids someone or something on purpose.\n'sniffle': the sound made when someone has a runny nose from a cold; it implies a minor illness.",
+    "remarks": "'shuns': 故意避开某人或某事。\n'sniffle': 因感冒流鼻涕发出的声音；暗示轻微的疾病。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "He's afraid of overexertion, so he does almost nothing.",
+    "b1": "He is afraid of working too hard, so he does almost nothing.",
+    "cn": "他害怕过度劳累，所以几乎什么都不做。",
+    "ai_notes": "'overexertion': doing too much physical activity or working too hard.",
+    "remarks": "'overexertion': 过度体力活动或工作过累。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "He spends most of his mental energy worrying about what might happen.",
+    "b1": "He spends most of his time worrying about what might go wrong.",
+    "cn": "他把大部分精力都花在担心可能发生的事情上。",
+    "ai_notes": "'mental energy': the focus and thought power used to deal with daily life.",
+    "remarks": "'mental energy': 处理日常生活所需的专注力和思考能力。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "He bores other people, telling them how awful his problem really is.",
+    "b1": "He bores others by complaining about how terrible his problem is.",
+    "cn": "他总是向别人抱怨自己的问题有多严重，让人感到厌烦。",
+    "ai_notes": "'bores': makes someone feel tired or uninterested because of constant talking.",
+    "remarks": "'bores': 因不停说话而使人感到厌烦或无趣。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "His real ailment is not diabetes.",
+    "b1": "His real problem is not diabetes.",
+    "cn": "他真正的问题不是糖尿病。",
+    "ai_notes": "'ailment': a synonym for illness or a persistent health problem.",
+    "remarks": "'ailment': 疾病或持续性健康问题的同义词。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "Rather, he's a victim of health excusitis.",
+    "b1": "Instead, he is a victim of using his health as an excuse.",
+    "cn": "相反，他是“健康借口症”的受害者。",
+    "ai_notes": "'excusitis': a humorous, made-up word combining 'excuse' and '-itis' (a suffix for inflammation/disease); it means the habit of constantly making excuses.",
+    "remarks": "'excusitis': 一个幽默的自造词，结合了“excuse”（借口）和“-itis”（炎症/疾病后缀）；意指不断找借口的习惯。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "He has pitied himself into being an invalid.",
+    "b1": "He feels so sorry for himself that he has become an invalid.",
+    "cn": "他因为过度自怜，把自己变成了一个废人。",
+    "ai_notes": "'pitied himself into': allowed his own self-pity to cause him to become something.\n'invalid': a person who is weak or disabled and cannot care for themselves.",
+    "remarks": "'pitied himself into': 因自我怜悯而导致自己变成某种状态。\n'invalid': 体弱或残疾、无法自理的人。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "The other extreme is a division manager for a large publishing company.",
+    "b1": "The other extreme is a manager at a large publishing company.",
+    "cn": "另一个极端是一位大型出版公司的部门经理。",
+    "ai_notes": "'division manager': a person in charge of a specific department or section within a large company.",
+    "remarks": "'division manager': 大公司中负责特定部门或分部的人。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "He has a severe case.",
+    "b1": "He has a serious case of diabetes.",
+    "cn": "他的病情很严重。",
+    "ai_notes": "'severe case': a serious or advanced level of a disease.",
+    "remarks": "'severe case': 疾病的严重或晚期阶段。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "He takes about thirty times as much insulin as the fellow just mentioned.",
+    "b1": "He takes much more insulin than the first man.",
+    "cn": "他注射的胰岛素量是刚才提到的那个人的三十倍。",
+    "ai_notes": "'insulin': a hormone used by diabetics to control blood sugar levels.",
+    "remarks": "'insulin': 糖尿病患者用于控制血糖水平的激素。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "But he is not living to be sick.",
+    "b1": "But he does not live just to be sick.",
+    "cn": "但他活着不是为了生病。",
+    "ai_notes": "'living to be sick': a phrase meaning that someone's entire life is focused on their illness.",
+    "remarks": "'living to be sick': 指某人的整个生活都围绕着疾病转。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "He is living to enjoy his work and have fun.",
+    "b1": "He lives to enjoy his work and have fun.",
+    "cn": "他活着是为了享受工作和生活。",
+    "ai_notes": "'have fun': to enjoy oneself and experience happiness.",
+    "remarks": "'have fun': 享受乐趣并体验快乐。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "One day he said to me, Sure, it is an inconvenience, but so is shaving.",
+    "b1": "One day he told me, \"It is annoying, but so is shaving.\"",
+    "cn": "有一天他对我讲：“确实，这很不方便，但刮胡子也不方便啊。”",
+    "ai_notes": "'inconvenience': something that causes minor trouble or annoyance.",
+    "remarks": "'inconvenience': 造成轻微麻烦或烦恼的事物。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "But I'm not going to think myself to bed.",
+    "b1": "I will not let my thoughts make me stay in bed.",
+    "cn": "但我绝不会因为自己的想法而卧床不起。",
+    "ai_notes": "'think myself to bed': a creative way of saying 'letting my negative thoughts make me feel so sick that I have to stay in bed'.",
+    "remarks": "'think myself to bed': 一种创造性的说法，意为“让消极想法使自己感到生病以至于必须卧床”。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "When I take those shots, I just praise the guys who discovered insulin.",
+    "b1": "When I take my medicine, I just thank the people who discovered insulin.",
+    "cn": "当我注射胰岛素时，我只会感激那些发现它的人。",
+    "ai_notes": "'praise': to express admiration or thanks for someone's achievements.",
+    "remarks": "'praise': 对某人的成就表示赞赏或感谢。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "A good friend of mine, a widely known college educator, came home from Europe in 1945, minus one arm.",
+    "b1": "A good friend of mine, a famous teacher, returned from Europe in 1945 after losing an arm.",
+    "cn": "我的一位好朋友，一位知名的大学教育家，1945年从欧洲回国时失去了一条手臂。",
+    "ai_notes": "'minus': in this context, it means 'without' or 'having lost'.",
+    "remarks": "'minus': 在此语境下，意为“没有”或“失去”。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "Despite his handicap, John is always smiling, always helping others.",
+    "b1": "Even with his disability, John is always smiling and helping others.",
+    "cn": "尽管有残疾，约翰总是面带微笑，乐于助人。",
+    "ai_notes": "'handicap': a physical or mental disability that makes certain tasks more difficult.",
+    "remarks": "'handicap': 使某些任务变得更困难的身体或精神残疾。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "He's about as optimistic as anyone I know.",
+    "b1": "He is the most optimistic person I know.",
+    "cn": "他是我认识的人中最乐观的。",
+    "ai_notes": "'optimistic': feeling positive and hopeful about the future.",
+    "remarks": "'optimistic': 对未来感到积极和充满希望。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "One day, he and I had a long talk about his handicap.",
+    "b1": "One day, we had a long talk about his disability.",
+    "cn": "有一天，我们长谈了一次，聊到了他的残疾。",
+    "ai_notes": "'long talk': a deep, serious, or extended conversation.",
+    "remarks": "'long talk': 一次深入、严肃或延长的谈话。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "It's just an arm,\" he said.",
+    "b1": "\"It is just an arm,\" he said.",
+    "cn": "“那只是一条手臂而已，”他说。",
+    "ai_notes": "'It's just an arm': a way of minimizing a loss to show that it does not define the person's whole life.",
+    "remarks": "'It's just an arm': 一种将损失最小化的说法，表明这并不能定义一个人的整个人生。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "Sure, two are better than one, but they just cut off my arm.",
+    "b1": "\"Sure, two arms are better than one, but they only took my arm.\"",
+    "cn": "“当然，两条总比一条好，但他们只是切掉了我的手臂。”",
+    "ai_notes": "'cut off': a phrasal verb meaning to remove a body part, usually through surgery.",
+    "remarks": "'cut off': 动词短语，指通过手术切除身体部位。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "My spirit is one hundred percent intact.",
+    "b1": "\"My spirit is still completely fine.\"",
+    "cn": "“我的精神依然完整无缺。”",
+    "ai_notes": "'intact': complete and not damaged; in one piece.",
+    "remarks": "'intact': 完整的，未受损的；完好无损。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "I'm really grateful for that.",
+    "b1": "\"I am very thankful for that.\"",
+    "cn": "“对此我非常感激。”",
+    "ai_notes": "'grateful': feeling or showing thanks.",
+    "remarks": "'grateful': 感到或表示感谢。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "Another amputee friend is an excellent golfer.",
+    "b1": "Another friend who lost an arm is a great golfer.",
+    "cn": "我还有另一位失去手臂的朋友，他是一位出色的高尔夫球手。",
+    "ai_notes": "'amputee': a person who has had one or more limbs removed.",
+    "remarks": "'amputee': 截肢者，即失去一个或多个肢体的人。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "One day I asked him how he had been able to develop such a near-perfect style with just one arm.",
+    "b1": "I once asked him how he learned to play so well with only one arm.",
+    "cn": "有一次我问他，他是如何做到只用一只手臂就练就了如此完美的球技。",
+    "ai_notes": "'near-perfect': almost perfect; very high quality.",
+    "remarks": "'near-perfect': 近乎完美的；高质量的。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "I mentioned that most golfers with two arms can't do nearly as well.",
+    "b1": "I said that most people with two arms cannot play as well as he does.",
+    "cn": "我说大多数有双臂的人都打不出他这样的水平。",
+    "ai_notes": "'can't do nearly as well': cannot perform at a similar high level.",
+    "remarks": "'can't do nearly as well': 无法达到同样的高水平表现。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "His reply says a lot.",
+    "b1": "His answer was very meaningful.",
+    "cn": "他的回答很有深意。",
+    "ai_notes": "'says a lot': means that the statement is very important or reveals a deep truth.",
+    "remarks": "'says a lot': 意味着该陈述非常重要或揭示了深刻的真理。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "Well, it's my experience, he said, that the right attitude and one arm will beat the wrong attitude and two arms every time.",
+    "b1": "He said that a good attitude and one arm are better than a bad attitude and two arms.",
+    "cn": "他说，好的心态加一只手臂，永远胜过坏的心态加两只手臂。",
+    "ai_notes": "'beat': to win against someone or something.",
+    "remarks": "'beat': 击败某人或某事。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "The right attitude and one arm will beat the wrong attitude and two arms every time.",
+    "b1": "A good attitude and one arm will always beat a bad attitude and two arms.",
+    "cn": "好的心态加一只手臂，永远胜过坏的心态加两只手臂。",
+    "ai_notes": "'The right attitude': a positive mindset; the most important factor in overcoming challenges.",
+    "remarks": "'The right attitude': 正确的态度；克服挑战最重要的因素。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "Think about that for a while.",
+    "b1": "Think about that for a while.",
+    "cn": "好好思考一下这句话。",
+    "ai_notes": "'Think about that for a while': a suggestion to reflect deeply on the meaning of what was just said.",
+    "remarks": "'Think about that for a while': 建议对刚才所说内容的含义进行深入思考。",
+    "play_count": 0
+  }
+}

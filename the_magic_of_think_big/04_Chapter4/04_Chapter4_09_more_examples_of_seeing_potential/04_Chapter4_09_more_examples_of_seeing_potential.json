@@ -1,0 +1,394 @@
+{
+  "0": {
+    "original": "A student related this pertinent incident to me, explaining why he'll never again eat in a certain cafeteria.",
+    "b1": "A student told me this story about why he will never eat at a certain cafeteria again.",
+    "cn": "一位学生向我讲述了这件事，解释了他为什么再也不会去那家餐厅吃饭。",
+    "ai_notes": "'pertinent': relevant or applicable to a particular matter.\n'incident': an event or occurrence, often one that is unpleasant or unusual.",
+    "remarks": "'pertinent': 与特定事项相关的，适用的。\n'incident': 事件或发生的事，通常指不愉快或不寻常的。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "For lunch one day, the student began, I decided to try a new cafeteria that had just opened a couple of weeks before.",
+    "b1": "The student said that one day for lunch, he decided to try a new cafeteria that opened two weeks ago.",
+    "cn": "学生说，有一天午餐时，他决定去尝试一家两周前刚开业的新餐厅。",
+    "ai_notes": "'a couple of': a small number of, usually two.",
+    "remarks": "'a couple of': 少量，通常指两个。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "Nickels and dimes are pretty important to me right now, so I watch what I buy pretty closely.",
+    "b1": "I am careful with my money right now, so I pay close attention to what I buy.",
+    "cn": "我现在很看重钱，所以我对自己买的东西非常留意。",
+    "ai_notes": "'nickels and dimes': small amounts of money; used here to emphasize that every cent matters to the speaker's budget.\n'watch what I buy': to be careful or cautious about spending money.",
+    "remarks": "'nickels and dimes': 小额金钱；此处用于强调每一分钱对说话者的预算都很重要。\n'watch what I buy': 对花钱保持谨慎或小心。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Walking past the meat section, I saw some turkey and dressing that looked pretty good,",
+    "b1": "When I walked past the meat section, I saw some turkey and dressing that looked good.",
+    "cn": "路过肉食区时，我看到一些看起来不错的火鸡和调料。",
+    "ai_notes": "'meat section': the part of a grocery store or cafeteria where meat is sold.\n'dressing': a seasoned mixture, often made of bread, used as a side dish or stuffing.",
+    "remarks": "'meat section': 杂货店或食堂里卖肉的区域。\n'dressing': 一种调味混合物，常由面包制成，用作配菜或填料。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "and it was plainly marked 39 cents.",
+    "b1": "The price was clearly marked as 39 cents.",
+    "cn": "上面清楚地标着39美分。",
+    "ai_notes": "'plainly marked': clearly labeled or indicated, leaving no room for confusion.",
+    "remarks": "'plainly marked': 标记清晰或指示明确，不会引起混淆。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "When I got to the cash register, the checker looked at my tray and said $1.09.",
+    "b1": "When I reached the cash register, the cashier looked at my tray and said it cost $1.09.",
+    "cn": "当我走到收银台时，收银员看了看我的餐盘，说要1.09美元。",
+    "ai_notes": "'cash register': the machine used in shops to calculate and record sales.\n'checker': a person who works at a cash register, also known as a cashier.",
+    "remarks": "'cash register': 商店里用于计算和记录销售额的机器。\n'checker': 在收银机工作的人，也称为收银员。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "I politely asked her to check it again because my tally was $0.99.",
+    "b1": "I politely asked her to check it again because I calculated the total as $0.99.",
+    "cn": "我礼貌地请她再核对一下，因为我算的总价是0.99美元。",
+    "ai_notes": "'tally': the total count or sum of items.",
+    "remarks": "'tally': 总数或物品的总计数。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "After giving me a mean glare, she recounted.",
+    "b1": "She gave me an angry look and counted the items again.",
+    "cn": "她狠狠地瞪了我一眼，然后重新核对。",
+    "ai_notes": "'mean glare': an angry or unfriendly look.\n'recounted': counted again.",
+    "remarks": "'mean glare': 生气或不友好的瞪视。\n'recounted': 重新计数。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "The difference turned out to be the turkey.",
+    "b1": "The problem was the price of the turkey.",
+    "cn": "问题出在火鸡的价格上。",
+    "ai_notes": "'turned out to be': discovered to be the case after investigation.",
+    "remarks": "'turned out to be': 调查后发现事实如此。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "She had charged me $0.49 instead of $0.39.",
+    "b1": "She charged me 49 cents instead of 39 cents.",
+    "cn": "她收了我49美分，而不是39美分。",
+    "ai_notes": "'charged': to ask for a specific amount of money as a price for a service or item.",
+    "remarks": "'charged': 要求支付特定金额作为服务或物品的价格。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "Then I called her attention to the sign which read $0.39.",
+    "b1": "Then I showed her the sign that said 39 cents.",
+    "cn": "然后我指给她看那个写着39美分的标牌。",
+    "ai_notes": "'called her attention to': to point something out to someone so they notice it.",
+    "remarks": "'called her attention to': 向某人指出某事，使其注意到。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "This really set her off.",
+    "b1": "This made her very angry.",
+    "cn": "这让她非常生气。",
+    "ai_notes": "'set her off': to cause someone to become suddenly angry or upset.",
+    "remarks": "'set her off': 导致某人突然生气或心烦。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "I don't care what that sign says.",
+    "b1": "I do not care what the sign says.",
+    "cn": "我不在乎标牌上写什么。",
+    "ai_notes": "'I don't care': a common expression used to show that something does not matter to the speaker.",
+    "remarks": "'I don't care': 常用的表达，表示某事对说话者来说无关紧要。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "It's supposed to be 49 cents.",
+    "b1": "It should be 49 cents.",
+    "cn": "它应该是49美分。",
+    "ai_notes": "'supposed to be': expected or intended to be a certain way.",
+    "remarks": "'supposed to be': 被期望或打算成为某种样子。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "See?",
+    "b1": "Do you see?",
+    "cn": "看到了吗？",
+    "ai_notes": "'See?': used to ask if someone understands or agrees with the point being made.",
+    "remarks": "'See?': 用于询问某人是否理解或同意所提出的观点。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "Here's my price list for today.",
+    "b1": "This is my price list for today.",
+    "cn": "这是我今天的价目表。",
+    "ai_notes": "'price list': a document or sign showing the costs of various items.",
+    "remarks": "'price list': 显示各种物品成本的文件或标志。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Somebody back there made a mistake.",
+    "b1": "Someone made a mistake back there.",
+    "cn": "后面的人弄错了。",
+    "ai_notes": "'back there': referring to the kitchen or the area behind the counter where food is prepared.",
+    "remarks": "'back there': 指厨房或柜台后面准备食物的区域。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "You'll have to pay the 49 cents.",
+    "b1": "You have to pay 49 cents.",
+    "cn": "你必须付49美分。",
+    "ai_notes": "'You'll have to': a way of stating that someone has no choice but to do something.",
+    "remarks": "'You'll have to': 表示某人别无选择，只能做某事。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "Then I tried to explain to her the only reason I selected the turkey was because it was 39 cents.",
+    "b1": "I tried to explain that I only chose the turkey because it was 39 cents.",
+    "cn": "我试图向她解释，我选火鸡只是因为它标价39美分。",
+    "ai_notes": "'selected': a more formal word for chosen.",
+    "remarks": "'selected': chosen 的正式说法。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "If it had been marked 49 cents, I'd have taken something else.",
+    "b1": "If it had been 49 cents, I would have chosen something else.",
+    "cn": "如果它是49美分，我会选别的东西。",
+    "ai_notes": "'I'd have taken': a contraction of 'I would have taken', used to describe a hypothetical past action.",
+    "remarks": "'I'd have taken': 'I would have taken' 的缩写，用于描述假设的过去动作。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "To this, her answer was, you'll just have to pay the 49 cents.",
+    "b1": "She answered that I just had to pay the 49 cents.",
+    "cn": "对此，她的回答是，你必须付49美分。",
+    "ai_notes": "'To this': referring to the speaker's previous statement or argument.",
+    "remarks": "'To this': 指代说话者之前的陈述或论点。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "I did because I didn't want to stand there and create a scene.",
+    "b1": "I paid because I did not want to cause a scene.",
+    "cn": "我付了钱，因为我不想在那里闹事。",
+    "ai_notes": "'create a scene': to behave in a noisy or embarrassing way in public.",
+    "remarks": "'create a scene': 在公共场合表现得吵闹或令人尴尬。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "But I decided on the spot that I'd never eat there again.",
+    "b1": "But I decided right then that I would never eat there again.",
+    "cn": "但我当时就决定再也不去那里吃饭了。",
+    "ai_notes": "'on the spot': immediately; right at that moment.",
+    "remarks": "'on the spot': 立即；就在那一刻。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "I spend about $250 a year for lunches, and you can be sure they'll not get one penny of it.",
+    "b1": "I spend about $250 a year on lunch, and they will not get any of that money.",
+    "cn": "我每年午餐花费约250美元，他们一分钱也别想从我这儿赚到。",
+    "ai_notes": "'not get one penny of it': a strong way of saying they will not receive any of the speaker's money.",
+    "remarks": "'not get one penny of it': 强硬地表示他们不会得到说话者的一分钱。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "There's an example of the little view.",
+    "b1": "This is an example of having a narrow view.",
+    "cn": "这就是目光短浅的一个例子。",
+    "ai_notes": "'little view': a metaphor for having a narrow or short-sighted perspective.",
+    "remarks": "'little view': 比喻眼光狭隘或短视。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "The checker saw one thin dime, not the potential $250.",
+    "b1": "The cashier only saw a small amount of money, not the $250 she could have earned.",
+    "cn": "收银员只看到了眼前的一点小钱，没看到未来可能赚到的250美元。",
+    "ai_notes": "'thin dime': a small amount of money; used to contrast with a larger long-term value.\n'potential': the possibility of future success or development.",
+    "remarks": "'thin dime': 小额金钱；用于与长期的更大价值形成对比。\n'potential': 未来成功或发展的可能性。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "3.",
+    "b1": "3.",
+    "cn": "3.",
+    "ai_notes": "'3.': A section marker.",
+    "remarks": "'3.': 章节标记。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "The Case of the Blind Milkman It's surprising how people sometimes are blind to potential.",
+    "b1": "The story of the blind milkman: It is surprising how people sometimes fail to see potential.",
+    "cn": "盲目的送奶工：令人惊讶的是，人们有时竟然看不到潜力。",
+    "ai_notes": "'The Case of...': a common way to introduce a specific story or example.\n'blind to potential': failing to see future opportunities or possibilities.",
+    "remarks": "'The Case of...': 引入特定故事或例子的常用方式。\n'blind to potential': 看不到未来的机会或可能性。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "A few years ago, a young milkman came to our door to solicit our dairy business.",
+    "b1": "A few years ago, a young milkman came to our door to ask if we wanted milk delivery.",
+    "cn": "几年前，一位年轻的送奶工来到我家门口，询问我们是否需要送奶服务。",
+    "ai_notes": "'solicit': to ask for or try to obtain something, such as business or money.",
+    "remarks": "'solicit': 请求或试图获得某物，如业务或金钱。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "I explained to him that we already had milk delivery service and we were quite satisfied.",
+    "b1": "I told him we already had a service and were happy with it.",
+    "cn": "我告诉他我们已经有送奶服务了，而且很满意。",
+    "ai_notes": "'satisfied': pleased because one has what one needs or wants.",
+    "remarks": "'satisfied': 因为拥有所需或想要的东西而感到高兴。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "Then I suggested that he stop next door and talk to the lady there.",
+    "b1": "Then I suggested he talk to the lady next door.",
+    "cn": "然后我建议他去隔壁问问那位女士。",
+    "ai_notes": "'next door': in the house or building immediately adjacent to one's own.",
+    "remarks": "'next door': 在紧邻自己住所或建筑物的旁边。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "To this he replied, I've already talked to the lady next door,",
+    "b1": "He replied that he had already talked to her,",
+    "cn": "他回答说他已经和隔壁的女士谈过了，",
+    "ai_notes": "'replied': a formal way of saying answered.",
+    "remarks": "'replied': 回答的正式说法。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "but they use only one quart of milk every two days, and that's not enough to make it worthwhile for me to stop.",
+    "b1": "but they only use one quart of milk every two days, so it is not worth his time.",
+    "cn": "但他们每两天只喝一夸脱牛奶，不值得他跑一趟。",
+    "ai_notes": "'worthwhile': worth the time, money, or effort spent.",
+    "remarks": "'worthwhile': 值得花费时间、金钱或精力。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "That may be, I said, but when you talked to our neighbor, did you not observe that the demand for milk in that household will increase considerably in a month or so?",
+    "b1": "I said that might be true, but did he notice that their milk needs would increase soon?",
+    "cn": "我说也许是这样，但你有没有注意到他们家对牛奶的需求很快就会增加？",
+    "ai_notes": "'observe': to notice or perceive something.\n'in a month or so': in approximately one month.",
+    "remarks": "'observe': 注意到或察觉到某事。\n'in a month or so': 大约一个月左右。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "There will be a new addition over there that will consume lots of milk.",
+    "b1": "There will be a new baby soon who will drink a lot of milk.",
+    "cn": "他们家很快会添丁，到时候会消耗很多牛奶。",
+    "ai_notes": "'new addition': a polite or indirect way of referring to a new baby in the family.",
+    "remarks": "'new addition': 指代家庭中新成员（婴儿）的委婉说法。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "The young man looked for a moment like he had been struck, and then he said,",
+    "b1": "The young man looked shocked for a moment, and then he spoke.",
+    "cn": "年轻人愣了一下，然后说道：",
+    "ai_notes": "'struck': here, it means shocked or stunned, as if hit by a sudden realization.",
+    "remarks": "'struck': 此处意为震惊或惊呆，仿佛被突然的领悟击中。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "how blind can a guy be?",
+    "b1": "How could I be so blind?",
+    "cn": "我怎么会这么迟钝？",
+    "ai_notes": "'how blind can a guy be?': a rhetorical question expressing self-criticism for missing an obvious opportunity.",
+    "remarks": "'how blind can a guy be?': 反问句，表达对自己错过明显机会的自责。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "Today, that same one quart every two days family buys seven quarts every two days from a milkman who had some foresight.",
+    "b1": "Today, that family buys seven quarts every two days from a milkman who had foresight.",
+    "cn": "如今，那家人每两天从一位有远见的送奶工那里买七夸脱牛奶。",
+    "ai_notes": "'foresight': the ability to predict what will happen or be needed in the future.",
+    "remarks": "'foresight': 预测未来会发生什么或需要什么的能力。",
+    "play_count": 0
+  },
+  "38": {
+    "original": "That first youngster, a boy, now has two brothers and one sister, and I'm told there'll be another young one soon.",
+    "b1": "The first child now has two brothers and a sister, and another baby is coming soon.",
+    "cn": "那个孩子现在有了两个弟弟和一个妹妹，而且很快还会有个小宝宝。",
+    "ai_notes": "'youngster': a young person or child.",
+    "remarks": "'youngster': 年轻人或孩子。",
+    "play_count": 0
+  },
+  "39": {
+    "original": "How blind can we be?",
+    "b1": "How blind can we be?",
+    "cn": "我们怎么会如此缺乏远见？",
+    "ai_notes": "'How blind can we be?': a rhetorical question used to encourage reflection on one's own lack of vision.",
+    "remarks": "'How blind can we be?': 反问句，用于鼓励反思自己缺乏远见。",
+    "play_count": 0
+  },
+  "40": {
+    "original": "See what can be, not just what is.",
+    "b1": "Look at what can happen, not just what is happening now.",
+    "cn": "要看到未来可能发生的事，而不仅仅是现状。",
+    "ai_notes": "'what can be': the future possibilities.\n'what is': the current reality.",
+    "remarks": "'what can be': 未来的可能性。\n'what is': 当前的现实。",
+    "play_count": 0
+  },
+  "41": {
+    "original": "The school teacher who thinks of Jimmy only as he is, an ill-mannered,",
+    "b1": "A teacher who only sees Jimmy as a rude,",
+    "cn": "如果老师只把吉米看作一个粗鲁、",
+    "ai_notes": "'ill-mannered': having bad manners; rude.",
+    "remarks": "'ill-mannered': 没礼貌的；粗鲁的。",
+    "play_count": 0
+  },
+  "42": {
+    "original": "backward, uncouth brat, certainly will not aid Jimmy's development.",
+    "b1": "uneducated child will not help him grow.",
+    "cn": "落后且没教养的孩子，是不会帮助他进步的。",
+    "ai_notes": "'backward': in this context, slow to learn or develop.\n'uncouth': lacking good manners, refinement, or grace.\n'brat': a badly behaved child.",
+    "remarks": "'backward': 在此语境下指学习或发展缓慢。\n'uncouth': 缺乏礼貌、教养或优雅。\n'brat': 行为恶劣的孩子。",
+    "play_count": 0
+  },
+  "43": {
+    "original": "But the teacher who sees Jimmy not as he is now, but as he can be, she'll get results.",
+    "b1": "But a teacher who sees what Jimmy can become will get good results.",
+    "cn": "但如果老师能看到吉米的潜力，她就能取得好的教学成果。",
+    "ai_notes": "'get results': to achieve success or a desired outcome.",
+    "remarks": "'get results': 取得成功或达到预期的结果。",
+    "play_count": 0
+  },
+  "44": {
+    "original": "Most folks driving through Skid Row see only broken down stumble bums, hopelessly lost to the bottle.",
+    "b1": "Most people driving through a poor area only see people who have given up on life.",
+    "cn": "大多数开车经过贫民区的人，只看到那些自暴自弃的人。",
+    "ai_notes": "'Skid Row': a run-down area of a city where homeless or impoverished people often live.\n'broken down': worn out or in poor condition.\n'stumble bums': a slang term for people who are chronically intoxicated and homeless.\n'lost to the bottle': addicted to alcohol.",
+    "remarks": "'Skid Row': 城市中流浪者或贫困者居住的破败地区。\n'broken down': 破旧的或状况不佳的。\n'stumble bums': 对长期酗酒和流浪者的俚语称呼。\n'lost to the bottle': 沉溺于酒精。",
+    "play_count": 0
+  },
+  "45": {
+    "original": "A few devoted people see something else in the Skid Rowite.",
+    "b1": "A few caring people see something else in them.",
+    "cn": "少数有爱心的人却能看到他们身上不同的东西。",
+    "ai_notes": "'devoted': very loving or loyal; dedicated to a cause.\n'Skid Rowite': a person who lives on Skid Row (a creative, non-standard term).",
+    "remarks": "'devoted': 非常有爱心或忠诚的；致力于某项事业。\n'Skid Rowite': 住在 Skid Row 的人（一种创造性的非标准称呼）。",
+    "play_count": 0
+  },
+  "46": {
+    "original": "They see a reconstructed citizen, and because they see this, they succeed in many cases in doing an excellent rehabilitation job.",
+    "b1": "They see people who can change, and because of this, they often succeed in helping them.",
+    "cn": "他们看到了可以改变的人，正因如此，他们往往能成功地帮助这些人。",
+    "ai_notes": "'reconstructed citizen': someone who has been helped to return to a normal, productive life.\n'rehabilitation': the process of restoring someone to health or normal life through training and therapy.",
+    "remarks": "'reconstructed citizen': 那些被帮助回归正常、高效生活的人。\n'rehabilitation': 通过培训和治疗使人恢复健康或正常生活的过程。",
+    "play_count": 0
+  },
+  "47": {
+    "original": "4.",
+    "b1": "4.",
+    "cn": "4.",
+    "ai_notes": "'4.': A section marker.",
+    "remarks": "'4.': 章节标记。",
+    "play_count": 0
+  },
+  "48": {
+    "original": "What determines how much you're worth?",
+    "b1": "What decides how much you are worth?",
+    "cn": "什么决定了你的价值？",
+    "ai_notes": "'determines': to cause something to occur in a particular way; to decide.",
+    "remarks": "'determines': 导致某事以特定方式发生；决定。",
+    "play_count": 0
+  }
+}

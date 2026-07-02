@@ -1,0 +1,410 @@
+{
+  "0": {
+    "original": "3.",
+    "b1": "3.",
+    "cn": "3.",
+    "ai_notes": "'3.': This is simply a numbered list item indicating the third point in a sequence.",
+    "remarks": "'3.': 这是一个简单的编号列表项，表示序列中的第三点。",
+    "play_count": 0
+  },
+  "1": {
+    "original": "It's no use.",
+    "b1": "It is useless.",
+    "cn": "没用的。",
+    "ai_notes": "'It's no use': A common phrase meaning that an action will not produce a successful result.",
+    "remarks": "'It's no use': 一个常用短语，意为某项行动不会产生成功的结果。",
+    "play_count": 0
+  },
+  "2": {
+    "original": "I'm too old or too young.",
+    "b1": "I am either too old or too young.",
+    "cn": "我太老了或者太年轻了。",
+    "ai_notes": "'too old or too young': A common way to express that one feels their age is an obstacle to achieving a goal.",
+    "remarks": "'too old or too young': 一种常见的表达方式，用来表示某人觉得自己的年龄是实现目标的障碍。",
+    "play_count": 0
+  },
+  "3": {
+    "original": "Age excusitis, the failure disease of never being the right age, comes in two easily identifiable forms,",
+    "b1": "Age-related excuses, the failure to try because of one's age, come in two main types,",
+    "cn": "年龄借口症，即因为年龄不对而导致失败的疾病，主要有两种表现形式，",
+    "ai_notes": "'excusitis': A humorous, made-up word combining 'excuse' and '-itis' (a suffix for a disease); it refers to the habit of making excuses for failure. 'identifiable': Easy to recognize or categorize.",
+    "remarks": "'excusitis': 一个幽默的自造词，结合了“excuse”（借口）和“-itis”（疾病后缀）；指为失败找借口的习惯。\n'identifiable': 容易识别或归类的。",
+    "play_count": 0
+  },
+  "4": {
+    "original": "the I'm-too-old variety and the I'm-too-young brand.",
+    "b1": "the 'I am too old' type and the 'I am too young' type.",
+    "cn": "“我太老了”型和“我太年轻了”型。",
+    "ai_notes": "'variety': In this context, it means a specific type or category. 'brand': Used here metaphorically to mean a specific version or style of an idea.",
+    "remarks": "'variety': 在此语境下，指特定的类型或类别。\n'brand': 在此隐喻为某种特定版本或风格的观点。",
+    "play_count": 0
+  },
+  "5": {
+    "original": "You've heard hundreds of people of all ages explain their mediocre performance in life something like this.",
+    "b1": "You have heard many people of all ages explain their poor performance like this.",
+    "cn": "你一定听过各行各业的人这样解释他们平庸的表现。",
+    "ai_notes": "'mediocre': Average or below average; not very good. 'performance': How well someone does a job or task.",
+    "remarks": "'mediocre': 平庸的或低于平均水平的；不太好。\n'performance': 某人完成工作或任务的好坏程度。",
+    "play_count": 0
+  },
+  "6": {
+    "original": "I'm too old, or too young, to break in now.",
+    "b1": "I am too old or too young to start now.",
+    "cn": "我现在开始太老了，或者太年轻了。",
+    "ai_notes": "'break in': To enter a new field, industry, or career, often implying it is difficult to get started.",
+    "remarks": "'break in': 进入一个新的领域、行业或职业，通常暗示起步很困难。",
+    "play_count": 0
+  },
+  "7": {
+    "original": "I can't do what I want to do or am capable of doing because of my age handicap.",
+    "b1": "I cannot do what I want because of my age.",
+    "cn": "因为年龄的限制，我无法做我想做或能做的事。",
+    "ai_notes": "'capable of': Having the ability or skill to do something. 'handicap': A disadvantage or obstacle that makes progress difficult.",
+    "remarks": "'capable of': 有能力或技能去做某事。\n'handicap': 使进展变得困难的劣势或障碍。",
+    "play_count": 0
+  },
+  "8": {
+    "original": "Really, it's surprising how few people feel they are just right, age-wise, and it's unfortunate.",
+    "b1": "It is surprising how few people feel their age is just right, and that is a pity.",
+    "cn": "令人惊讶的是，很少有人觉得自己的年龄正合适，这真令人遗憾。",
+    "ai_notes": "'age-wise': A suffix meaning 'regarding age' or 'from the perspective of age'. 'unfortunate': Regrettable or sad.",
+    "remarks": "'age-wise': 一个后缀，意为“关于年龄”或“从年龄的角度来看”。\n'unfortunate': 令人遗憾的或悲伤的。",
+    "play_count": 0
+  },
+  "9": {
+    "original": "This excuse has closed the door of real opportunity to thousands of individuals.",
+    "b1": "This excuse has stopped thousands of people from finding real opportunities.",
+    "cn": "这个借口已经让成千上万的人失去了真正的机会。",
+    "ai_notes": "'closed the door of real opportunity': A metaphor meaning to prevent someone from accessing chances for success.",
+    "remarks": "'closed the door of real opportunity': 一个隐喻，意为阻止某人获得成功的机会。",
+    "play_count": 0
+  },
+  "10": {
+    "original": "They think their age is wrong, so they don't even bother to try.",
+    "b1": "They think their age is wrong, so they do not even try.",
+    "cn": "他们认为自己的年龄不合适，所以连尝试都不愿意。",
+    "ai_notes": "'bother to try': To make the effort to do something; often used in negative sentences to show laziness or lack of motivation.",
+    "remarks": "'bother to try': 花力气去做某事；常用于否定句，表示懒惰或缺乏动力。",
+    "play_count": 0
+  },
+  "11": {
+    "original": "The I'm-too-old variety is the most common form of age excusitis.",
+    "b1": "The 'I am too old' type is the most common form of this problem.",
+    "cn": "“我太老了”是这种年龄借口症中最常见的形式。",
+    "ai_notes": "'most common form': The version that happens most frequently.",
+    "remarks": "'most common form': 发生频率最高的版本。",
+    "play_count": 0
+  },
+  "12": {
+    "original": "This disease is spread in subtle ways.",
+    "b1": "This problem spreads in quiet ways.",
+    "cn": "这种“疾病”在潜移默化中传播。",
+    "ai_notes": "'subtle': Not immediately obvious; quiet or indirect.",
+    "remarks": "'subtle': 不易察觉的；微妙的或间接的。",
+    "play_count": 0
+  },
+  "13": {
+    "original": "TV fiction is produced about the big executive who lost his job because of a merger and can't find another because he's too old.",
+    "b1": "TV shows often feature an executive who loses his job and cannot find a new one because he is too old.",
+    "cn": "电视小说里常有这样的情节：一位高管因公司合并失业，却因为年纪太大找不到新工作。",
+    "ai_notes": "'executive': A high-level manager or leader in a company. 'merger': When two companies join together to become one.",
+    "remarks": "'executive': 公司的高层管理人员或领导。\n'merger': 两家公司合并成为一家。",
+    "play_count": 0
+  },
+  "14": {
+    "original": "Mr. Executive looks for months to find another job, but he can't,",
+    "b1": "The executive looks for a job for months but fails,",
+    "cn": "这位高管找了几个月工作却一无所获，",
+    "ai_notes": "'looks for': To search for something, such as a job.",
+    "remarks": "'looks for': 寻找某物，例如工作。",
+    "play_count": 0
+  },
+  "15": {
+    "original": "and in the end, after contemplating suicide for a while, he decides to rationalize that it's nice to be on the shelf.",
+    "b1": "and finally, after thinking about giving up, he decides that being retired is actually nice.",
+    "cn": "最后，在考虑过轻生之后，他决定自我安慰说退休其实也不错。",
+    "ai_notes": "'contemplating': Thinking deeply about something. 'rationalize': To create a logical excuse for a situation to make it feel better. 'on the shelf': An idiom meaning to be retired or no longer useful/active.",
+    "remarks": "'contemplating': 深思熟虑。\n'rationalize': 为某种情况创造合理的借口，使其感觉更好。\n'on the shelf': 一个习语，意为退休或不再有用/活跃。",
+    "play_count": 0
+  },
+  "16": {
+    "original": "Plays and magazine articles on the topic, why you are washed up at 40,",
+    "b1": "Plays and articles about why you are finished at 40 are popular,",
+    "cn": "关于“为什么你40岁就过气了”的戏剧和文章很受欢迎，",
+    "ai_notes": "'washed up': Slang meaning that someone is no longer successful or useful in their career.",
+    "remarks": "'washed up': 俚语，意为某人在其职业生涯中不再成功或不再有用。",
+    "play_count": 0
+  },
+  "17": {
+    "original": "are popular, not because they represent true facts, but because they appeal to many worried minds looking for an excuse.",
+    "b1": "not because they are true, but because they appeal to people looking for an excuse.",
+    "cn": "这并不是因为它们反映了事实，而是因为它们迎合了那些寻找借口的焦虑人群。",
+    "ai_notes": "'appeal to': To be attractive or interesting to someone. 'worried minds': People who are anxious or concerned about their future.",
+    "remarks": "'appeal to': 对某人有吸引力或有趣。\n'worried minds': 对未来感到焦虑或担忧的人们。",
+    "play_count": 0
+  },
+  "18": {
+    "original": "How to handle age excusitis.",
+    "b1": "How to deal with age-related excuses.",
+    "cn": "如何应对年龄借口症。",
+    "ai_notes": "'handle': To deal with or manage a problem.",
+    "remarks": "'handle': 处理或管理问题。",
+    "play_count": 0
+  },
+  "19": {
+    "original": "Ajexcusitis can be cured.",
+    "b1": "This problem can be cured.",
+    "cn": "年龄借口症是可以治愈的。",
+    "ai_notes": "'cured': To be healed from an illness or a bad habit.",
+    "remarks": "'cured': 从疾病或坏习惯中治愈。",
+    "play_count": 0
+  },
+  "20": {
+    "original": "A few years ago, while I was conducting a sales training program, I discovered a good serum that both cures this disease and vaccinates you so you won't get it in the first place.",
+    "b1": "A few years ago, while teaching a sales class, I found a way to cure this disease and prevent it.",
+    "cn": "几年前，我在进行销售培训时，发现了一种既能治愈这种疾病，又能预防它的良药。",
+    "ai_notes": "'serum': A liquid used in medicine; here used metaphorically as a 'remedy'. 'vaccinate': To protect against a disease before it happens.",
+    "remarks": "'serum': 医学中使用的液体；此处隐喻为“补救措施”。\n'vaccinate': 在疾病发生前进行预防。",
+    "play_count": 0
+  },
+  "21": {
+    "original": "In that training program, there was a trainee named Cecil.",
+    "b1": "In that class, there was a student named Cecil.",
+    "cn": "在那次培训中，有一位学员叫塞西尔。",
+    "ai_notes": "'trainee': A person who is learning a new skill or job.",
+    "remarks": "'trainee': 正在学习新技能或工作的人。",
+    "play_count": 0
+  },
+  "22": {
+    "original": "Cecil, who was 40, wanted to shift over to set himself up as a manufacturer's representative,",
+    "b1": "Cecil was 40 and wanted to become a manufacturer's representative,",
+    "cn": "40岁的塞西尔想转行成为一名制造商代表，",
+    "ai_notes": "'shift over': To change one's career path or move to a different role. 'manufacturer's representative': A person who sells products for a manufacturer.",
+    "remarks": "'shift over': 改变职业道路或转到不同的岗位。\n'manufacturer's representative': 为制造商销售产品的人。",
+    "play_count": 0
+  },
+  "23": {
+    "original": "but he thought he was too old.",
+    "b1": "but he thought he was too old.",
+    "cn": "但他认为自己太老了。",
+    "ai_notes": "'thought he was': A way to express a belief that may not be true.",
+    "remarks": "'thought he was': 一种表达可能不真实的信念的方式。",
+    "play_count": 0
+  },
+  "24": {
+    "original": "After all,\" he explained, I'd have to start from scratch, and I'm too old for that now.",
+    "b1": "He said, 'I would have to start from the beginning, and I am too old for that.'",
+    "cn": "他解释说：“毕竟，我得从零开始，而我现在年纪太大了。”",
+    "ai_notes": "'start from scratch': An idiom meaning to begin something from the very beginning with nothing.",
+    "remarks": "'start from scratch': 一个习语，意为从零开始，一无所有地开始某事。",
+    "play_count": 0
+  },
+  "25": {
+    "original": "I'm forty.",
+    "b1": "I am forty.",
+    "cn": "“我四十岁了。”",
+    "ai_notes": "'I'm forty': A simple statement of age, often used as a justification for one's limitations.",
+    "remarks": "'I'm forty': 对年龄的简单陈述，常被用作个人局限性的借口。",
+    "play_count": 0
+  },
+  "26": {
+    "original": "I'd talked with Cecil several times about his old age problem.",
+    "b1": "I talked to Cecil several times about his fear of being old.",
+    "cn": "我和塞西尔谈过几次关于他担心自己老了的问题。",
+    "ai_notes": "'old age problem': A way to describe the psychological fear of being too old.",
+    "remarks": "'old age problem': 描述对变老的心理恐惧的一种方式。",
+    "play_count": 0
+  },
+  "27": {
+    "original": "I used the old medicine, you're only as old as you feel, but I found I was getting nowhere.",
+    "b1": "I told him that age is just a feeling, but it did not help.",
+    "cn": "我用了那句老话“你感觉多大就多大”，但我发现根本没用。",
+    "ai_notes": "'you're only as old as you feel': A common saying suggesting that age is a mindset rather than a number. 'getting nowhere': An idiom meaning making no progress.",
+    "remarks": "'you're only as old as you feel': 一句俗语，暗示年龄是一种心态而非数字。\n'getting nowhere': 一个习语，意为毫无进展。",
+    "play_count": 0
+  },
+  "28": {
+    "original": "Too often people retort with, but I do feel old.",
+    "b1": "People often reply, 'But I really do feel old.'",
+    "cn": "人们经常反驳说：“但我确实感觉自己老了。”",
+    "ai_notes": "'retort': To reply quickly and sharply, often in an argument.",
+    "remarks": "'retort': 快速而尖锐地回答，通常是在争论中。",
+    "play_count": 0
+  },
+  "29": {
+    "original": "And finally, I discovered a method that worked.",
+    "b1": "Finally, I found a method that worked.",
+    "cn": "最后，我发现了一个有效的方法。",
+    "ai_notes": "'method': A way of doing something; a strategy.",
+    "remarks": "'method': 做某事的方法；策略。",
+    "play_count": 0
+  },
+  "30": {
+    "original": "One day, after a training session, I tried it on Cecil.",
+    "b1": "One day, after class, I tried it on Cecil.",
+    "cn": "有一天，培训结束后，我在塞西尔身上试了试。",
+    "ai_notes": "'training session': A specific period of time dedicated to learning or teaching.",
+    "remarks": "'training session': 专门用于学习或教学的一段时间。",
+    "play_count": 0
+  },
+  "31": {
+    "original": "I said, Cecil, when does a man's productive life begin?",
+    "b1": "I asked, 'Cecil, when does a person's productive life start?'",
+    "cn": "我说：“塞西尔，一个人的职业黄金期从什么时候开始？”",
+    "ai_notes": "'productive life': The years during which a person is capable of working and creating value.",
+    "remarks": "'productive life': 一个人有能力工作并创造价值的岁月。",
+    "play_count": 0
+  },
+  "32": {
+    "original": "He thought a couple of seconds and answered, oh, when he's about twenty, I guess.",
+    "b1": "He thought for a moment and said, 'Around twenty, I guess.'",
+    "cn": "他想了几秒钟回答道：“哦，我想大概是二十岁吧。”",
+    "ai_notes": "'I guess': A way to show that one is giving an estimate rather than a certain fact.",
+    "remarks": "'I guess': 一种表示给出估计而非确定事实的方式。",
+    "play_count": 0
+  },
+  "33": {
+    "original": "Okay, I said.",
+    "b1": "'Okay,' I said.",
+    "cn": "“好吧，”我说。",
+    "ai_notes": "'Okay': Used here to acknowledge the other person's point before moving to the next question.",
+    "remarks": "'Okay': 在进入下一个问题之前，用于确认对方的观点。",
+    "play_count": 0
+  },
+  "34": {
+    "original": "Now, when does a man's productive life end?",
+    "b1": "'Now, when does it end?'",
+    "cn": "“那么，一个人的职业黄金期什么时候结束呢？”",
+    "ai_notes": "'productive life end': The point at which someone stops working or being useful.",
+    "remarks": "'productive life end': 某人停止工作或不再有用的时间点。",
+    "play_count": 0
+  },
+  "35": {
+    "original": "Cecil answered, well, if he stays in good shape and likes his work.",
+    "b1": "Cecil answered, 'Well, if he is healthy and likes his work,'",
+    "cn": "塞西尔回答说：“嗯，如果他身体健康并且热爱工作，”",
+    "ai_notes": "'in good shape': An idiom meaning physically healthy and fit.",
+    "remarks": "'in good shape': 一个习语，意为身体健康且状态良好。",
+    "play_count": 0
+  },
+  "36": {
+    "original": "I guess a man is still pretty useful when he's seventy or so.\" \"'All right,' I said.",
+    "b1": "'I think he is still useful at seventy. All right,' I said.",
+    "cn": "“我想他七十岁左右时依然很有用。”“好吧，”我说。",
+    "ai_notes": "'pretty useful': Quite valuable or capable of contributing.",
+    "remarks": "'pretty useful': 相当有价值或有贡献能力。",
+    "play_count": 0
+  },
+  "37": {
+    "original": "\"'A lot of folks are highly productive after they reach seventy.",
+    "b1": "'Many people are very productive after seventy.'",
+    "cn": "“很多人在七十岁之后依然非常有成就。”",
+    "ai_notes": "'folks': An informal, friendly word for people.",
+    "remarks": "'folks': 对人们的一种非正式、友好的称呼。",
+    "play_count": 0
+  },
+  "38": {
+    "original": "But let's agree with what you've just said.",
+    "b1": "'But let's agree with what you said.'",
+    "cn": "“但我们先同意你刚才说的。”",
+    "ai_notes": "'agree with': To accept or confirm the validity of someone else's statement.",
+    "remarks": "'agree with': 接受或确认他人陈述的有效性。",
+    "play_count": 0
+  },
+  "39": {
+    "original": "A man's productive years stretch from twenty to seventy.",
+    "b1": "'A person's productive years are from twenty to seventy.'",
+    "cn": "“一个人的职业黄金期是从二十岁到七十岁。”",
+    "ai_notes": "'stretch from': To cover a period of time between two points.",
+    "remarks": "'stretch from': 覆盖两个时间点之间的一段时间。",
+    "play_count": 0
+  },
+  "40": {
+    "original": "That's fifty years in between, or half a century.' \"'Cecil,' I said.",
+    "b1": "'That is fifty years, or half a century. Cecil,' I said.",
+    "cn": "“中间有五十年，也就是半个世纪。塞西尔，”我说。",
+    "ai_notes": "'half a century': Fifty years.",
+    "remarks": "'half a century': 五十年。",
+    "play_count": 0
+  },
+  "41": {
+    "original": "\"'You're forty.",
+    "b1": "'You are forty.'",
+    "cn": "“你今年四十岁。”",
+    "ai_notes": "'You're forty': A direct statement used to highlight the reality of the person's age.",
+    "remarks": "'You're forty': 一个直接的陈述，用于强调对方年龄的现实。",
+    "play_count": 0
+  },
+  "42": {
+    "original": "How many years of productive life have you spent?' \"'Twenty,' he answered.",
+    "b1": "'How many productive years have you used?' 'Twenty,' he answered.",
+    "cn": "“你已经度过了多少职业黄金期？”“二十年，”他回答。",
+    "ai_notes": "'spent': Used here to mean 'used up' or 'passed' in terms of time.",
+    "remarks": "'spent': 在此指时间上的“用完”或“度过”。",
+    "play_count": 0
+  },
+  "43": {
+    "original": "And how many have you left?",
+    "b1": "'And how many are left?'",
+    "cn": "“那你还剩下多少年？”",
+    "ai_notes": "'left': Remaining; the amount of time still available.",
+    "remarks": "'left': 剩余的；仍然可用的时间量。",
+    "play_count": 0
+  },
+  "44": {
+    "original": "Thirty, he replied.",
+    "b1": "'Thirty,' he replied.",
+    "cn": "“三十年，”他回答。",
+    "ai_notes": "'replied': A formal way to say 'answered'.",
+    "remarks": "'replied': “回答”的正式说法。",
+    "play_count": 0
+  },
+  "45": {
+    "original": "In other words, Cecil, you haven't even reached the halfway point.",
+    "b1": "'In other words, Cecil, you have not even reached the halfway point.'",
+    "cn": "“换句话说，塞西尔，你甚至还没到一半呢。”",
+    "ai_notes": "'In other words': A phrase used to explain something in a simpler or different way. 'halfway point': The middle of a process or period.",
+    "remarks": "'In other words': 用于以更简单或不同的方式解释某事的短语。\n'halfway point': 过程或时期的中间点。",
+    "play_count": 0
+  },
+  "46": {
+    "original": "You've used up only 40% of your productive years.",
+    "b1": "'You have only used 40% of your productive years.'",
+    "cn": "“你只用了你职业黄金期的40%。”",
+    "ai_notes": "'used up': Consumed or finished.",
+    "remarks": "'used up': 消耗掉或用完。",
+    "play_count": 0
+  },
+  "47": {
+    "original": "I looked at Cecil and realized he'd gotten the point.",
+    "b1": "I looked at Cecil and saw he understood.",
+    "cn": "我看着塞西尔，意识到他明白了这个道理。",
+    "ai_notes": "'got the point': An idiom meaning to understand the main idea or lesson.",
+    "remarks": "'got the point': 一个习语，意为理解了主要思想或教训。",
+    "play_count": 0
+  },
+  "48": {
+    "original": "He was cured of age excusitis.",
+    "b1": "He was cured of his age-related excuse.",
+    "cn": "他的年龄借口症被治愈了。",
+    "ai_notes": "'cured of': To no longer be affected by a problem or belief.",
+    "remarks": "'cured of': 不再受某个问题或信念的影响。",
+    "play_count": 0
+  },
+  "49": {
+    "original": "Cecil saw he still had many opportunity-filled years left.",
+    "b1": "Cecil saw he still had many years full of opportunities.",
+    "cn": "塞西尔看到他还有许多充满机会的岁月。",
+    "ai_notes": "'opportunity-filled': A compound adjective meaning having many chances for success.",
+    "remarks": "'opportunity-filled': 一个复合形容词，意为充满成功机会的。",
+    "play_count": 0
+  },
+  "50": {
+    "original": "He switched from thinking, I'm already old, to, I'm still young.",
+    "b1": "He stopped thinking 'I am old' and started thinking 'I am still young.'",
+    "cn": "他不再想“我已经老了”，而是开始想“我还很年轻”。",
+    "ai_notes": "'switched from': To change from one way of thinking to another.",
+    "remarks": "'switched from': 从一种思维方式转变为另一种。",
+    "play_count": 0
+  }
+}

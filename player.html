@@ -10,11 +10,6 @@
             --accent: #4fc3f7; --dim: #888; --disabled: #3a3a4a;
             --cur-bg: #1b3a4a; --btn: #555;
         }
-        .loop-label {
-                 font-size: 0.6em;
-                 color: var(--dim);
-                 margin-left: 2px;
-        }
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             background: var(--bg); color: var(--text);
@@ -52,7 +47,7 @@
         .course-card:active { background: #1e1e30; }
         .course-card .course-name { font-size: 1em; font-weight: bold; }
         .course-card .course-folder { font-size: 0.75em; color: var(--dim); margin-top: 4px; }
-        .player-page { display: none; flex-direction: column; flex: 1; }
+        .player-page { display: none; flex-direction: column; flex: 1; height: 100dvh; }
         .player-page.active { display: flex; }
         .back-bar {
             padding: 10px 16px; background: var(--panel);
@@ -62,7 +57,8 @@
         .back-bar button { background: transparent; border: none; color: var(--accent); font-size: 1em; cursor: pointer; }
         .back-bar span { font-size: 0.95em; color: var(--text); }
         .subtitle-list {
-            flex: 1; overflow-y: auto; padding: 4px 0;
+            flex: 0 0 auto; overflow-y: auto; padding: 4px 0;
+            max-height: 30vh;
         }
         .sub-row {
             display: flex; align-items: flex-start;
@@ -77,6 +73,8 @@
         .notes-panel {
             background: var(--panel); border-top: 2px solid #252535;
             padding: 10px 16px; flex-shrink: 0;
+            max-height: 55vh;
+            overflow-y: auto;
         }
         .note-original {
             font-size: 1.1em; font-weight: bold;
@@ -115,55 +113,48 @@
         .progress-bar { flex: 1; height: 4px; background: #252535; border-radius: 2px; position: relative; min-width: 50px; }
         .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; width: 0%; }
         .loading { text-align: center; padding: 40px; color: var(--dim); font-size: 1em; }
+
+        /* ===== 手机端适配 ===== */
         @media (max-width: 600px) {
-        body {
-            font-size: 20px;
+            body {
+                font-size: 20px;
+            }
+            .course-card {
+                padding: 12px 14px;
+            }
+            .sub-row {
+                padding: 10px 12px;
+            }
+            .subtitle-list {
+                max-height: 25vh;
+            }
+            .notes-panel {
+                max-height: 60vh;
+            }
+            .controls button {
+                font-size: 1.6em;
+                padding: 10px 14px;
+                min-width: 48px;
+                min-height: 48px;
+            }
+            .controls select {
+                font-size: 0.9em;
+                padding: 8px 6px;
+                min-width: 50px;
+                min-height: 40px;
+            }
+            .note-original {
+                font-size: 1.2em;
+            }
+            .note-content {
+                font-size: 1em;
+            }
+            /* 隐藏 "句子循环" 和 "单篇循环" 文字，只保留下拉框 */
+            .loop-label {
+                display: none;
+            }
         }
-        .course-card {
-            padding: 14px 16px;
-        }
-        .course-card .course-name {
-            font-size: 1.1em;
-        }
-        .sub-row {
-            padding: 12px 14px;
-        }
-        .sub-row .text {
-            font-size: 1em;
-        }
-        .controls {
-            gap: 6px;
-            padding: 10px 8px;
-        }
-        .controls button {
-            font-size: 1.6em;
-            padding: 10px 14px;
-            min-width: 48px;
-            min-height: 48px;
-        }
-        .controls select {
-            font-size: 0.9em;
-            padding: 8px 6px;
-            min-width: 50px;
-            min-height: 40px;
-        }
-        .note-original {
-            font-size: 1.2em;
-        }
-        .note-content {
-            font-size: 1em;
-        }
-        /* 隐藏 "句子循环" 和 "单篇循环" 文字，只保留下拉框 */
-        .loop-label {
-            display: none;
-        }
-        /* 控制栏下拉框加个简短标签，方便识别 */
-        .controls select:first-of-type {
-            margin-left: 0;
-        }
-    }
     </style>
-    
 </head>
 <body>
 
@@ -220,20 +211,18 @@
 <audio id="audio" style="display:none"></audio>
 
 <script>
-let courses = [];   // 嵌套结构: [{ chapter, lessons: [ {name, folder, mp3, srt, json}, ... ] }, ...]
+let courses = [];
 let subs = [];
 let enabled = {};
 let currentIdx = -1;
 let notesIdx = -1;
 let isPlaying = false;
-let sentenceLoopCount = 1;      // "句子循环" 下拉框选的值:当前句要重复播放几次
-let trackLoopCount = 1;         // "单篇循环" 下拉框选的值:整篇要重复播放几次
-let sentenceLoopRemaining = 1;  // 当前句还剩几次要重复
-let trackLoopRemaining = 1;     // 整篇还剩几次要重复
+let sentenceLoopCount = 1;
+let trackLoopCount = 1;
+let sentenceLoopRemaining = 1;
+let trackLoopRemaining = 1;
 let basePath = '';
-// 记住每个区域的折叠状态，切换句子时保持不变
 let collapseState = { b1: false, cn: false, ai: false, ai_cn: false };
-// 记住每个章节的展开/收起状态(key 用章节名);默认收起,避免14课*15个音频一次性铺满
 let chapterCollapsed = {};
 
 const audio = document.getElementById('audio');
@@ -275,7 +264,6 @@ async function loadCourseList() {
         basePath = path.substring(0, path.lastIndexOf('/') + 1);
         const resp = await fetch(basePath + 'courses.json');
         courses = await resp.json();
-        // 初始化每个章节的折叠状态:默认全部收起
         courses.forEach((chapterObj, cIdx) => {
             const key = chapterObj.chapter || ('chapter_' + cIdx);
             if (chapterCollapsed[key] === undefined) chapterCollapsed[key] = true;
@@ -284,8 +272,6 @@ async function loadCourseList() {
     } catch (err) { courseListContainer.innerHTML = '<div class="loading">加载 courses.json 失败</div>'; }
 }
 
-// courses.json 是嵌套结构:每个章节对象包含 chapter 名称 + lessons 数组。
-// 按章节渲染可点击的分组标题(展开/收起),再列出该章节下的课程卡片。
 function renderCourseList() {
     courseListContainer.innerHTML = '';
     courses.forEach((chapterObj, cIdx) => {
@@ -348,7 +334,6 @@ async function openCourse(course) {
     sentenceLoopRemaining = sentenceLoopCount;
     trackLoopRemaining = trackLoopCount;
     collapseState = { b1: false, cn: false, ai: false, ai_cn: false };
-    // 打开课程后自动从第一句开始播放,不用再手动点一下
     playIdx(0, true);
 }
 
@@ -415,8 +400,6 @@ function updateNotes() {
     });
 }
 
-// manual = true  → 用户主动选句(点击列表行 / 上一句 / 下一句 / 首次点击播放),会同步更新解析面板
-// manual = false → 音频自然播放推进到下一句,只更新高亮,不动解析面板
 function playIdx(idx, manual = true) {
     if (subs.length === 0 || !audio.src) return;
     if (idx < 0 || idx >= subs.length) return;
@@ -463,7 +446,7 @@ audio.addEventListener('timeupdate', () => {
     if (found >= 0 && found !== currentIdx) {
         if (!enabled[found]) { const next = findNextEnabled(found); if (next >= 0) { audio.currentTime = subs[next].start; currentIdx = next; sentenceLoopRemaining = sentenceLoopCount; } }
         else { currentIdx = found; sentenceLoopRemaining = sentenceLoopCount; }
-        notesIdx = currentIdx; 
+        notesIdx = currentIdx;
         renderSubtitleList();
     }
     if (currentIdx >= 0 && t >= subs[currentIdx].end - 0.1) {
@@ -471,7 +454,6 @@ audio.addEventListener('timeupdate', () => {
             sentenceLoopRemaining--;
             audio.currentTime = subs[currentIdx].start;
         }
-        // 次数用完后不再重置播放位置,让音频自然往下走,timeupdate 的自动推进逻辑会接管
     }
 });
 
@@ -481,7 +463,7 @@ audio.addEventListener('ended', () => {
         audio.currentTime = 0;
         audio.play();
     } else {
-        trackLoopRemaining = trackLoopCount; // 重置,方便下次手动播放时重新计次
+        trackLoopRemaining = trackLoopCount;
         isPlaying = false; btnPlay.textContent = '▶';
     }
 });

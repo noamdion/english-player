@@ -114,7 +114,7 @@
         .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; width: 0%; }
         .loading { text-align: center; padding: 40px; color: var(--dim); font-size: 1em; }
 
-        /* ===== 手机端适配 ===== */
+        /* ===== Mobile ===== */
         @media (max-width: 600px) {
             body {
                 font-size: 20px;
@@ -125,18 +125,18 @@
             .sub-row {
                 padding: 10px 12px;
             }
-            .sub-row .text {           /* ← 加上这一块 */
+            .sub-row .text {
                 font-size: 1.2em;
             }
             .subtitle-list {
                 max-height: 25vh;
-                overflow-y: auto;  
+                overflow-y: auto;
             }
             .notes-panel {
                 max-height: 60vh;
             }
             .notes-row {
-                grid-template-columns: 1fr !important;  /* 强制单列 */
+                grid-template-columns: 1fr !important;
             }
             .controls button {
                 font-size: 1.6em;
@@ -156,7 +156,6 @@
             .note-content {
                 font-size: 1em;
             }
-            /* 隐藏 "句子循环" 和 "单篇循环" 文字，只保留下拉框 */
             .loop-label {
                 display: none;
             }
@@ -166,13 +165,13 @@
 <body>
 
 <div class="course-list" id="courseListPage">
-    <h2>📚 课程列表</h2>
-    <div id="courseListContainer"><div class="loading">加载中…</div></div>
+    <h2>📚 Course List</h2>
+    <div id="courseListContainer"><div class="loading">Loading...</div></div>
 </div>
 
 <div class="player-page" id="playerPage">
     <div class="back-bar">
-        <button id="btnBack">← 返回</button>
+        <button id="btnBack">← Back</button>
         <span id="currentCourseName"></span>
     </div>
     <div class="subtitle-list" id="subtitleList"></div>
@@ -191,25 +190,25 @@
             <option value="1.1">1.1x</option>
             <option value="1.2">1.2x</option>
         </select>
-        <span class="loop-label">单句</span>
+        <span class="loop-label">Sentence</span>
         <select id="selSentenceLoop">
-            <option value="1" selected>1次</option>
-            <option value="2">2次</option>
-            <option value="3">3次</option>
-            <option value="4">4次</option>
-            <option value="5">5次</option>
-            <option value="6">6次</option>
-            <option value="7">7次</option>
+            <option value="1" selected>1x</option>
+            <option value="2">2x</option>
+            <option value="3">3x</option>
+            <option value="4">4x</option>
+            <option value="5">5x</option>
+            <option value="6">6x</option>
+            <option value="7">7x</option>
         </select>
-        <span class="loop-label">单篇</span>
+        <span class="loop-label">Track</span>
         <select id="selTrackLoop">
-            <option value="1" selected>1次</option>
-            <option value="2">2次</option>
-            <option value="3">3次</option>
-            <option value="4">4次</option>
-            <option value="5">5次</option>
-            <option value="6">6次</option>
-            <option value="7">7次</option>
+            <option value="1" selected>1x</option>
+            <option value="2">2x</option>
+            <option value="3">3x</option>
+            <option value="4">4x</option>
+            <option value="5">5x</option>
+            <option value="6">6x</option>
+            <option value="7">7x</option>
         </select>
         <div class="progress-bar" id="progressBar"><div class="progress-fill" id="progressFill"></div></div>
     </div>
@@ -276,7 +275,7 @@ async function loadCourseList() {
             if (chapterCollapsed[key] === undefined) chapterCollapsed[key] = true;
         });
         renderCourseList();
-    } catch (err) { courseListContainer.innerHTML = '<div class="loading">加载 courses.json 失败</div>'; }
+    } catch (err) { courseListContainer.innerHTML = '<div class="loading">Loading...</div>'; }
 }
 
 function renderCourseList() {
@@ -320,10 +319,10 @@ async function openCourse(course) {
     audio.src = basePath + folder + course.mp3;
     let srtText = '';
     try { const r = await fetch(basePath + folder + course.srt); srtText = await r.text(); }
-    catch (e) { alert('SRT 加载失败'); return; }
+    catch (e) { alert('SRT loading failed'); return; }
     let jsonData = {};
     try { const r = await fetch(basePath + folder + course.json); jsonData = await r.json(); }
-    catch (e) { alert('JSON 加载失败'); return; }
+    catch (e) { alert('JSON loading failed'); return; }
     subs = parseSRT(srtText);
     const keys = Object.keys(jsonData);
     keys.forEach((key) => {
@@ -379,23 +378,23 @@ function updateNotes() {
         <div class="note-original">${s.original}</div>
         <div class="notes-row">
             <div class="note-block">
-                <div class="note-label" data-key="b1">B1 改写 ${collapseState.b1 ? '▸' : '▾'}</div>
-                <div class="note-content ${b1Hidden}">${s.b1 || '(无)'}</div>
+                <div class="note-label" data-key="b1">B1 Rewrite ${collapseState.b1 ? '▸' : '▾'}</div>
+                <div class="note-content ${b1Hidden}">${s.b1 || '(none)'}</div>
             </div>
             <div class="note-block">
-                <div class="note-label" data-key="cn">中文翻译 ${collapseState.cn ? '▸' : '▾'}</div>
-                <div class="note-content ${cnHidden}">${s.cn || '(无)'}</div>
+                <div class="note-label" data-key="cn">Chinese ${collapseState.cn ? '▸' : '▾'}</div>
+                <div class="note-content ${cnHidden}">${s.cn || '(none)'}</div>
             </div>
         </div>
         <hr class="note-separator">
         <div class="note-block">
-            <div class="note-label" data-key="ai">AI 解析 ${collapseState.ai ? '▸' : '▾'}</div>
-            <div class="note-content ${aiHidden}">${s.ai_notes || '(无)'}</div>
+            <div class="note-label" data-key="ai">AI Analysis ${collapseState.ai ? '▸' : '▾'}</div>
+            <div class="note-content ${aiHidden}">${s.ai_notes || '(none)'}</div>
         </div>
         <hr class="note-separator">
         <div class="note-block">
-            <div class="note-label" data-key="ai_cn">AI 中文 ${collapseState.ai_cn ? '▸' : '▾'}</div>
-            <div class="note-content ${aiCnHidden}">${s.remarks || '(无)'}</div>
+            <div class="note-label" data-key="ai_cn">AI Chinese ${collapseState.ai_cn ? '▸' : '▾'}</div>
+            <div class="note-content ${aiCnHidden}">${s.remarks || '(none)'}</div>
         </div>
     `;
     notesContent.querySelectorAll('.note-label').forEach(label => {

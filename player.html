@@ -185,14 +185,14 @@
         <select id="selSpeed">
             <option value="0.6">0.6x</option>
             <option value="0.7">0.7x</option>
-            <option value="0.8" selected>0.8x</option>
+            <option value="0.8">0.8x</option>
             <option value="1">1.0x</option>
             <option value="1.1">1.1x</option>
             <option value="1.2">1.2x</option>
         </select>
         <span class="loop-label">Sentence</span>
         <select id="selSentenceLoop">
-            <option value="1" selected>1x</option>
+            <option value="1">1x</option>
             <option value="2">2x</option>
             <option value="3">3x</option>
             <option value="4">4x</option>
@@ -202,7 +202,7 @@
         </select>
         <span class="loop-label">Track</span>
         <select id="selTrackLoop">
-            <option value="1" selected>1x</option>
+            <option value="1">1x</option>
             <option value="2">2x</option>
             <option value="3">3x</option>
             <option value="4">4x</option>
@@ -243,6 +243,29 @@ const progressFill = document.getElementById('progressFill');
 const selSpeed = document.getElementById('selSpeed');
 const selSentenceLoop = document.getElementById('selSentenceLoop');
 const selTrackLoop = document.getElementById('selTrackLoop');
+
+// ===== 恢复保存的设置 =====
+function restoreSettings() {
+    const savedSpeed = localStorage.getItem('player_speed');
+    if (savedSpeed) {
+        selSpeed.value = savedSpeed;
+        audio.playbackRate = parseFloat(savedSpeed);
+    }
+
+    const savedSentenceLoop = localStorage.getItem('player_sentence_loop');
+    if (savedSentenceLoop) {
+        selSentenceLoop.value = savedSentenceLoop;
+        sentenceLoopCount = parseInt(savedSentenceLoop);
+        sentenceLoopRemaining = sentenceLoopCount;
+    }
+
+    const savedTrackLoop = localStorage.getItem('player_track_loop');
+    if (savedTrackLoop) {
+        selTrackLoop.value = savedTrackLoop;
+        trackLoopCount = parseInt(savedTrackLoop);
+        trackLoopRemaining = trackLoopCount;
+    }
+}
 
 function parseSRT(text) {
     const lines = text.split(/\r?\n/);
@@ -428,22 +451,33 @@ function findNextEnabled(from) {
     return -1;
 }
 
+// ===== 按钮事件 =====
 btnPlay.addEventListener('click', () => {
     if (isPlaying) { audio.pause(); isPlaying = false; btnPlay.textContent = '▶'; }
     else { if (currentIdx < 0) playIdx(0, true); else { audio.play(); isPlaying = true; btnPlay.textContent = '⏸'; } }
 });
 document.getElementById('btnPrev').addEventListener('click', () => { playIdx(Math.max(0, currentIdx - 1), true); });
 document.getElementById('btnNext').addEventListener('click', () => { playIdx(Math.min(subs.length - 1, currentIdx + 1), true); });
-selSpeed.addEventListener('change', () => { audio.playbackRate = parseFloat(selSpeed.value); });
+
+// ===== 下拉框事件（保存到 localStorage） =====
+selSpeed.addEventListener('change', () => {
+    audio.playbackRate = parseFloat(selSpeed.value);
+    localStorage.setItem('player_speed', selSpeed.value);
+});
+
 selSentenceLoop.addEventListener('change', () => {
     sentenceLoopCount = parseInt(selSentenceLoop.value);
     sentenceLoopRemaining = sentenceLoopCount;
+    localStorage.setItem('player_sentence_loop', selSentenceLoop.value);
 });
+
 selTrackLoop.addEventListener('change', () => {
     trackLoopCount = parseInt(selTrackLoop.value);
     trackLoopRemaining = trackLoopCount;
+    localStorage.setItem('player_track_loop', selTrackLoop.value);
 });
 
+// ===== 音频事件 =====
 audio.addEventListener('timeupdate', () => {
     const t = audio.currentTime;
     if (audio.duration) { progressFill.style.width = (t / audio.duration * 100) + '%'; }
@@ -474,6 +508,8 @@ audio.addEventListener('ended', () => {
     }
 });
 
+// ===== 启动 =====
+restoreSettings();
 loadCourseList();
 </script>
 </body>

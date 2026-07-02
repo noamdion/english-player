@@ -48,7 +48,7 @@
         .course-card:active { background: #1e1e30; }
         .course-card .course-name { font-size: 1em; font-weight: bold; }
         .course-card .course-folder { font-size: 0.75em; color: var(--dim); margin-top: 4px; }
-        .player-page { display: none; flex-direction: column; flex: 1; height: 100dvh; }
+        .player-page { display: none; flex-direction: column; flex: 1; height: 100dvh;overflow: hidden;  }
         .player-page.active { display: flex; }
         .back-bar {
             padding: 10px 16px; background: var(--panel);
@@ -58,8 +58,8 @@
         .back-bar button { background: transparent; border: none; color: var(--accent); font-size: 1em; cursor: pointer; }
         .back-bar span { font-size: 0.95em; color: var(--text); }
         .subtitle-list {
-            flex: 0 0 auto; overflow-y: auto; padding: 4px 0;
-            max-height: 60vh;
+            flex: 0 0 auto; height: 30vh;  overflow-y: auto; padding: 4px 0;
+            /* max-height: 60vh;*/
         }
         .sub-row {
             display: flex; align-items: flex-start;
@@ -72,9 +72,10 @@
         .sub-row .idx { color: var(--dim); font-size: 0.7em; margin-right: 6px; flex-shrink: 0; width: 20px; text-align: right; }
         .sub-row .text { flex: 1; line-height: 1.4; font-size: 1.1em; }
         .notes-panel {
+            flex: 0 0 auto; 
             background: var(--panel); border-top: 2px solid #252535;
-            padding: 10px 16px; flex-shrink: 0;
-            max-height: 65vh;
+            padding: 10px 16px; flex-shrink: 0;height: 50vh;    
+            /* max-height: 65vh;*/
             overflow-y: auto;
         }
         .note-original {
@@ -100,7 +101,8 @@
             background: #0d0d17; padding: 8px 12px;
             display: flex; align-items: center; gap: 4px;
             border-top: 1px solid #222; flex-shrink: 0;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
+            flex: 0 0 auto;  height: 56px;   overflow: hidden; 
         }
         .controls button { background: transparent; border: none; color: var(--btn); font-size: 1.1em; padding: 4px 6px; cursor: pointer; }
         .controls button:active { color: #fff; }
@@ -130,11 +132,13 @@
                 font-size: 1.2em;
             }
             .subtitle-list {
-                max-height: 25vh;
+                flex: 0 0 auto;
+                height: 25vh;
                 overflow-y: auto;
             }
             .notes-panel {
-                max-height: 60vh;
+                height: 60vh;
+                overflow-y: auto;
             }
             .notes-row {
                 grid-template-columns: 1fr !important;
@@ -145,11 +149,17 @@
                 min-width: 48px;
                 min-height: 48px;
             }
+
             .controls select {
                 font-size: 0.9em;
                 padding: 8px 6px;
                 min-width: 50px;
                 min-height: 40px;
+            }
+            .controls {
+                 height: 48px;        /* 手机控制栏小一点 */
+                 overflow: hidden;
+                 flex-shrink: 0;      /* 防止被压缩 */
             }
             .note-original {
                 font-size: 1.2em;

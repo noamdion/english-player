@@ -1,9 +1,128 @@
 [
   {
-    "name": "05 - What Is Creative Thinking",
+    "name": "05 -01 What Is Creative Thinking",
     "folder": "05_Chapter5/05_Chapter5_01_what_is_creative_thinking",
     "mp3": "05_Chapter5_01_what_is_creative_thinking.mp3",
     "srt": "05_Chapter5_01_what_is_creative_thinking.srt",
     "json": "05_Chapter5_01_what_is_creative_thinking.json"
+  },
+  {
+    "name": "05 - 02 Believe It Can Be Done",
+    "folder": "05_Chapter5/05_Chapter5_02_believe_it_can_be_done",
+    "mp3": "05_Chapter5_02_believe_it_can_be_done.mp3",
+    "srt": "05_Chapter5_02_believe_it_can_be_done.srt",
+    "json": "05_Chapter5_02_believe_it_can_be_done.json"
+  },
+  {
+    "name": "05 - 03 The Mind Finds Ways When You Believe",
+    "folder": "05_Chapter5/05_Chapter5_03_the_mind_finds_ways_when_you_believe",
+    "mp3": "05_Chapter5_03_the_mind_finds_ways_when_you_believe.mp3",
+    "srt": "05_Chapter5_03_the_mind_finds_ways_when_you_believe.srt",
+    "json": "05_Chapter5_03_the_mind_finds_ways_when_you_believe.json"
+  },
+  {
+    "name": "05 - 04 The Young Man Who Returned To College",
+    "folder": "05_Chapter5/05_Chapter5_04_the_young_man_who_returned_to_college",
+    "mp3": "05_Chapter5_04_the_young_man_who_returned_to_college.mp3",
+    "srt": "05_Chapter5_04_the_young_man_who_returned_to_college.srt",
+    "json": "05_Chapter5_04_the_young_man_who_returned_to_college.json"
+  },
+  {
+    "name": "05 - 05 Break Mental Barriers",
+    "folder": "05_Chapter5/05_Chapter5_05_break_mental_barriers",
+    "mp3": "05_Chapter5_05_break_mental_barriers.mp3",
+    "srt": "05_Chapter5_05_break_mental_barriers.srt",
+    "json": "05_Chapter5_05_break_mental_barriers.json"
+  },
+  {
+    "name": "05 - 06 Test And Overcome Tradition",
+    "folder": "05_Chapter5/05_Chapter5_06_test_and_overcome_tradition",
+    "mp3": "05_Chapter5_06_test_and_overcome_tradition.mp3",
+    "srt": "05_Chapter5_06_test_and_overcome_tradition.srt",
+    "json": "05_Chapter5_06_test_and_overcome_tradition.json"
+  },
+  {
+    "name": "05 - 07 How Can I Do Better",
+    "folder": "05_Chapter5/05_Chapter5_07_how_can_i_do_better",
+    "mp3": "05_Chapter5_07_how_can_i_do_better.mp3",
+    "srt": "05_Chapter5_07_how_can_i_do_better.srt",
+    "json": "05_Chapter5_07_how_can_i_do_better.json"
+  },
+  {
+    "name": "05 - 08 The Weekly Improvement Plan",
+    "folder": "05_Chapter5/05_Chapter5_08_the_weekly_improvement_plan",
+    "mp3": "05_Chapter5_08_the_weekly_improvement_plan.mp3",
+    "srt": "05_Chapter5_08_the_weekly_improvement_plan.srt",
+    "json": "05_Chapter5_08_the_weekly_improvement_plan.json"
+  },
+  {
+    "name": "05 - 09 Capacity Is A State Of Mind",
+    "folder": "05_Chapter5/05_Chapter5_09_capacity_is_a_state_of_mind",
+    "mp3": "05_Chapter5_09_capacity_is_a_state_of_mind.mp3",
+    "srt": "05_Chapter5_09_capacity_is_a_state_of_mind.srt",
+    "json": "05_Chapter5_09_capacity_is_a_state_of_mind.json"
+  },
+  {
+    "name": "05 - 10 Taking On More Work Pays Off",
+    "folder": "05_Chapter5/05_Chapter5_10_taking_on_more_work_pays_off",
+    "mp3": "05_Chapter5_10_taking_on_more_work_pays_off.mp3",
+    "srt": "05_Chapter5_10_taking_on_more_work_pays_off.srt",
+    "json": "05_Chapter5_10_taking_on_more_work_pays_off.json"
+  },
+  {
+    "name": "05 - 11 Accept More Responsibility",
+    "folder": "05_Chapter5/05_Chapter5_11_accept_more_responsibility",
+    "mp3": "05_Chapter5_11_accept_more_responsibility.mp3",
+    "srt": "05_Chapter5_11_accept_more_responsibility.srt",
+    "json": "05_Chapter5_11_accept_more_responsibility.json"
+  },
+  {
+    "name": "05 - 12 Leaders Ask And Listen",
+    "folder": "05_Chapter5/05_Chapter5_12_leaders_ask_and_listen",
+    "mp3": "05_Chapter5_12_leaders_ask_and_listen.mp3",
+    "srt": "05_Chapter5_12_leaders_ask_and_listen.srt",
+    "json": "05_Chapter5_12_leaders_ask_and_listen.json"
+  },
+  {
+    "name": "05 - 13 Three Steps To Listen Better",
+    "folder": "05_Chapter5/05_Chapter5_13_three_steps_to_listen_better",
+    "mp3": "05_Chapter5_13_three_steps_to_listen_better.mp3",
+    "srt": "05_Chapter5_13_three_steps_to_listen_better.srt",
+    "json": "05_Chapter5_13_three_steps_to_listen_better.json"
+  },
+  {
+    "name": "05 - 14 Seek Stimulation From Others",
+    "folder": "05_Chapter5/05_Chapter5_14_seek_stimulation_from_others",
+    "mp3": "05_Chapter5_14_seek_stimulation_from_others.mp3",
+    "srt": "05_Chapter5_14_seek_stimulation_from_others.srt",
+    "json": "05_Chapter5_14_seek_stimulation_from_others.json"
+  },
+  {
+    "name": "05 - 15 Turning Inspiration Into Action",
+    "folder": "05_Chapter5/05_Chapter5_15_turning_inspiration_into_action",
+    "mp3": "05_Chapter5_15_turning_inspiration_into_action.mp3",
+    "srt": "05_Chapter5_15_turning_inspiration_into_action.srt",
+    "json": "05_Chapter5_15_turning_inspiration_into_action.json"
+  },
+  {
+    "name": "05 - 16 How To Handle Ideas",
+    "folder": "05_Chapter5/05_Chapter5_16_how_to_handle_ideas",
+    "mp3": "05_Chapter5_16_how_to_handle_ideas.mp3",
+    "srt": "05_Chapter5_16_how_to_handle_ideas.srt",
+    "json": "05_Chapter5_16_how_to_handle_ideas.json"
+  },
+  {
+    "name": "05 - 17 Put Ideas In Saleable Form",
+    "folder": "05_Chapter5/05_Chapter5_17_put_ideas_in_saleable_form",
+    "mp3": "05_Chapter5_17_put_ideas_in_saleable_form.mp3",
+    "srt": "05_Chapter5_17_put_ideas_in_saleable_form.srt",
+    "json": "05_Chapter5_17_put_ideas_in_saleable_form.json"
+  },
+  {
+    "name": "05 - 18 Creative Tools Summary",
+    "folder": "05_Chapter5/05_Chapter5_18_creative_tools_summary",
+    "mp3": "05_Chapter5_18_creative_tools_summary.mp3",
+    "srt": "05_Chapter5_18_creative_tools_summary.srt",
+    "json": "05_Chapter5_18_creative_tools_summary.json"
   }
 ]

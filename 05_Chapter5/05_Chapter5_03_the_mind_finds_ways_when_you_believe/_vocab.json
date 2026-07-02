@@ -1,0 +1,146 @@
+{
+  "hesitantly": {
+    "explanation_en": "in a way that shows you are nervous or unsure",
+    "explanation_zh": "迟疑地",
+    "type": "word",
+    "emoji": "😟",
+    "example_sentence": "He hesitantly asked if he could leave early.",
+    "original_sentence": "Someone hesitantly says something like, well, you might cut down crime if you established more youth centers.",
+    "marked": false
+  },
+  "cut down": {
+    "explanation_en": "to reduce the amount of something",
+    "explanation_zh": "减少",
+    "type": "phrase",
+    "example_sentence": "I am trying to cut down on sugar to stay healthy.",
+    "original_sentence": "Someone hesitantly says something like, well, you might cut down crime if you established more youth centers.",
+    "marked": false
+  },
+  "before long": {
+    "explanation_en": "soon",
+    "explanation_zh": "不久之后",
+    "type": "phrase",
+    "example_sentence": "Don't worry, he will be here before long.",
+    "original_sentence": "Before long, the group, which ten minutes ago was solidly against the idea, now begins to work up real enthusiasm.",
+    "marked": false
+  },
+  "work up": {
+    "explanation_en": "to develop or build up a feeling or energy",
+    "explanation_zh": "培养出，激发",
+    "type": "phrase",
+    "example_sentence": "I had to work up the courage to speak in front of the class.",
+    "original_sentence": "Before long, the group, which ten minutes ago was solidly against the idea, now begins to work up real enthusiasm.",
+    "marked": false
+  },
+  "eliminate": {
+    "explanation_en": "to remove or get rid of something completely",
+    "explanation_zh": "消除，根除",
+    "type": "word",
+    "emoji": "❌",
+    "example_sentence": "We need to eliminate all errors in the report.",
+    "original_sentence": "Work to eliminate poverty.",
+    "marked": false
+  },
+  "stems from": {
+    "explanation_en": "to be caused by something",
+    "explanation_zh": "源于，由...造成",
+    "type": "phrase",
+    "example_sentence": "Her success stems from years of hard work.",
+    "original_sentence": "Most crime stems from the low income levels.",
+    "marked": false
+  },
+  "spot": {
+    "explanation_en": "to see or notice someone or something",
+    "explanation_zh": "发现，认出",
+    "type": "word",
+    "emoji": "🔍",
+    "example_sentence": "Can you spot the difference between these two pictures?",
+    "original_sentence": "Conduct research to spot potential criminals before they commit a crime.",
+    "marked": false
+  },
+  "law enforcement": {
+    "explanation_en": "the police and other groups that make sure laws are obeyed",
+    "explanation_zh": "执法部门",
+    "type": "phrase",
+    "example_sentence": "Law enforcement officers are trained to handle dangerous situations.",
+    "original_sentence": "Educate law enforcement personnel in positive methods of reform.",
+    "marked": false
+  },
+  "tabulate": {
+    "explanation_en": "to arrange information in a list or table",
+    "explanation_zh": "列表，制表",
+    "type": "word",
+    "emoji": "📋",
+    "example_sentence": "The assistant will tabulate the survey results.",
+    "original_sentence": "These are just samples of the 78 specific ideas I've tabulated that could help accomplish the goal of eliminating jails.",
+    "marked": false
+  },
+  "paves the way": {
+    "explanation_en": "to make it easier for something to happen in the future",
+    "explanation_zh": "为...铺平道路",
+    "type": "phrase",
+    "example_sentence": "This discovery paves the way for new medical treatments.",
+    "original_sentence": "Believing something can be done paves the way for creative solutions.",
+    "marked": false
+  },
+  "destructive": {
+    "explanation_en": "causing damage or harm",
+    "explanation_zh": "破坏性的",
+    "type": "word",
+    "emoji": "💥",
+    "example_sentence": "Criticism can be very destructive if it is not helpful.",
+    "original_sentence": "Believing something can't be done is destructive thinking.",
+    "marked": false
+  },
+  "genuinely": {
+    "explanation_en": "truly or sincerely",
+    "explanation_zh": "真诚地，真正地",
+    "type": "word",
+    "emoji": "😊",
+    "example_sentence": "She was genuinely sorry for what she said.",
+    "original_sentence": "The political leaders who do not genuinely believe permanent world peace can be established will fail because their minds are closed to creative ways to bring about peace.",
+    "marked": false
+  },
+  "bring about": {
+    "explanation_en": "to make something happen",
+    "explanation_zh": "引起，导致",
+    "type": "phrase",
+    "example_sentence": "The new government hopes to bring about positive change.",
+    "original_sentence": "The political leaders who do not genuinely believe permanent world peace can be established will fail because their minds are closed to creative ways to bring about peace.",
+    "marked": false
+  },
+  "inevitable": {
+    "explanation_en": "certain to happen and unable to be avoided",
+    "explanation_zh": "不可避免的",
+    "type": "word",
+    "emoji": "⏳",
+    "example_sentence": "It was inevitable that they would eventually argue.",
+    "original_sentence": "The economists who believe business depressions are inevitable will not develop creative ways to beat the business cycle.",
+    "marked": false
+  },
+  "in a similar fashion": {
+    "explanation_en": "in the same way",
+    "explanation_zh": "以同样的方式",
+    "type": "phrase",
+    "example_sentence": "In a similar fashion, you can learn to cook by watching videos.",
+    "original_sentence": "In a similar fashion, you can find ways to like a person if you believe you can.",
+    "marked": false
+  },
+  "put the brakes on": {
+    "explanation_en": "to slow down or stop an activity",
+    "explanation_zh": "踩刹车，减缓进程",
+    "type": "phrase",
+    "example_sentence": "The company had to put the brakes on its expansion plans due to lack of money.",
+    "original_sentence": "Disbelief puts the brakes on.",
+    "marked": false
+  },
+  "constructively": {
+    "explanation_en": "in a way that is useful and helpful",
+    "explanation_zh": "建设性地",
+    "type": "word",
+    "emoji": "🏗️",
+    "example_sentence": "We should use feedback to think constructively about our work.",
+    "original_sentence": "Believe and you'll start thinking constructively.",
+    "marked": false
+  }
+}

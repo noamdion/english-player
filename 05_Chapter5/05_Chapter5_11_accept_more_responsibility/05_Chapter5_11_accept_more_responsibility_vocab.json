@@ -1,0 +1,172 @@
+{
+  "take place": {
+    "explanation_en": "to happen, especially in a particular place or situation",
+    "explanation_zh": "发生，举行",
+    "type": "phrase",
+    "example_sentence": "The meeting will take place in the main hall.",
+    "original_sentence": "Every day, it seems, this takes place in the fast-moving world of business.",
+    "marked": false
+  },
+  "fast-moving": {
+    "explanation_en": "changing or developing very quickly",
+    "explanation_zh": "快速变化的，发展迅速的",
+    "type": "word",
+    "emoji": "⚡",
+    "example_sentence": "She works in a fast-moving industry where things change daily.",
+    "original_sentence": "Every day, it seems, this takes place in the fast-moving world of business.",
+    "marked": false
+  },
+  "call in": {
+    "explanation_en": "to ask someone to come to a room or office, usually to talk",
+    "explanation_zh": "叫来，召见",
+    "type": "phrase",
+    "example_sentence": "The manager called in the team for a quick meeting.",
+    "original_sentence": "The boss calls in an employee and explains that a special task must be accomplished.",
+    "marked": false
+  },
+  "accomplished": {
+    "explanation_en": "successfully finished or done well",
+    "explanation_zh": "完成的，有造诣的",
+    "type": "word",
+    "emoji": "✅",
+    "example_sentence": "She felt proud to have accomplished the difficult task.",
+    "original_sentence": "The boss calls in an employee and explains that a special task must be accomplished.",
+    "marked": false
+  },
+  "handle": {
+    "explanation_en": "to deal with something or be responsible for it",
+    "explanation_zh": "处理，负责",
+    "type": "word",
+    "emoji": "🛠️",
+    "example_sentence": "Can you handle this project on your own?",
+    "original_sentence": "Then he says, I know you got a lot of work to do, but can you handle this?",
+    "marked": false
+  },
+  "awfully": {
+    "explanation_en": "very; used to emphasize something",
+    "explanation_zh": "非常，极其",
+    "type": "word",
+    "emoji": "😞",
+    "example_sentence": "I'm awfully tired after the long trip.",
+    "original_sentence": "Too often the employee replies, I'm awfully sorry, but I'm all loaded down now.",
+    "marked": false
+  },
+  "loaded down": {
+    "explanation_en": "having too much work to do or too many things to carry",
+    "explanation_zh": "忙得不可开交，负担过重",
+    "type": "phrase",
+    "example_sentence": "I can't go out tonight, I'm too loaded down with work.",
+    "original_sentence": "Too often the employee replies, I'm awfully sorry, but I'm all loaded down now.",
+    "marked": false
+  },
+  "take on": {
+    "explanation_en": "to accept a new task or responsibility",
+    "explanation_zh": "承担，接受（工作）",
+    "type": "phrase",
+    "example_sentence": "She decided to take on the extra project even though she was busy.",
+    "original_sentence": "I wish I could take it on, but I'm just too busy.",
+    "marked": false
+  },
+  "under the circumstances": {
+    "explanation_en": "considering the situation; because of the situation",
+    "explanation_zh": "在这种情况下",
+    "type": "phrase",
+    "example_sentence": "Under the circumstances, I think we should cancel the trip.",
+    "original_sentence": "Under the circumstances, the boss doesn't hold it against the employee because it is extra duty, so to speak.",
+    "marked": false
+  },
+  "hold it against": {
+    "explanation_en": "to feel angry or upset with someone because of something they did",
+    "explanation_zh": "因某事对某人怀恨在心",
+    "type": "phrase",
+    "example_sentence": "I made a mistake, but I hope you won't hold it against me.",
+    "original_sentence": "Under the circumstances, the boss doesn't hold it against the employee because it is extra duty, so to speak.",
+    "marked": false
+  },
+  "so to speak": {
+    "explanation_en": "used to show that you are using a special expression or an unusual way of saying something",
+    "explanation_zh": "可以这么说，打个比方",
+    "type": "phrase",
+    "example_sentence": "He is, so to speak, the heart of the team.",
+    "original_sentence": "Under the circumstances, the boss doesn't hold it against the employee because it is extra duty, so to speak.",
+    "marked": false
+  },
+  "forge ahead": {
+    "explanation_en": "to move forward steadily and make progress, especially after difficulties",
+    "explanation_zh": "稳步前进，取得进展",
+    "type": "phrase",
+    "example_sentence": "Despite the challenges, the team forged ahead with the project.",
+    "original_sentence": "And this employee is the fellow who will forge ahead.",
+    "marked": false
+  },
+  "output": {
+    "explanation_en": "the amount of work or goods produced by a person or machine",
+    "explanation_zh": "产出，产量",
+    "type": "word",
+    "emoji": "📤",
+    "example_sentence": "The factory has increased its output by 20% this year.",
+    "original_sentence": "In business, in the home, in the community, the success combination is do what you do better, improve the quality of your output, and do more of what you do, increase the quantity of your output.",
+    "marked": false
+  },
+  "stand out": {
+    "explanation_en": "to be easily seen or noticed because you are different or better",
+    "explanation_zh": "脱颖而出，引人注目",
+    "type": "phrase",
+    "example_sentence": "Her excellent presentation made her stand out from the other candidates.",
+    "original_sentence": "Accepting greater responsibility on the job makes you stand out and shows that you're more valuable.",
+    "marked": false
+  },
+  "civic": {
+    "explanation_en": "relating to a city or town, or the people who live there",
+    "explanation_zh": "公民的，市政的",
+    "type": "word",
+    "emoji": "🏛️",
+    "example_sentence": "It's important to take part in civic activities in your community.",
+    "original_sentence": "When your neighbors ask you to represent them on a civic matter, accept.",
+    "marked": false
+  },
+  "shortcut": {
+    "explanation_en": "a quicker or easier way of doing something",
+    "explanation_zh": "捷径，快捷方式",
+    "type": "word",
+    "emoji": "🔀",
+    "example_sentence": "There are no shortcuts to learning a language well.",
+    "original_sentence": "Some of these answers may be better planning and organization of your present work, or taking intelligent shortcuts in your routine activities, or possibly dropping non-essential activities altogether.",
+    "marked": false
+  },
+  "non-essential": {
+    "explanation_en": "not completely necessary; not needed",
+    "explanation_zh": "非必要的，不重要的",
+    "type": "word",
+    "emoji": "🗑️",
+    "example_sentence": "During the meeting, please avoid non-essential talk.",
+    "original_sentence": "Some of these answers may be better planning and organization of your present work, or taking intelligent shortcuts in your routine activities, or possibly dropping non-essential activities altogether.",
+    "marked": false
+  },
+  "count on": {
+    "explanation_en": "to depend on someone or something, to trust that they will do what you expect",
+    "explanation_zh": "依靠，指望",
+    "type": "phrase",
+    "example_sentence": "You can always count on him to help when you're in trouble.",
+    "original_sentence": "I have learned in dozens of instances that I can count on a busy man to deliver, but I have often been disappointed in working with people who have all the time in the world.",
+    "marked": false
+  },
+  "deliver": {
+    "explanation_en": "to do what you promised or are expected to do",
+    "explanation_zh": "履行承诺，做到",
+    "type": "word",
+    "emoji": "📦",
+    "example_sentence": "If we promise to finish by Friday, we must deliver.",
+    "original_sentence": "I have learned in dozens of instances that I can count on a busy man to deliver.",
+    "marked": false
+  },
+  "progressive": {
+    "explanation_en": "favoring new ideas and modern methods, always trying to improve",
+    "explanation_zh": "进步的，先进的",
+    "type": "word",
+    "emoji": "📈",
+    "example_sentence": "The company has a progressive policy on working from home.",
+    "original_sentence": "Progressive business management constantly asks, what can we do to expand output?",
+    "marked": false
+  }
+}

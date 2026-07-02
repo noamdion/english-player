@@ -1,0 +1,169 @@
+{
+  "call for": {
+    "explanation_en": "to need or require something",
+    "explanation_zh": "需要",
+    "type": "phrase",
+    "example_sentence": "This difficult task calls for a lot of patience.",
+    "original_sentence": "Big success calls for persons who continually set higher standards for themselves and others,",
+    "marked": false
+  },
+  "set higher standards": {
+    "explanation_en": "to demand better quality or performance",
+    "explanation_zh": "设定更高标准",
+    "type": "phrase",
+    "example_sentence": "You should set higher standards for your school work.",
+    "original_sentence": "Big success calls for persons who continually set higher standards for themselves and others,",
+    "marked": false
+  },
+  "efficiency": {
+    "explanation_en": "the ability to do things well without wasting time or energy",
+    "explanation_zh": "效率",
+    "type": "word",
+    "emoji": "⚡📈",
+    "example_sentence": "Using a computer improves my work efficiency.",
+    "original_sentence": "persons who are searching for ways to increase efficiency, to get more output at lower cost,",
+    "marked": false
+  },
+  "output": {
+    "explanation_en": "the amount of something produced by a person, machine, or industry",
+    "explanation_zh": "产量，产出",
+    "type": "word",
+    "emoji": "📦",
+    "example_sentence": "The factory increased its daily output.",
+    "original_sentence": "persons who are searching for ways to increase efficiency, to get more output at lower cost,",
+    "marked": false
+  },
+  "reserved for": {
+    "explanation_en": "kept or intended for a specific person or purpose",
+    "explanation_zh": "留给，专属于",
+    "type": "phrase",
+    "example_sentence": "This parking space is reserved for doctors.",
+    "original_sentence": "Top success is reserved for the I-can-do-it-better kind of person.",
+    "marked": false
+  },
+  "works magic": {
+    "explanation_en": "to have a very good or surprising effect",
+    "explanation_zh": "产生奇效",
+    "type": "phrase",
+    "example_sentence": "A little bit of kindness works magic in a relationship.",
+    "original_sentence": "The I-can-do-better philosophy works magic.",
+    "marked": false
+  },
+  "switched on": {
+    "explanation_en": "activated or turned on",
+    "explanation_zh": "开启，激活",
+    "type": "phrase",
+    "example_sentence": "Once I start writing, my imagination is switched on.",
+    "original_sentence": "Your creative power is switched on and ways for doing things better suggest themselves.",
+    "marked": false
+  },
+  "suggest themselves": {
+    "explanation_en": "to come into your mind automatically",
+    "explanation_zh": "自动浮现",
+    "type": "phrase",
+    "example_sentence": "When you are relaxed, good ideas often suggest themselves.",
+    "original_sentence": "Your creative power is switched on and ways for doing things better suggest themselves.",
+    "marked": false
+  },
+  "devote": {
+    "explanation_en": "to give a lot of time or effort to something",
+    "explanation_zh": "投入，致力于",
+    "type": "word",
+    "emoji": "⏳❤️",
+    "example_sentence": "She devotes two hours a day to learning English.",
+    "original_sentence": "Each day, before you begin work, devote 10 minutes to thinking, how can I do a better job today?",
+    "marked": false
+  },
+  "get together": {
+    "explanation_en": "to meet with someone socially",
+    "explanation_zh": "聚会，相聚",
+    "type": "phrase",
+    "example_sentence": "We usually get together with friends on weekends.",
+    "original_sentence": "Just about every time my wife and I would get together with a certain couple,",
+    "marked": false
+  },
+  "turn to": {
+    "explanation_en": "to change the subject of a conversation to something else",
+    "explanation_zh": "转而谈论",
+    "type": "phrase",
+    "example_sentence": "The conversation soon turned to politics.",
+    "original_sentence": "the conversation would turn to working wives.",
+    "marked": false
+  },
+  "genuinely": {
+    "explanation_en": "really or sincerely",
+    "explanation_zh": "真诚地，真正地",
+    "type": "word",
+    "emoji": "😊",
+    "example_sentence": "I was genuinely surprised by the gift.",
+    "original_sentence": "Mrs. S had worked several years before her marriage, and she had genuinely liked it.",
+    "marked": false
+  },
+  "permanently": {
+    "explanation_en": "for all time; not temporarily",
+    "explanation_zh": "永久地",
+    "type": "word",
+    "emoji": "♾️",
+    "example_sentence": "The accident left him permanently disabled.",
+    "original_sentence": "Mr. S received a back injury that left him permanently disabled.",
+    "marked": false
+  },
+  "disabled": {
+    "explanation_en": "having an illness, injury, or condition that makes it difficult to do things",
+    "explanation_zh": "残疾的",
+    "type": "word",
+    "emoji": "♿",
+    "example_sentence": "The building has facilities for disabled people.",
+    "original_sentence": "Mr. S received a back injury that left him permanently disabled.",
+    "marked": false
+  },
+  "have no choice but to": {
+    "explanation_en": "to be forced to do something because there is no other option",
+    "explanation_zh": "别无选择，只能",
+    "type": "phrase",
+    "example_sentence": "I had no choice but to walk home because the bus stopped running.",
+    "original_sentence": "Now Mrs. S had no choice but to go to work.",
+    "marked": false
+  },
+  "adjusted to": {
+    "explanation_en": "to become used to a new situation",
+    "explanation_zh": "适应",
+    "type": "phrase",
+    "example_sentence": "It took me a while to adjust to the new time zone.",
+    "original_sentence": "we were amazed to find how well she had adjusted to her new responsibilities.",
+    "marked": false
+  },
+  "make up my mind": {
+    "explanation_en": "to decide something",
+    "explanation_zh": "下定决心",
+    "type": "phrase",
+    "example_sentence": "I have made up my mind to study abroad next year.",
+    "original_sentence": "But after the accident, I just made up my mind that I had to find the time.",
+    "marked": false
+  },
+  "conserve": {
+    "explanation_en": "to save or use something carefully so it is not wasted",
+    "explanation_zh": "节省，保护",
+    "type": "word",
+    "emoji": "🔋",
+    "example_sentence": "We should try to conserve water during the summer.",
+    "original_sentence": "I found dozens of ways to conserve time.",
+    "marked": false
+  },
+  "time killers": {
+    "explanation_en": "things that waste your time",
+    "explanation_zh": "浪费时间的事物",
+    "type": "phrase",
+    "example_sentence": "Social media can be one of the biggest time killers.",
+    "original_sentence": "Fewer trips to the store, less TV, less telephoning, less of those time killers.",
+    "marked": false
+  },
+  "state of mind": {
+    "explanation_en": "a person's mood or mental attitude",
+    "explanation_zh": "心态，精神状态",
+    "type": "phrase",
+    "example_sentence": "Your success depends on your positive state of mind.",
+    "original_sentence": "Capacity is a state of mind.",
+    "marked": false
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "getting nowhere": {
+    "explanation_en": "making no progress or having no success",
+    "explanation_zh": "毫无进展",
+    "type": "phrase",
+    "example_sentence": "I have been trying to fix this computer for hours, but I am getting nowhere.",
+    "original_sentence": "He was employed as a clerk in the credit department of a mail order company and felt that he was getting nowhere.",
+    "marked": false
+  },
+  "move up the ladder": {
+    "explanation_en": "to advance in one's career or social status",
+    "explanation_zh": "晋升，向上爬",
+    "type": "phrase",
+    "example_sentence": "She worked hard for years to move up the ladder and become a manager.",
+    "original_sentence": "After knowing something about him, I said, I admire you very much for wanting to move up the ladder to a better job and more responsibility.",
+    "marked": false
+  },
+  "land": {
+    "explanation_en": "to succeed in getting something, especially a job",
+    "explanation_zh": "获得（工作）",
+    "type": "word",
+    "emoji": "🎯",
+    "example_sentence": "He was so happy when he finally landed a job at the bank.",
+    "original_sentence": "Then I'm sure you can land the job you want, with the company you want to work for.",
+    "marked": false
+  },
+  "on top of that": {
+    "explanation_en": "in addition to what has already been mentioned",
+    "explanation_zh": "除此之外",
+    "type": "phrase",
+    "example_sentence": "The hotel was expensive, and on top of that, it was very far from the city center.",
+    "original_sentence": "On top of that, my wife and I are expecting our second child in a couple of months.",
+    "marked": false
+  },
+  "get by": {
+    "explanation_en": "to have just enough money to pay for the things you need",
+    "explanation_zh": "勉强维持生活",
+    "type": "phrase",
+    "example_sentence": "It is difficult to get by on such a low salary in this city.",
+    "original_sentence": "We barely get by now on what I make.",
+    "marked": false
+  },
+  "by the same token": {
+    "explanation_en": "used to introduce a statement that is true for the same reasons as the previous one",
+    "explanation_zh": "同样地",
+    "example_sentence": "I don't like horror movies; by the same token, I don't like scary books.",
+    "type": "phrase",
+    "original_sentence": "But by the same token, if you'll just believe it is possible to return to the university, a solution will come.",
+    "marked": false
+  },
+  "make up your mind": {
+    "explanation_en": "to make a decision",
+    "explanation_zh": "下定决心",
+    "type": "phrase",
+    "example_sentence": "You need to make up your mind about which university to attend.",
+    "original_sentence": "Make up your mind you are going to go back to school.",
+    "marked": false
+  },
+  "dominate": {
+    "explanation_en": "to be the most important or noticeable part of something",
+    "explanation_zh": "支配，主导",
+    "type": "word",
+    "emoji": "👑",
+    "example_sentence": "The fear of failure dominated his thoughts.",
+    "original_sentence": "Let that one thought dominate your thinking.",
+    "marked": false
+  },
+  "come up with": {
+    "explanation_en": "to suggest or think of an idea or plan",
+    "explanation_zh": "想出（主意/方案）",
+    "type": "phrase",
+    "example_sentence": "She came up with a great idea for the party.",
+    "original_sentence": "Come back in a couple of weeks and let me know what ideas you've come up with.",
+    "marked": false
+  },
+  "figure out": {
+    "explanation_en": "to understand or solve a problem",
+    "explanation_zh": "弄明白，解决",
+    "type": "phrase",
+    "example_sentence": "I can't figure out how to use this new software.",
+    "original_sentence": "I haven't figured out all the angles yet, but I'll find a solution.",
+    "marked": false
+  },
+  "scholarship": {
+    "explanation_en": "an amount of money given by a school or organization to help a student pay for their studies",
+    "explanation_zh": "奖学金",
+    "type": "word",
+    "emoji": "🎓💰",
+    "example_sentence": "He won a scholarship to study at a top university.",
+    "original_sentence": "He managed to get a scholarship provided by a trade association, which paid his tuition, books, and incidentals.",
+    "marked": false
+  },
+  "tuition": {
+    "explanation_en": "the money you pay to be taught at a college or university",
+    "explanation_zh": "学费",
+    "type": "word",
+    "emoji": "🏫💵",
+    "example_sentence": "The cost of tuition has increased this year.",
+    "original_sentence": "He managed to get a scholarship provided by a trade association, which paid his tuition, books, and incidentals.",
+    "marked": false
+  },
+  "rearrange": {
+    "explanation_en": "to change the order or time of something",
+    "explanation_zh": "重新安排",
+    "type": "word",
+    "emoji": "🗓️🔄",
+    "example_sentence": "I need to rearrange my schedule to fit in a doctor's appointment.",
+    "original_sentence": "He rearranged his work schedule so he could attend classes.",
+    "marked": false
+  },
+  "enthusiasm": {
+    "explanation_en": "a feeling of energetic interest in a particular subject or activity",
+    "explanation_zh": "热情，热忱",
+    "type": "word",
+    "emoji": "🤩🔥",
+    "example_sentence": "She showed great enthusiasm for the new project.",
+    "original_sentence": "His enthusiasm and the promise of a better life won him his wife's full support.",
+    "marked": false
+  },
+  "where there's a will, there is a way": {
+    "explanation_en": "if you are determined enough, you can find a way to achieve what you want",
+    "explanation_zh": "有志者事竟成",
+    "type": "phrase",
+    "example_sentence": "It was hard to learn the language, but where there's a will, there is a way.",
+    "original_sentence": "Where there's a will, there is a way.",
+    "marked": false
+  }
+}

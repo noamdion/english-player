@@ -1,0 +1,148 @@
+{
+  "creative thinking": {
+    "explanation_en": "the ability to look at things from a new perspective and find new solutions",
+    "explanation_zh": "创造性思维",
+    "type": "phrase",
+    "example_sentence": "Creative thinking is essential for solving complex problems at work.",
+    "original_sentence": "That's basic to creative thinking.",
+    "marked": false
+  },
+  "eliminate": {
+    "explanation_en": "to remove or get rid of something completely",
+    "explanation_zh": "消除，排除",
+    "type": "word",
+    "emoji": "❌",
+    "example_sentence": "We need to eliminate all errors from the report before sending it.",
+    "original_sentence": "Eliminate the word impossible from your thinking and speaking vocabularies.",
+    "marked": false
+  },
+  "chain reaction": {
+    "explanation_en": "a series of events where one event causes the next one to happen",
+    "explanation_zh": "连锁反应",
+    "type": "phrase",
+    "example_sentence": "His negative comment started a chain reaction of complaints from the team.",
+    "original_sentence": "The thought it's impossible sets off a chain reaction of other thoughts to prove you're right.",
+    "marked": false
+  },
+  "whip": {
+    "explanation_en": "in this context, to defeat or overcome something",
+    "explanation_zh": "击败，克服",
+    "type": "word",
+    "emoji": "🥊",
+    "example_sentence": "You have to whip your fear of public speaking to succeed.",
+    "original_sentence": "Many of us whip and defeat our desires simply because we concentrate on why we can't,",
+    "marked": false
+  },
+  "worthy of": {
+    "explanation_en": "deserving of something",
+    "explanation_zh": "值得的",
+    "type": "phrase",
+    "example_sentence": "This project is worthy of your full attention.",
+    "original_sentence": "when the only thing worthy of our mental concentration is why we can.",
+    "marked": false
+  },
+  "cut down": {
+    "explanation_en": "to reduce the amount or size of something",
+    "explanation_zh": "削减，减少",
+    "type": "phrase",
+    "example_sentence": "We need to cut down on our monthly expenses.",
+    "original_sentence": "This would cut down greatly on duplicated services so that taxpayers would actually get better service for less money.",
+    "marked": false
+  },
+  "stumble across": {
+    "explanation_en": "to find something by chance",
+    "explanation_zh": "偶然发现",
+    "type": "phrase",
+    "example_sentence": "I stumbled across an old photo while cleaning the attic.",
+    "original_sentence": "The writer of this article said he thought he had stumbled across a really live idea,",
+    "marked": false
+  },
+  "at random": {
+    "explanation_en": "without a specific plan or pattern; chosen by chance",
+    "explanation_zh": "随机地",
+    "type": "phrase",
+    "example_sentence": "The teacher picked students at random to answer the questions.",
+    "original_sentence": "so he interviewed 30 people at random to get their reactions.",
+    "marked": false
+  },
+  "merit": {
+    "explanation_en": "the quality of being good or worthy",
+    "explanation_zh": "价值，优点",
+    "type": "word",
+    "emoji": "⭐",
+    "example_sentence": "His proposal has some merit, but it needs more research.",
+    "original_sentence": "Not one person thought the idea had merit, even though it would provide them with better local government at less cost.",
+    "marked": false
+  },
+  "paralyzed": {
+    "explanation_en": "unable to move or act because of fear or shock",
+    "explanation_zh": "瘫痪的，无法行动的",
+    "type": "word",
+    "emoji": "🧊",
+    "example_sentence": "He was paralyzed by fear when he saw the fire.",
+    "original_sentence": "The traditional thinker's mind is paralyzed.",
+    "marked": false
+  },
+  "resent": {
+    "explanation_en": "to feel angry or unhappy about something that you think is unfair",
+    "explanation_zh": "怨恨，不满",
+    "type": "word",
+    "emoji": "😠",
+    "example_sentence": "She resented being told what to do by someone younger than her.",
+    "original_sentence": "Average people have always resented progress.",
+    "marked": false
+  },
+  "drastic": {
+    "explanation_en": "extreme and sudden",
+    "explanation_zh": "激烈的，极端的",
+    "type": "word",
+    "emoji": "⚠️",
+    "example_sentence": "The company had to take drastic measures to avoid bankruptcy.",
+    "original_sentence": "The airplane seemed drastic to many.",
+    "marked": false
+  },
+  "status-quoers": {
+    "explanation_en": "people who want things to stay exactly as they are now",
+    "explanation_zh": "维持现状者",
+    "type": "word",
+    "emoji": "🛑",
+    "example_sentence": "The status-quoers in the office refused to try the new software.",
+    "original_sentence": "A lot of status-quoers still insist that man has no business in space.",
+    "marked": false
+  },
+  "deviate": {
+    "explanation_en": "to change from a planned path or standard",
+    "explanation_zh": "偏离",
+    "type": "word",
+    "emoji": "↪️",
+    "example_sentence": "It is important not to deviate from the instructions provided.",
+    "original_sentence": "Find the best way, then never deviate from it.",
+    "marked": false
+  },
+  "financial ruin": {
+    "explanation_en": "the state of having lost all one's money or business success",
+    "explanation_zh": "经济破产",
+    "type": "phrase",
+    "example_sentence": "Poor management led the company to financial ruin.",
+    "original_sentence": "Fortunately for this man's company, new leadership came in in time to save the organization from financial ruin.",
+    "marked": false
+  },
+  "rear": {
+    "explanation_en": "to take care of a child until they are fully grown",
+    "explanation_zh": "抚养",
+    "type": "word",
+    "emoji": "👶",
+    "example_sentence": "They worked hard to rear their children in a safe environment.",
+    "original_sentence": "make a sail, rear a child, or cook a steak.",
+    "marked": false
+  },
+  "sprout": {
+    "explanation_en": "to start to grow or develop",
+    "explanation_zh": "发芽，萌芽",
+    "type": "word",
+    "emoji": "🌱",
+    "example_sentence": "New ideas began to sprout after the brainstorming session.",
+    "original_sentence": "If we let tradition freeze our minds, new ideas can't sprout.",
+    "marked": false
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "pave the way": {
+    "explanation_en": "to make it easier for something to happen or for someone to do something",
+    "explanation_zh": "为...铺平道路",
+    "type": "phrase",
+    "example_sentence": "His research paved the way for a new medical treatment.",
+    "original_sentence": "Believing a solution paves the way to solution.",
+    "marked": false
+  },
+  "eliminate": {
+    "explanation_en": "to remove or get rid of something completely",
+    "explanation_zh": "消除，排除",
+    "type": "word",
+    "emoji": "❌🗑️",
+    "example_sentence": "We need to eliminate all errors before submitting the report.",
+    "original_sentence": "Eliminate impossible, won't work, can't do, no use trying from your thinking and speaking vocabularies.",
+    "marked": false
+  },
+  "paralyze": {
+    "explanation_en": "to make someone unable to think or act normally",
+    "explanation_zh": "使瘫痪，使无法思考",
+    "type": "word",
+    "emoji": "🚫🧠",
+    "example_sentence": "Fear of failure can paralyze your decision-making.",
+    "original_sentence": "Don't let tradition paralyze your mind.",
+    "marked": false
+  },
+  "receptive": {
+    "explanation_en": "willing to consider or accept new ideas and suggestions",
+    "explanation_zh": "善于接受的",
+    "type": "word",
+    "emoji": "👂💡",
+    "example_sentence": "The manager was receptive to my suggestions for the project.",
+    "original_sentence": "Be receptive to new ideas.",
+    "marked": false
+  },
+  "experimental": {
+    "explanation_en": "based on new ideas or methods that have not been tested before",
+    "explanation_zh": "实验性的，创新的",
+    "type": "word",
+    "emoji": "🧪🔬",
+    "example_sentence": "The chef is known for his experimental cooking style.",
+    "original_sentence": "Be experimental.",
+    "marked": false
+  },
+  "progressive": {
+    "explanation_en": "favoring or implementing new ideas or modern methods",
+    "explanation_zh": "进步的，先进的",
+    "type": "word",
+    "emoji": "📈🚀",
+    "example_sentence": "The company has a progressive policy regarding remote work.",
+    "original_sentence": "Be progressive in everything you do.",
+    "marked": false
+  },
+  "self-improvement": {
+    "explanation_en": "the process of making yourself a better or more knowledgeable person",
+    "explanation_zh": "自我提升",
+    "type": "word",
+    "emoji": "🌱✨",
+    "example_sentence": "Reading books is a great way to focus on self-improvement.",
+    "original_sentence": "There is no limit to self-improvement.",
+    "marked": false
+  },
+  "sound": {
+    "explanation_en": "sensible, reliable, or based on good judgment",
+    "explanation_zh": "合理的，可靠的",
+    "type": "word",
+    "emoji": "✅⚖️",
+    "example_sentence": "She gave me some very sound advice.",
+    "original_sentence": "When you ask yourself, how can I do better, sound answers will appear.",
+    "marked": false
+  },
+  "capacity": {
+    "explanation_en": "the ability to do or produce something",
+    "explanation_zh": "能力，容量",
+    "type": "word",
+    "emoji": "🧠🔋",
+    "example_sentence": "He has a great capacity for learning new languages.",
+    "original_sentence": "Capacity is a state of mind.",
+    "marked": false
+  },
+  "shortcut": {
+    "explanation_en": "a quicker or more direct way to do something",
+    "explanation_zh": "捷径",
+    "type": "word",
+    "emoji": "🛣️⚡",
+    "example_sentence": "There are no shortcuts to becoming an expert; it takes practice.",
+    "original_sentence": "Asking yourself this question puts your mind to work to find intelligent shortcuts.",
+    "marked": false
+  },
+  "output": {
+    "explanation_en": "the amount of something produced by a person, machine, or factory",
+    "explanation_zh": "产量，产出",
+    "type": "word",
+    "emoji": "📦📊",
+    "example_sentence": "The factory increased its output by 20% this year.",
+    "original_sentence": "The success combination in business is, do what you do better, improve the quality of your output, and do more of what you do, increase the quantity of your output.",
+    "marked": false
+  },
+  "obtain": {
+    "explanation_en": "to get something, especially by effort",
+    "explanation_zh": "获得",
+    "type": "word",
+    "emoji": "🤲🎯",
+    "example_sentence": "You need to obtain permission before entering the building.",
+    "original_sentence": "Ask and listen, and you'll obtain raw material for reaching sound decisions.",
+    "marked": false
+  },
+  "raw material": {
+    "explanation_en": "basic information or facts that can be used to create something else",
+    "explanation_zh": "原始资料",
+    "type": "phrase",
+    "example_sentence": "These interviews provided the raw material for his new book.",
+    "original_sentence": "Ask and listen, and you'll obtain raw material for reaching sound decisions.",
+    "marked": false
+  },
+  "monopolize": {
+    "explanation_en": "to take control of something so that others cannot use it",
+    "explanation_zh": "垄断，独占",
+    "type": "word",
+    "emoji": "🚫🗣️",
+    "example_sentence": "Don't monopolize the conversation; let others speak too.",
+    "original_sentence": "Remember, big people monopolize the listening.",
+    "marked": false
+  },
+  "stretch": {
+    "explanation_en": "to push someone to use their full abilities or potential",
+    "explanation_zh": "扩展，发挥（潜力）",
+    "type": "word",
+    "emoji": "🧘‍♂️📈",
+    "example_sentence": "This project will really stretch your creative skills.",
+    "original_sentence": "Stretch your mind.",
+    "marked": false
+  },
+  "stimulated": {
+    "explanation_en": "feeling excited or interested in something",
+    "explanation_zh": "受激发的，受刺激的",
+    "type": "word",
+    "emoji": "⚡💡",
+    "example_sentence": "I felt very stimulated after the interesting lecture.",
+    "original_sentence": "Get stimulated.",
+    "marked": false
+  },
+  "associate with": {
+    "explanation_en": "to spend time with someone",
+    "explanation_zh": "与...交往",
+    "type": "phrase",
+    "example_sentence": "It is important to associate with positive people.",
+    "original_sentence": "Associate with people who can help you think of new ideas, new ways of doing things.",
+    "marked": false
+  },
+  "mix with": {
+    "explanation_en": "to meet and talk to other people",
+    "explanation_zh": "与...混在一起/交流",
+    "type": "phrase",
+    "example_sentence": "At the party, I had the chance to mix with people from different backgrounds.",
+    "original_sentence": "Mix with people of different occupational and social interests.",
+    "marked": false
+  }
+}

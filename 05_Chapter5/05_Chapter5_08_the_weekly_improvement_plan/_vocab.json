@@ -1,0 +1,182 @@
+{
+  "former": {
+    "explanation_en": "previous; someone who held a position or role in the past",
+    "explanation_zh": "以前的，前任的",
+    "type": "word",
+    "emoji": "🔙",
+    "example_sentence": "My former teacher still gives me great advice.",
+    "original_sentence": "A few months ago, a former student of mine, in business for just four years, opened her fourth hardware store.",
+    "marked": false
+  },
+  "feat": {
+    "explanation_en": "an achievement that requires great courage, skill, or strength",
+    "explanation_zh": "功绩，壮举",
+    "type": "word",
+    "emoji": "🏆",
+    "example_sentence": "Finishing the marathon was a great feat for him.",
+    "original_sentence": "This was quite a feat, considering the young lady's small initial capital investment of only $3,500,",
+    "marked": false
+  },
+  "initial": {
+    "explanation_en": "happening at the beginning",
+    "explanation_zh": "最初的",
+    "type": "word",
+    "emoji": "1️⃣",
+    "example_sentence": "My initial reaction was surprise, but then I felt happy.",
+    "original_sentence": "This was quite a feat, considering the young lady's small initial capital investment of only $3,500,",
+    "marked": false
+  },
+  "make a success of": {
+    "explanation_en": "to make something successful",
+    "explanation_zh": "使……成功",
+    "type": "phrase",
+    "example_sentence": "It takes a lot of effort to make a success of a new restaurant.",
+    "original_sentence": "In an indirect way, I asked her how she was able to make a success of three stores and open a fourth one,",
+    "marked": false
+  },
+  "attribute to": {
+    "explanation_en": "to say that something is the result of a particular thing",
+    "explanation_zh": "归因于",
+    "type": "phrase",
+    "example_sentence": "She attributes her good health to regular exercise.",
+    "original_sentence": "The main thing I attribute my success to is my self-styled weekly improvement program.",
+    "marked": false
+  },
+  "elaborate": {
+    "explanation_en": "complicated and detailed",
+    "explanation_zh": "复杂的，详尽的",
+    "type": "word",
+    "emoji": "🧩",
+    "example_sentence": "The plan was not elaborate, just simple and effective.",
+    "original_sentence": "Well, it really isn't anything elaborate, she continued.",
+    "marked": false
+  },
+  "roll around": {
+    "explanation_en": "to happen at a regular time",
+    "explanation_zh": "（时间）到来",
+    "type": "phrase",
+    "example_sentence": "I feel nervous every time exam week rolls around.",
+    "original_sentence": "It's just a plan to help me do a better job as each week rolls around.",
+    "marked": false
+  },
+  "jot down": {
+    "explanation_en": "to write something quickly",
+    "explanation_zh": "匆匆记下",
+    "type": "phrase",
+    "example_sentence": "I jotted down his phone number on a napkin.",
+    "original_sentence": "All during the week I make notes and jot down ideas as to how I can improve my business.",
+    "marked": false
+  },
+  "set aside": {
+    "explanation_en": "to save time or money for a specific purpose",
+    "explanation_zh": "留出（时间或金钱）",
+    "type": "phrase",
+    "example_sentence": "I set aside an hour every day to read.",
+    "original_sentence": "Then, every Monday evening, I set aside four hours to review the ideas I've jotted down and figure out how to put the solid ones to use in the business.",
+    "marked": false
+  },
+  "take a hard look at": {
+    "explanation_en": "to examine something very carefully and critically",
+    "explanation_zh": "认真审视",
+    "type": "phrase",
+    "example_sentence": "We need to take a hard look at our spending habits.",
+    "original_sentence": "In this four-hour period, I force myself to take a hard look at my operation.",
+    "marked": false
+  },
+  "go on": {
+    "explanation_en": "to continue doing something or speaking",
+    "explanation_zh": "继续",
+    "type": "phrase",
+    "example_sentence": "Please go on with your story.",
+    "original_sentence": "She went on describing numerous little innovations that made her first three stores so successful.",
+    "marked": false
+  },
+  "devise": {
+    "explanation_en": "to invent a plan, system, or object",
+    "explanation_zh": "设计，发明",
+    "type": "word",
+    "emoji": "💡",
+    "example_sentence": "They devised a new way to save energy.",
+    "original_sentence": "The credit plan she devised when many of her customers were out of work because of a strike.",
+    "marked": false
+  },
+  "boost": {
+    "explanation_en": "to improve or increase something",
+    "explanation_zh": "提高，促进",
+    "type": "word",
+    "emoji": "📈",
+    "example_sentence": "Drinking water can boost your energy levels.",
+    "original_sentence": "The contest she developed that boosted sales during a slack season.",
+    "marked": false
+  },
+  "slack": {
+    "explanation_en": "a period when there is not much activity or business",
+    "explanation_zh": "萧条的，不忙的",
+    "type": "word",
+    "emoji": "💤",
+    "example_sentence": "Sales are usually slack during the winter months.",
+    "original_sentence": "The contest she developed that boosted sales during a slack season.",
+    "marked": false
+  },
+  "cite": {
+    "explanation_en": "to mention something as an example",
+    "explanation_zh": "引用，举例",
+    "type": "word",
+    "emoji": "📖",
+    "example_sentence": "Can you cite any evidence for your claim?",
+    "original_sentence": "Let me cite just one case.",
+    "marked": false
+  },
+  "occur to": {
+    "explanation_en": "to come into one's mind",
+    "explanation_zh": "突然想到",
+    "type": "phrase",
+    "example_sentence": "It didn't occur to me to lock the door.",
+    "original_sentence": "Four weeks ago, it occurred to me that I should do something to get more youngsters into the store.",
+    "marked": false
+  },
+  "reason": {
+    "explanation_en": "to think in a logical way",
+    "explanation_zh": "推论，思考",
+    "type": "word",
+    "emoji": "🧠",
+    "example_sentence": "She reasoned that if she left early, she would avoid traffic.",
+    "original_sentence": "I reasoned if I had something here to draw the kids to the store,",
+    "marked": false
+  },
+  "bracket": {
+    "explanation_en": "a group or category",
+    "explanation_zh": "组别，范围",
+    "type": "word",
+    "emoji": "📊",
+    "example_sentence": "They fall into the high-income tax bracket.",
+    "original_sentence": "Put in a line of small carted toys for children in the four to eight age bracket.",
+    "marked": false
+  },
+  "conscientiously": {
+    "explanation_en": "in a careful and thorough way",
+    "explanation_zh": "认真地，尽责地",
+    "type": "word",
+    "emoji": "✅",
+    "example_sentence": "She conscientiously finished all her tasks before leaving.",
+    "original_sentence": "Just by conscientiously asking myself, how can I do a better job, I find the answers.",
+    "marked": false
+  },
+  "come up with": {
+    "explanation_en": "to suggest or think of an idea or plan",
+    "explanation_zh": "想出",
+    "type": "phrase",
+    "example_sentence": "She came up with a great solution to the problem.",
+    "original_sentence": "It's a rare Monday night that I don't come up with some plan or technique that makes that profit and loss statement look better.",
+    "marked": false
+  },
+  "count": {
+    "explanation_en": "to be important or valuable",
+    "explanation_zh": "重要，有价值",
+    "type": "word",
+    "emoji": "⚖️",
+    "example_sentence": "In the end, it's your effort that counts.",
+    "original_sentence": "it's what you learn and put to use after you open your doors that counts most.",
+    "marked": false
+  }
+}

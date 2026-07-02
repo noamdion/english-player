@@ -1,0 +1,102 @@
+{
+  "saleable": {
+    "explanation_en": "easy to sell; attractive to customers",
+    "explanation_zh": "畅销的，适于销售的",
+    "type": "word",
+    "emoji": "💰🛍️",
+    "example_sentence": "We need to make our new design more saleable to younger customers.",
+    "original_sentence": "Listening to people provides definite ideas for making the product more saleable.",
+    "marked": false
+  },
+  "manufacturer": {
+    "explanation_en": "a person or company that makes goods for sale",
+    "explanation_zh": "制造商",
+    "type": "word",
+    "emoji": "🏭⚙️",
+    "example_sentence": "The car manufacturer is releasing a new electric model next year.",
+    "original_sentence": "It also suggests to the manufacturer what he should tell consumers about the product in his advertising.",
+    "marked": false
+  },
+  "see things through someone's eyes": {
+    "explanation_en": "to understand a situation from another person's perspective",
+    "explanation_zh": "从某人的角度看问题",
+    "type": "phrase",
+    "example_sentence": "To be a good teacher, you must try to see things through your students' eyes.",
+    "original_sentence": "To sell John Brown what John Brown buys, you've got to see things through John Brown's eyes.",
+    "marked": false
+  },
+  "raw materials": {
+    "explanation_en": "basic substances or information used to create something new",
+    "explanation_zh": "原材料；原始素材",
+    "type": "phrase",
+    "example_sentence": "These interviews provided the raw materials for his new book.",
+    "original_sentence": "They feed your mind raw materials that can be converted into creative power.",
+    "marked": false
+  },
+  "draw out": {
+    "explanation_en": "to encourage someone to talk or express their feelings",
+    "explanation_zh": "引导（某人）说话",
+    "type": "phrase",
+    "example_sentence": "The interviewer tried to draw out the shy candidate by asking about his hobbies.",
+    "original_sentence": "In personal conversation or in group meetings, draw out people with little urges.",
+    "marked": false
+  },
+  "soak up": {
+    "explanation_en": "to absorb or learn information easily",
+    "explanation_zh": "吸收（知识、信息等）",
+    "type": "phrase",
+    "example_sentence": "Children soak up new languages much faster than adults.",
+    "original_sentence": "Your mind soaks up raw material that you can use to produce creative thought, and you win friends.",
+    "marked": false
+  },
+  "smooth and polish": {
+    "explanation_en": "to improve something by making small changes or refinements",
+    "explanation_zh": "润色；完善",
+    "type": "phrase",
+    "example_sentence": "We spent the afternoon smoothing and polishing our presentation before the meeting.",
+    "original_sentence": "Let other people help you smooth and polish your ideas.",
+    "marked": false
+  },
+  "dogmatic": {
+    "explanation_en": "being very certain that your opinions are right and others are wrong",
+    "explanation_zh": "武断的；教条的",
+    "type": "word",
+    "emoji": "🙅‍♂️🚫",
+    "example_sentence": "It is difficult to have a discussion with him because he is so dogmatic about his political views.",
+    "original_sentence": "Don't be dogmatic.",
+    "marked": false
+  },
+  "chances are": {
+    "explanation_en": "it is likely that",
+    "explanation_zh": "很有可能",
+    "type": "phrase",
+    "example_sentence": "Chances are you will be tired after the long flight.",
+    "original_sentence": "If you do, chances are you'll end up with a better idea.",
+    "marked": false
+  },
+  "end up with": {
+    "explanation_en": "to finally have or reach a particular result",
+    "explanation_zh": "最终得到",
+    "type": "phrase",
+    "example_sentence": "If you don't plan your project, you might end up with a poor result.",
+    "original_sentence": "If you do, chances are you'll end up with a better idea.",
+    "marked": false
+  },
+  "penetrate": {
+    "explanation_en": "to go into or pass through something; to fully understand",
+    "explanation_zh": "进入；渗入；深刻理解",
+    "type": "word",
+    "emoji": "🧠💡",
+    "example_sentence": "It took a while for the news to penetrate his mind.",
+    "original_sentence": "Listening means letting what's said penetrate your mind.",
+    "marked": false
+  },
+  "take over": {
+    "explanation_en": "to take control or start doing something that someone else was doing",
+    "explanation_zh": "接管；接手",
+    "type": "phrase",
+    "example_sentence": "She waited for him to stop talking so she could take over the conversation.",
+    "original_sentence": "They're just waiting for the other person to pause so they can take over with the talking.",
+    "marked": false
+  }
+}

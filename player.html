@@ -110,7 +110,34 @@
         .progress-bar { flex: 1; height: 4px; background: #252535; border-radius: 2px; position: relative; min-width: 50px; }
         .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; width: 0%; }
         .loading { text-align: center; padding: 40px; color: var(--dim); font-size: 1em; }
+        /* 手机端适配 */
+        @media (max-width: 600px) {
+            body {
+                font-size: 18px;
+            }
+            .course-card {
+                padding: 12px 14px;
+            }
+            .sub-row {
+                padding: 10px 12px;
+            }
+            .controls button {
+                font-size: 1.3em;
+                padding: 8px 10px;
+            }
+            .controls select {
+                font-size: 0.9em;
+                padding: 6px 8px;
+            }
+            .note-original {
+                font-size: 1.2em;
+            }
+            .note-content {
+                font-size: 1em;
+            }
+        }
     </style>
+    
 </head>
 <body>
 
@@ -410,6 +437,7 @@ audio.addEventListener('timeupdate', () => {
     if (found >= 0 && found !== currentIdx) {
         if (!enabled[found]) { const next = findNextEnabled(found); if (next >= 0) { audio.currentTime = subs[next].start; currentIdx = next; sentenceLoopRemaining = sentenceLoopCount; } }
         else { currentIdx = found; sentenceLoopRemaining = sentenceLoopCount; }
+        notesIdx = currentIdx; 
         renderSubtitleList();
     }
     if (currentIdx >= 0 && t >= subs[currentIdx].end - 0.1) {

@@ -16,6 +16,7 @@
             font-family: 'Segoe UI', system-ui, sans-serif;
             height: 100dvh; display: flex; flex-direction: column;
             user-select: none; -webkit-user-select: none;
+            font-size: 18px;   /* ← 加上这行，电脑端整体放大 */
         }
         .course-list {
             flex: 1; overflow-y: auto; padding: 20px 16px;
@@ -69,7 +70,7 @@
         .sub-row.selected { outline: 1px solid var(--accent); outline-offset: -1px; }
         .sub-row .check { font-size: 1.1em; margin-right: 10px; flex-shrink: 0; width: 22px; text-align: center; }
         .sub-row .idx { color: var(--dim); font-size: 0.7em; margin-right: 6px; flex-shrink: 0; width: 20px; text-align: right; }
-        .sub-row .text { flex: 1; line-height: 1.4; font-size: 0.9em; }
+        .sub-row .text { flex: 1; line-height: 1.4; font-size: 1.1em; }
         .notes-panel {
             background: var(--panel); border-top: 2px solid #252535;
             padding: 10px 16px; flex-shrink: 0;
@@ -90,7 +91,7 @@
             text-transform: uppercase; letter-spacing: 0.5px;
             cursor: pointer; padding: 2px 0; user-select: none;
         }
-        .note-content { font-size: 0.85em; line-height: 1.4; }
+        .note-content { font-size: 1em; line-height: 1.4; }
         .note-content.hidden { display: none; }
         .note-separator {
             border: none; border-top: 1px solid #252535; margin: 4px 0;
@@ -105,10 +106,10 @@
         .controls button:active { color: #fff; }
         .controls select {
             background: #1e1e2e; color: #999; border: 1px solid #333;
-            border-radius: 4px; padding: 4px 4px; font-size: 0.75em; min-width: 46px;
+            border-radius: 4px; padding: 4px 4px; font-size: 0.9em; min-width: 46px;
         }
         .loop-label {
-            font-size: 0.65em; color: var(--dim); margin-left: 4px;
+            font-size: 0.8em; color: var(--dim); margin-left: 4px;
         }
         .progress-bar { flex: 1; height: 4px; background: #252535; border-radius: 2px; position: relative; min-width: 50px; }
         .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; width: 0%; }

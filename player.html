@@ -200,6 +200,7 @@
             <option value="1">1.0x</option>
             <option value="1.1">1.1x</option>
             <option value="1.2">1.2x</option>
+            <option value="1.8">1.8x</option>
         </select>
         <span class="loop-label">Sentence</span>
         <select id="selSentenceLoop">
@@ -261,7 +262,9 @@ function restoreSettings() {
     if (savedSpeed) {
         selSpeed.value = savedSpeed;
         audio.playbackRate = parseFloat(savedSpeed);
+        
     }
+
 
     const savedSentenceLoop = localStorage.getItem('player_sentence_loop');
     if (savedSentenceLoop) {
@@ -276,6 +279,8 @@ function restoreSettings() {
         trackLoopCount = parseInt(savedTrackLoop);
         trackLoopRemaining = trackLoopCount;
     }
+    // 再加一行：强制确保速度正确
+    audio.playbackRate = parseFloat(selSpeed.value);
 }
 
 function parseSRT(text) {
@@ -367,6 +372,11 @@ async function openCourse(course) {
 
     // 设置音频源
     audio.src = audioUrl;
+    // 强制应用保存的速度
+    const savedSpeed = localStorage.getItem('player_speed');
+    if (savedSpeed) {
+        audio.playbackRate = parseFloat(savedSpeed);
+    }
 
     // 加载字幕
     let srtText = '';
@@ -416,7 +426,7 @@ function renderSubtitleList() {
         const row = document.createElement('div');
         row.className = 'sub-row' + (i === currentIdx ? ' current' : '') + (i === notesIdx ? ' selected' : '');
         const chk = document.createElement('span'); chk.className = 'check';
-        chk.textContent = enabled[i] ? '✓' : ''; chk.style.color = 'var(--text)';  
+        chk.textContent = enabled[i] ? '✓' : '○'; chk.style.color = enabled[i] ? 'var(--text)' : 'var(--dim)';
         chk.addEventListener('click', (e) => { e.stopPropagation(); enabled[i] = !enabled[i]; saveEnabled(); renderSubtitleList(); });
         const idxSpan = document.createElement('span'); idxSpan.className = 'idx'; idxSpan.textContent = i + 1;
         const textSpan = document.createElement('span'); textSpan.className = 'text'; textSpan.textContent = s.original;
